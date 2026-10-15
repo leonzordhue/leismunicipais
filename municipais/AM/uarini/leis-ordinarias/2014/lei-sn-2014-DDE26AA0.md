@@ -1,0 +1,324 @@
+---
+titulo: "LEI 079/2013-PMU"
+uf: "AM"
+municipio: "Uarini"
+tipo: "Lei Ordinária"
+numero: ""
+ano: "2014"
+ementa: "LEI Nº 079 DE 29 DE AGOSTO DE 2013."
+entidade: "Município de Uarini"
+orgao: "COMISSÃO DE LICITAÇÃO"
+publicacao: "DOM-AAM ed. 1210"
+data_publicacao: 2014-10-22
+fonte: "https://www.diariomunicipal.com.br/aam/materia/DDE26AA0"
+codigo_sigpub: "DDE26AA0"
+versao_texto: "original (publicação no DOM-AAM)"
+baixado_em: 2026-10-15
+---
+# LEI 079/2013-PMU
+
+COMISSÃO DE LICITAÇÃO
+
+LEI 079/2013-PMU
+
+**LEI Nº 079 DE 29 DE AGOSTO DE 2013.**
+
+_Dispõe sobre as diretrizes gerais para a elaboração da Lei Orçamentária de 2014 (ano de referência de 2013) e das outras providencias._
+
+CARLOS GONÇAVES DE SOUSA NETO, PREFEITO MUNICIPAL DE UARINI.
+
+FAÇO SABER, em cumprimento ao disposto no inc. VI do art. 34 da Lei Orgânica do Município, que a Câmara Municipal aprovou e eu sanciono a seguinte Lei:
+
+**CAPÍTULO I**
+
+**DAS DISPOSIÇÕES PRELIMINARES**
+
+Art. 1º - Observar-se-ão, quando da elaboração da Lei, de meios a viger a partir de 1º de janeiro de 2014 e para todo o exercício financeiro, as Diretrizes orçamentarias estatuídas na presente Lei, por mandamento do § 2º do Art. 165 da Constituição da República, bem assim da Lei Orgânica do Município, em combinação com a Lei Complementar nº 101/2000, que estabelece normas de finanças públicas voltadas para responsabilidade na gestão fiscal, compreendendo:
+
+I – Orientação a elaboração da Lei Orçamentária;
+
+II – Diretrizes das Receitas; e
+
+III – Diretrizes das Despesas.
+
+§. 1º - Fazem parte integrante desta Lei os seguintes documentos, subdivididos em Anexos:
+
+I - ANEXO I, DE METAS FISCAIS:
+
+a) Demonstrativo I – Metas Anuais 2014;
+
+b) Demonstrativo III – Metas Fiscais Atuais Comparadas com as Fixadas nos Três Exercícios Anteriores 2014;
+
+II - ANEXO II – METODOLOGIA E MEMORIA DE CALCULO DAS METAS ANUAIS:
+
+a) I - Receitas;
+
+III- ANEXO III – METODOLOGIA E MEMORIA DE CALCULO DAS METAS ANUAIS:
+
+a) II – Despesas;
+
+IV - ANEXO IV – METODOLOGIA E MEMORIA DE CALCULO DAS METAS ANUAIS:
+
+a) III Resultado Primário;
+
+b) IV – Resultado Normal;
+
+c) V – Montante da Dívida Pública.
+
+§ 2º - As estimativas das receitas e das despesas do Município, sua Administração Direta, obedecerão aos ditames contidos nas Constituições da Republica, do Estado do Amazonas, na lei complementar nº 101/2000, na Lei Orgânica do Município, na Lei Federal nº 4.320/94 e alterações posteriores, inclusive as normatizações emanadas do Egrégio Tribunal de Contas do Estado e, ainda, aos princípios contábeis geralmente aceitos.
+
+Seção I
+
+DA ORIENTAÇÃO A ELABORAÇÃO DA LEI ORÇAMENTÁRIA
+
+Art. 2º - A elaboração da proposta orçamentária para o exercício de 2014 abrangera os poderes Legislativo e Executivo, suas autarquias, fundações, fundos e entidades da administração direta e indireta, assim como a execuções orçamentárias contidas no Plano Plurianual de Investimento e as diretrizes estabelecidas na presente lei, de modo a evidenciar as políticas e programas de governo, formulados e avaliados segundo suas prioridades.
+
+Parágrafo Único – É vedada, na Lei Orçamentária, a existência de dispositivos estranhos a previsão da Receita e a fixação da Despesa, salvo se relativos a autorização para abertura de Créditos Suplementares e Contratação de Operações de Credito, ainda que por antecipação de receita.
+
+Art. 3º - A proposta orçamentária para o exercício de 2014 conterá as prioridades da Administração Municipal, que deverá obedecer aos princípios da universalidade, da unidade e da anuidade, bem como identificar o Programa de Trabalho a ser desenvolvido pela Administração.
+
+Parágrafo único – O programa de trabalho a que se refere o presente artigo, deverá ser identificado, no mínimo, ao nível de função e subfunção, na natureza da despesa, projeto atividade e elemento a que deverá acorrer na realização de sua execução, nos termos da alínea “C” , do inciso II, do art., 52, da Lei Complementar nº 101/2000, bem assim do Plano de Classificação Funcional Programático, conforme dispõe a Lei 4320/64.
+
+Art. 4º - A proposta parcial das necessidades da Câmara Municipal será encaminhada ao Executivo, tempestivamente, a fim de ser compatibilizada no orçamento geral do município.
+
+Art. 5º - A proposta Orçamentária para o exercício de 2014 compreenderá:
+
+I – Demonstrativos e anexos a que se refere o art.3 da presente lei:
+
+II – Relação dos projetos e atividades, com detalhes de prioridades e respectivos valões orçados, de acordo com a capacidade econômica – financeira do Município.
+
+Art. 6º - A lei orçamentária Anual autorizará o poder Executivo, nos termos do artigo 7º, da Lei Federal nº 4.320, de março de 1964, a abrir créditos adicionais, de natureza suplementar, até o limite de 80% do valor total da despesa fixada na própria Lei, utilizando, como recursos, a anulação de dotações do próprio orçamento, bem assim excesso de arrecadação do exercício, realizado e projetado, como também o superávit financeiro, se houver, do exercício anterior.
+
+Art. 7º - O município aplicará 25%(vinte e cinco por cento), no mínimo, da receita resultante de impostos, compreendida a proveniente de transferências, na manutenção e desenvolvimento do ensino.
+
+Art.8º - O município contribuirá com 20%(vinte por cento, das transferências provenientes do FPM, ICMS,IPI/Exp. ITR e do IPVA, para formação do Fundo Nacional de Desenvolvimento da Educação Básica – FUNDB, com aplicação, no mínimo, de 60%(sessenta por cento) para remuneração dos profissionais do Magistério, em efetivo exercício de suas atividades no ensino fundamental e pré-escolar público e, no máximo 40%(quarenta por cento) para outras despesas.
+
+Art. 9º - O Município aplicará no mínimo 15%(quinze por cento) do total da Receita Corrente Liquida na área da saúde, em conformidade com ADCT 77 da CF.
+
+Art. 10º - É vedada a aplicação da Receita de Capital derivada da alienação de bens do patrimônio público, na realização de despesas correntes.
+
+Art. 11º - Os ordenadores de despesas inclusive os Presidentes da Câmara Municipal poderá abrir créditos adicionais, suplementares e especiais, com recursos provenientes de anulação nos termos dos artigos 42 e 43 da Lei nº 4.320/64, desde que tanto a dotação suplementar, quanto a anulada integram a sua função de governo.
+
+Parágrafo Único – O Presidente da Câmara Municipal deverá comunicar ao Chefe do Poder Executivo, as eventuais alterações do seu orçamento para que se proceda aos necessários ajustes no orçamento geral.
+
+SEÇÃO II
+
+DAS DIRETRIZES DA RECEITA
+
+Art. 12º - São receitas do Município:
+
+I – os tributos de sua competência;
+
+II – a quota de participação nos Tributos arrecadados pela União e pelo Estado do Amazonas;
+
+III – o produto da arrecadação do imposto sobre a Renda e Proventos de Qualquer Natureza, incidente na fonte, sobre rendimentos, a qualquer título, pagos pelo Município, sua autarquia e fundações;
+
+IV – as multas decorrentes de infração de transito, cometidas nas vias urbanas e nas estradas municipais;
+
+V – as arrecadações de seus próprios serviços;
+
+VI – o resultado de aplicação financeiras disponíveis no mercado de capitais;
+
+VII – as rendas decorrentes de seu patrimônio;
+
+VIII – a contribuição previdenciária de seus servidores; e
+
+IX – outras.
+
+Art.13º - Considerar-se-á, quando a estimativa das Receitas:
+
+I – os fatores conjunturais que possam vir a influir os resultados dos ingressos em cada fonte;
+
+II – as metas estabelecidas pelo Governo Federal para o controle da economia com reflexos no exercício de 2014 e em exercícios anteriores;
+
+III – o incremento do aparelho arrecadador municipal, Estadual e Federal que tenha reflexos no crescimento real da arrecadação;
+
+IV – os resultados das políticas de fomentos, incrementos e apoio ao desenvolvimento Industrial, Agropecuária e Produção do Município, incluindo os Programas, Públicos e Privados, de formação e qualificação de mão-de-obra;
+
+V – as isenções concedidas, observadas as normas de finanças públicas voltadas para a responsabilidade na gestão fiscal, nos termos da Lei Complementar nº 101/2000, de 4/05/2000, publicada no diário Oficial da União em 04/05/2000;
+
+VI – evolução da massa salarial paga pelo Município, no que tange o Orçamento da Previdência;
+
+VII - a inflação estimada, cientificamente, previsível para o exercício de 2015;
+
+VIII – outras.
+
+Art. 14º - Na elaboração da Proposta Orçamentária, as previsões de receita observarão as normas técnicas legais, prevista no art. 12 da Lei Complementar nº 101/2000, de 04/05/2000.
+
+Parágrafo Único – A Lei orçamentária:
+
+I – Conterá reservas de contingencia destinado ao:
+
+a) Reforço de dotação orçamentária que se revelarem insuficiente no decorrer do exercício de 2014, nos limites e formas legalmente estabelecidas.
+
+b) Atendimento de passivos contingentes e outros riscos e eventos fiscais imprevistos.
+
+II – Autorizam a realização de operação de credito por antecipação da receita até o limite de 25%(vinte e cinco por cento) do total da receita prevista, subtraindo-se deste montante o valor das operações de créditos classificados como receita.
+
+Art. 15º - A receita deverá estimar a arrecadação de todos os tributos de competência municipal, assim como os definidos na Constituição Federal.
+
+Art. 16º - Na proposta orçamentária a forma de apresentação da receita deverá obedecer a classificação estabelecida na Lei nº 4.320/64.
+
+Art. 17º - O orçamento municipal deverá consignar como receitas orçamentárias todos os recursos financeiros recebidos pelo Município, inclusive os provenientes de transferências que lhe venham a ser feitas por outras pessoas de direitos públicos ou privados, que sejam relativos a convenio, contratos, acordos, auxílios, subvenções ou doações, excluídas apenas aquelas de natureza extraordinárias, cujo produto não tenha destinação a atendimento de despesas públicas municipais.
+
+Art. 18º - Na estimativa das receitas serão considerados os efeitos das modificações na legislação tributária que serão objetos de leis a serem enviados a Câmara Municipal, no prazo legal e constitucional.
+
+Parágrafo Único – Os Projetos de lei que promoverem alterações na legislação tributária observarão:
+
+I – revisão e adequação da Planta Genérica de Valores dos Imóveis Urbanos;
+
+II – revisão das alíquotas do imposto Predial e Territorial Urbano, sem ultrapassar os limites máximos já fixados em lei, respeitados a capacidade econômica do contribuinte e a função social da propriedade;
+
+III – revisão e majoração das alíquotas do Imposto sobre Serviços de Qualquer natureza;
+
+IV – revisão das taxas, objetivando sua adequação aos custos dos serviços prestados;
+
+V – instituição e regulamentação da contribuição de melhorias sobre obras públicas.
+
+SEÇÃO III
+
+DAS DIRETRIZES DAS DESPESAS
+
+Art.19º - Constituem despesas obrigatórias do Município:
+
+I – as relativas a aquisição de bens e serviços para o cumprimento de seus objetivos;
+
+II – as destinadas ao custeio de Projetos e Programas de Governo;
+
+III – as decorrentes da manutenção e modernização da Máquina Administrativa;
+
+IV – as decorrentes de concessão de vantagens e/ou aumento de remuneração, a criação de cargo ou alteração de estrutura de carreira, bem como admissão de pessoal, pelos poderes do Município, que, por força desta lei, ficam previa e especialmente autorizados, ressalvados as empresas Públicas e as Sociedades de Economia Mista;
+
+VII – o serviço da Dívida Pública fundada e flutuante;
+
+VIII – a quitação dos Precatórios Judiciais e outros requisitos;
+
+IX – a contra partida previdenciária do Município;
+
+X – as relativas ao cumprimento de convênios;
+
+XI – os investimentos e inversões financeiras; e
+
+XII – outras.
+
+Art. 20º - Considerar-se-á, quando da estimativa das despesas:
+
+I – os reflexos da Política Econômica do Governo Federal
+
+II – as necessidades relativas a implantação e manutenção dos Projetos e Programas de Governo;
+
+III – as necessidades relativas à manutenção e implantação dos serviços Públicos Municipais, inclusive Máquina Administrativa;
+
+IV – a evolução do quadro de pessoal dos serviços públicos;
+
+V – os custos relativos ao serviço da Dívida Pública, no exercício corrente;
+
+VI – as projeções para as despesas mencionadas no artigo anterior, com observância das metas e objetos constantes desta Lei; e
+
+VII – outros.
+
+Art. 21º - As despesas com pessoal e encargo sociais, ou concessão de qualquer vantagem ou aumento de remuneração, a criação de cargos, emprego e função ou alterações de estrutura de carreira, bem como a admissão ou contratação de pessoal, a qualquer título, só poderá ter aumento real em relação ao crescimento efetivo das receitas correntes, desde que respeitem o limite estabelecido no art. 71 da Lei Complementar nº 101/2000, de 04/05/2000.
+
+Art. 22º - O total da despesa do Poder Legislativo Municipal, incluindo os subsídios dos Vereadores e incluídos os gastos com inativos, não poderá ultrapassar os seguintes percentuais, relativos ao somatório da receita tributária e das transferências previstas no § 5º do art.153 e nos art.158 e 159, efetivamente realizado no exercício anterior:
+
+I – 7%(sete por cento) para Municípios com população de até 100.000(cem mil) habitantes;
+
+II – 6%(seis por cento) para Município com população entre 100.0009cem mil) s 300.000(trezentos mil) habitantes;
+
+III – 5%(cinco por cento) para Município com população entre 300.001(trezentos e um mil) e 500.000(quinhentos mil) habitantes;
+
+IV – 4,5% (quatro inteiros e cinco décimos por cento) para municípios com população entre 500.001(quinhentos mil e um) habitantes;
+
+V – 4%(quatro por cento) para Municípios com população entre 3.000.001(três milhões e um) e 8.000.000(oito milhões) de habitantes;
+
+VI – 3,5%(três inteiros e cinco décimos por cento) para Municípios com população acima de 8.000.001(oito milhões e um) habitantes;
+
+Art.23º - Os gastos com pessoal do poder legislativo devem obedecer ao fixado na Constituição Federal nos artigos 29 e 29ª bem como, a Lei Complementar 101/2000 e da Legislação municipal não podendo ultrapassar os seguintes índices:
+
+I – O total da despesa com a remuneração dos Vereadores não poderá ultrapassar o montante de 5%(cinco por cento) da receita do Município;
+
+II – A Câmara Municipal não poderá gastar mais de 70%(setenta por cento) de sua receita com folha de pagamento, incluídos os gastos com subsidio de seus vereadores;
+
+III – o subsidio máximo dos Vereadores obedecerá ao disposto na Constituição Federal;
+
+IV – O Poder Legislativo e suas autarquias não poderão gastar com pessoal mais de 6%(seis por cento) da receita liquida em cada período de apuração.
+
+Art.24º - Os recursos correspondentes as dotações orçamentárias destinadas ao Poder Legislativo, serão repassadas pelo Poder Executivo na conformidade com a legislação em vigor em especial o inciso I a IV do artigo 29ª da Constituição Federal (Emenda Constitucional nº 25, de 14/02/2000), combinado com art.5º da resolução 019/2012-TCE.
+
+Art. 25º - As despesas com pagamentos de precatórios judiciais correrão a conta de dotações consignadas com esta finalidade em operação especiais e especificas que constarem das unidades orçamentarias responsáveis pelos débitos.
+
+Art.26º - Os projetos em fases de execução desde que revalidados a luz das prioridades estabelecidas nesta lei, terão preferências sobre os novos projetos.
+
+Art. 27º - A Lei Orçamentária poderá consignar recursos para financiar serviços de suas responsabilidades a serem executados por entidades de direito privado, mediante convenio e contratos, desde que sejam da conveniência do governo municipal e tenham demonstrado padrão de eficiência no cumprimento dos objetivos determinados.
+
+Art.28º - O Município deverá investir prioritariamente em projetos e atividades voltadas a infância, adolescência, idosos, mulheres gestante, buscando o atendimento universal a saúde, assistência social e educação, visando à melhoria da qualidade de serviços.
+
+Art.29º - É vedada a inclusão na Lei Orçamentária, bem como as suas alterações, de quaisquer do município para clubes, associações e quaisquer outras atividades congêneres, excetuadas creches, escolas para atendimento de atividade de pré-escolar, centro de convivência de idosos, centros comunitários, unidades de apoio a gestantes, unidade de apoio a toxicômanos e outras entidades com finalidades de atendimento as ações de assistência social por meio de convênios.
+
+Art.30º - Os ordenadores de despesas poderão firmar convênios com outras esferas governamentais e não governamentais, para desenvolver programas nas áreas de educação, cultura saúde, habitação, abastecimento meio ambiente, assistência social, obras e saneamento básico
+
+Art.31º - A LEI Orçamentária Anual autorizará a realização de programas de apoio e incentivo as entidades estudantis, destacadamente no que se refere a educação, cultura, turismo, meio ambiente desporto e lazer e atividades afins, bem como para a realização de convênios, contratos, pesquisas, bolsas de estudos e estágios com escolas técnicas profissionais e universidades.
+
+Art.32º - A concessão de auxílios e subvenções dependerá de autorização legislativa através de lei especial.
+
+Art.33º - Os recursos somente poderão ser programados para atender despesas de capital, exceto amortizações de dívidas por operações de credito, após deduzir os recursos destinados a atender gastos com pessoas e encargos sociais, com serviços da dívida e com outras despesas de custeio administrativos e operacionais.
+
+CAPITULO II
+
+DAS DISPOSIÇÕES GERAIS
+
+Art.34º - A Secretaria de Administração e Finanças fará publicar junto a Lei Orçamentária Anual, o quadro de detalhamento da despesa por projeto, atividade, elemento de despesa e seu desdobramento e respectivos valores.
+
+Parágrafo Único – caso o projeto de Lei Orçamentária- LOA e a Lei de Diretrizes Orçamentárias-LDO não sejam votados até 31 de dezembro de 2014, serão considerados como aprovados sem ressalvas, podendo o Chefe do Poder Executivo sancioná-los com fundamento no presente artigo.
+
+Art.35º - O Projeto de Lei Orçamentária do município, para o exercício de 2015, será encaminhado à Câmara Municipal antes do encerramento do corrente exercício financeiro e devolvido para sanção até o encerramento da sessão legislativa.
+
+Art.36º - Fica autorizado os ordenadores de despesas inclusive os chefes do Executivo e Legislativo com base na Lei 10.028 no seu art.359-F, proceder no final de cada exercício financeiro, o cancelamento dos restos a pagar que não tenham disponibilidade financeiras suficientes para suas quitações.
+
+CAPITULO III
+
+DAS DISPOSIÇÕES FINAIS
+
+Art.37º - Não poderão ter aumento real em relação aos créditos correspondentes ao orçamento de 2014, ressalvados os casos autorizados em Lei própria, os seguintes gastos:
+
+I – de pessoal e respectivos encargos, que não poderão ultrapassar o limite de 54%(cinquenta e quatro por cento) da s receitas correntes liquidas, no âmbito do Poder Executivo nos temos da alínea “b”, do inciso III, do art.20, da Lei Complementar nº 101/2000.
+
+II – de pessoal e respectivo encargo, que não poderão ultrapassar o limite de 6%(seis por cento) das receitas correntes liquidas, no âmbito do Poder Legislativo, nos termos da alínea “a”, do inciso III, do artigo 20, da Lei Complementar nº 101/2000;
+
+III – pagamento do serviço da dívida; e
+
+IV – transferências diversas.
+
+Art.38º - Na fixação dos gastos de capital para criação, expansão ou aperfeiçoamento de3 serviços já criados e ampliados a serem atribuídos aos órgãos municipais, com exclusão da amortização de empréstimos, serão respeitados as prioridades e metas constantes desta Lei, bem como a manutenção e funcionamento de serviços já implantados.
+
+Art.39º - Com vista ao atingimento, em sua plenitude, das diretrizes, objetivadas e metas da Administração Municipal prevista nesta Lei, fica autorizado os Chefes do Poder Executivo, a adotar as providencias indispensáveis e necessárias a implantação das políticas aqui estabelecidas, podendo inclusive articular convênios, viabilizar recursos nas diversas esferas do Poder, inclusive contrair empréstimos observadas a capacidade de endividamento do Município, subscrever quotas de consórcios para efeito de aquisição de veículos e maquinas rodoviárias, bem como promover a atualização monetária do Orçamento de 2014, até o limite do índice acumulado da inflação no período que medir o mês de agosto de 2013 a agosto de 2014, se porventura se fizer necessários, observados os princípios Constitucionais e legais, especialmente o que dispuser a Lei Orgânica do Município, a Lei Federal nº 4.320, a lei que estabelece o Plano Plurianual e outras pertinentes a Matéria posta, bem como a promover, durante a execução orçamentária, a abertura de créditos suplementares, até o limite autorizado do vigente orçamento, visando atender os elementos de despesas com dotações insuficientes.
+
+Art.40º - Os Decretos de Alterações Suplementares no âmbito do Poder Legislativo poderão ser assinados pelo Presidente;
+
+Art.41º - Fica o Poder Executivo Municipal autorizado a abrir créditos adicionais suplementares até o limite de 40%(quarenta por cento) do Orçamento Inicial.
+
+Art. 41º - Esta Lei entrará em vigor a partir do dia 1º(primeiro) de janeiro de 2014, revogadas as disposições em contrário, para que surtam todos os seus Jurídicos efeitos e para que produza os resultados de mister para fins de Direitos.
+
+Uarini (AM), 29 de agosto de 2013
+
+**_
+
+CARLOS GONÇALVES DE SOUSA NETO
+
+_**
+
+Prefeito Municipal
+
+**_
+
+CARLOS ANDRÉ ALVES DA SILVA
+
+_**
+
+Secretário de Finanças
+
+**Publicado por:**
+
+Carlos Andre Alves da Silva
+
+**Código Identificador:**DDE26AA0

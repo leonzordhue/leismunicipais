@@ -1,0 +1,1386 @@
+---
+titulo: "LEI 487 - ANEXO 2 RECEITAS SEGUNDO AS CATEGORIAS ECONOMICAS (LOA)"
+uf: "AM"
+municipio: "Codajás"
+tipo: "Lei Ordinária"
+numero: ""
+ano: "2026"
+ementa: "LEI 487 - ANEXO 2 RECEITAS SEGUNDO AS CATEGORIAS ECONOMICAS (LOA)"
+entidade: "Município de Codajás"
+orgao: "GABINETE DO PREFEITO"
+publicacao: "DOM-AAM ed. 4035"
+data_publicacao: 2026-01-30
+fonte: "https://www.diariomunicipal.com.br/aam/materia/D18C1DA1"
+codigo_sigpub: "D18C1DA1"
+versao_texto: "original (publicação no DOM-AAM)"
+baixado_em: 2026-10-15
+---
+# LEI 487 - ANEXO 2 RECEITAS SEGUNDO AS CATEGORIAS ECONOMICAS (LOA)
+
+GABINETE DO PREFEITO
+
+LEI 487 - ANEXO 2 RECEITAS SEGUNDO AS CATEGORIAS ECONOMICAS (LOA)
+
+MUNICÍPIO DE CODAJAS
+
+Rua 05 De Setembro, 592 - CNPJ:04263331/0001-75
+
+Anexo 02
+
+Orçamento Programa - Exercício de 2026
+
+RECEITAS SEGUNDO AS CATEGORIAS ECONOMICAS
+
+Lei: , Data:
+
+Código
+
+Especificação
+
+F.R.
+
+Desdobramento
+
+SubCategoria
+
+Fonte
+
+Categoria
+
+Econômica
+
+1000.00.0.0
+
+RECEITAS CORRENTES.
+
+0.000.000
+
+134.792.300,00
+
+1100.00.0.0
+
+IMPOSTOS, TAXAS E CONTRIBUIÇÕES DE MELHORIA
+
+0.000.000
+
+3.606.000,00
+
+1110.00.0.0
+
+IMPOSTOS
+
+0.000.000
+
+3.587.300,00
+
+1112.00.0.0
+
+IMPOSTOS SOBRE O PATRIMÔNIO
+
+0.000.000
+
+53.600,00
+
+1112.50.0.0
+
+IMPOSTO SOBRE A PROPRIEDADE PREDIAL E
+
+0.000.000
+
+43.600,00
+
+TERRITORIAL URBANA
+
+1112.50.0.1
+
+IPTU - PRINCIPAL
+
+1.500.0000
+
+41.400,00
+
+1112.50.0.2
+
+IPTU - MULTAS E JUROS
+
+1.500.0000
+
+100,00
+
+1112.50.0.3
+
+IPTU - DIVIDA ATIVA
+
+1.500.0000
+
+2.000,00
+
+1112.50.0.4
+
+IPTU- DIVIDA ATIVA MULTAS JUROS
+
+1.500.0000
+
+100,00
+
+1112.53.0.0
+
+ITBI-"INTER VIVOS"
+
+0.000.000
+
+10.000,00
+
+1112.53.0.1
+
+ITBI-"INTER VIVOS"-PRINCIPAL
+
+1.500.0000
+
+10.000,00
+
+1113.00.0.0
+
+IMPOSTOS SOBRE A RENDA E PROVENTOS DE
+
+0.000.000
+
+2.565.000,00
+
+QUALQUER NATUREZA
+
+1113.03.0.0
+
+IMPOSTO SOBRE A RENDA - RETIDO NA FONTE
+
+0.000.000
+
+2.565.000,00
+
+1113.03.1.0
+
+IMPOSTO SOBRE A RENDA - RETIDO NA FONTE -
+
+0.000.000
+
+2.000.000,00
+
+TRABALHO
+
+1113.03.1.1
+
+IRRF-TRABALHO-PRINCIPAL
+
+1.500.0000
+
+2.000.000,00
+
+1113.03.4.0
+
+IRRF- OUTROS RENDIMENTOS
+
+0.000.000
+
+565.000,00
+
+1113.03.4.1
+
+IRRF- OUTROS RENDIMENTOS-PRINCIPAL
+
+1.500.0000
+
+565.000,00
+
+1114.00.0.0
+
+IMPOSTO PRODUÇÃO CIRCULAÇÃO MERCADORIAS
+
+0.000.000
+
+968.700,00
+
+SERVIÇOS
+
+1114.51.0.0
+
+IMPOSTOS SOBRE SERVIÇOS
+
+0.000.000
+
+968.700,00
+
+1114.51.1.0
+
+IMPOSTO SOBRE SERVIÇOS DE QUALQUER NATUREZA -
+
+0.000.000
+
+968.700,00
+
+ISSQN
+
+1114.51.1.1
+
+ISSQN - PRINCIPAL
+
+1.500.0000
+
+968.700,00
+
+1120.00.0.0
+
+TAXAS
+
+0.000.000
+
+18.700,00
+
+1121.00.0.0
+
+TAXAS PELO EXERCÍCIO DO PODER DE POLÍCIA
+
+0.000.000
+
+18.700,00
+
+1121.01.0.0
+
+TAXAS DE INSPEÇÃO, CONTROLE E FISCALIZAÇÃO
+
+0.000.000
+
+18.700,00
+
+1121.01.0.1
+
+TAXAS DE INSPEÇÃO, CONTROLE E FISCALIZAÇÃO -
+
+PRINCIPAL
+
+1.500.0000
+
+18.700,00
+
+1300.00.0.0
+
+RECEITA PATRIMONIAL
+
+0.000.000
+
+2.592.400,00
+
+1310.00.0.0
+
+EXPLORAÇÃO DO PATRIMÔNIO IMOBILIÁRIO DO ESTADO
+
+0.000.000
+
+65.000,00
+
+1311.00.0.0
+
+EXPLORAÇÃO DO PATRIMÔNIO IMOBILIÁRIO DO ESTADO
+
+0.000.000
+
+65.000,00
+
+1311.99.0.0
+
+OUTRAS RECEITAS IMOBILIÁRIAS
+
+0.000.000
+
+65.000,00
+
+1311.99.0.1
+
+OUTRAS RECEITAS IMOBILIÁRIAS - PRINCIPAL
+
+1.500.0000
+
+65.000,00
+
+1320.00.0.0
+
+VALORES MOBILIÁRIOS
+
+0.000.000
+
+2.527.400,00
+
+1321.00.0.0
+
+JUROS E CORREÇÕES MONETÁRIAS
+
+0.000.000
+
+2.514.300,00
+
+1321.01.0.0
+
+REMUNERAÇÃO DE DEPÓSITOS BANCÁRIOS
+
+0.000.000
+
+2.514.300,00
+
+1321.01.0.1
+
+REMUNERAÇÃO DE DEPÓSITOS BANCÁRIOS -
+
+PRINCIPAL
+
+1.500.0000
+
+308.300,00
+
+1321.01.0.1
+
+REMUNERAÇÃO DE DEPÓSITOS BANCÁRIOS -
+
+PRINCIPAL
+
+1.540.1070
+
+785.900,00
+
+1321.01.0.1
+
+REMUNERAÇÃO DE DEPÓSITOS BANCÁRIOS -
+
+PRINCIPAL
+
+1.550.0000
+
+155.800,00
+
+1321.01.0.1
+
+REMUNERAÇÃO DE DEPÓSITOS BANCÁRIOS -
+
+PRINCIPAL
+
+1.551.0000
+
+3.700,00
+
+1321.01.0.1
+
+REMUNERAÇÃO DE DEPÓSITOS BANCÁRIOS -
+
+PRINCIPAL
+
+1.552.0000
+
+18.400,00
+
+1321.01.0.1
+
+REMUNERAÇÃO DE DEPÓSITOS BANCÁRIOS -
+
+PRINCIPAL
+
+1.553.0000
+
+12.800,00
+
+1321.01.0.1
+
+REMUNERAÇÃO DE DEPÓSITOS BANCÁRIOS -
+
+PRINCIPAL
+
+1.600.0000
+
+814.000,00
+
+1321.01.0.1
+
+REMUNERAÇÃO DE DEPÓSITOS BANCÁRIOS -
+
+PRINCIPAL
+
+1.660.0000
+
+158.800,00
+
+1321.01.0.1
+
+REMUNERAÇÃO DE DEPÓSITOS BANCÁRIOS -
+
+PRINCIPAL
+
+1.704.0000
+
+165.000,00
+
+1321.01.0.1
+
+REMUNERAÇÃO DE DEPÓSITOS BANCÁRIOS -
+
+PRINCIPAL
+
+1.720.0000
+
+79.400,00
+
+1321.01.0.1
+
+REMUNERAÇÃO DE DEPÓSITOS BANCÁRIOS -
+
+PRINCIPAL
+
+1.750.0000
+
+12.200,00
+
+1322.00.0.0
+
+DIVIDENDOS
+
+0.000.000
+
+13.100,00
+
+1322.01.0.0
+
+DIVIDENDOS
+
+0.000.000
+
+13.100,00
+
+1322.01.0.1
+
+DIVIDENDOS - PRINCIPAL
+
+1.500.0000
+
+13.100,00
+
+1700.00.0.0
+
+TRANSFERÊNCIAS CORRENTES
+
+0.000.000
+
+128.593.900,00
+
+1710.00.0.0
+
+TRANSFERÊNCIAS DA UNIÃO E DE SUAS ENTIDADES
+
+0.000.000
+
+86.189.300,00
+
+1711.00.0.0
+
+TRANSFERÊNCIAS DECORRENTES DE PARTICIPAÇÃO
+
+NA RECEITA DA UNI
+
+0.000.000
+
+39.070.600,00
+
+1711.51.0.0
+
+COTA-PARTE DO FUNDO DE PARTICIPAÇÃO DOS
+
+MUNICÍPIOS - FPM
+
+0.000.000
+
+39.070.000,00
+
+1711.51.1.0
+
+COTA-PARTE DO FUNDO DE PARTICIPAÇÃO DOS
+
+MUNICÍPIOS - COTA ME
+
+0.000.000
+
+34.700.000,00
+
+1711.51.1.1
+
+COTA-PARTE DO FPM- COTA MENSAL - PRINCIPAL
+
+1.500.0000
+
+34.700.000,00
+
+Código
+
+Especificação
+
+F.R.
+
+Desdobramento
+
+SubCategoria
+
+Fonte
+
+Categoria
+
+Econômica
+
+1711.51.2.0
+
+COTA-PARTE DO FUNDO DE PARTICIPAÇÃO DOS
+
+MUNICÍPIOS - COTAS E
+
+0.000.000
+
+4.370.000,00
+
+1711.51.2.1
+
+COTA-PARTE DO FPM- COTAS EXTRAORDINARIAS -
+
+PRINCIPAL
+
+1.500.0000
+
+4.370.000,00
+
+1711.52.0.0
+
+COTA-PARTE DO IMPOSTO SOBRE A PROPRIEDADE
+
+TERRITORIAL RURAL
+
+0.000.000
+
+600,00
+
+1711.52.0.1
+
+COTA-PARTE DO IMP. PROPRIED.TERRIT.RURAL -
+
+PRINCIPAL
+
+1.500.0000
+
+600,00
+
+1712.00.0.0
+
+TRANSF.COMPENS.FINANC.EXPL.RECURSOS NATURAIS
+
+0.000.000
+
+7.982.100,00
+
+1712.52.0.0
+
+COTA-PARTE COMPENSAÇÃO FINANCEIRA PRODUÇÃO
+
+PETRÓLEO
+
+0.000.000
+
+7.982.100,00
+
+1712.52.3.0
+
+COTA-PARTE PART.ESPECIAL.-LEI Nº 9.478/97, ARTIGO
+
+50
+
+0.000.000
+
+7.266.000,00
+
+1712.52.3.1
+
+COTA-PARTE PART.ESP.LEI Nº
+
+9.478/97,ART.50-PRINCIPAL
+
+1.704.0000
+
+7.266.000,00
+
+1712.52.4.0
+
+COTA-PARTE DO FUNDO ESPECIAL DO PETRÓLEO –
+
+FEP
+
+0.000.000
+
+716.100,00
+
+1712.52.4.1
+
+COTA - PARTE FEP– PRINCIPAL
+
+1.720.0000
+
+716.100,00
+
+1713.00.0.0
+
+TRANSFERÊNCIAS RECURSOS SISTEMA ÚNICO SAÚDE
+
+– SUS
+
+0.000.000
+
+17.868.000,00
+
+1713.50.0.0
+
+TRANSF.SUS-FUNDO A FUNDO - BLOCO DE
+
+MANUTENÇÃO
+
+0.000.000
+
+17.868.000,00
+
+1713.50.1.0
+
+TRANSF.SUS-FUNDO A FUNDO - BLOCO DE
+
+MANUTENÇÃO
+
+0.000.000
+
+11.734.100,00
+
+1713.50.1.1
+
+TRANS.SUS-BLOCO MANUT.ATEN.PRIMÁRIA-PRINCIPAL
+
+1.600.0000
+
+1.099.700,00
+
+1713.50.1.1
+
+TRANS.SUS-BLOCO MANUT.ATEN.PRIMÁRIA-PRINCIPAL
+
+1.600.0000
+
+10.634.400,00
+
+1713.50.2.0
+
+TRANSF.SUS- BLOCO MANUTENÇÃO-ATENÇÃO
+
+ESPECIALIZADA
+
+0.000.000
+
+4.217.000,00
+
+1713.50.2.1
+
+TRANS.SUS-BLOCO MANUT.ATEN.ESPEC.-PRINCIPAL
+
+1.600.0000
+
+4.217.000,00
+
+1713.50.3.0
+
+TRANSF.SUS- BLOCO MANUTENÇÃO-VIGILÂNCIA EM
+
+SAÚDE
+
+0.000.000
+
+364.600,00
+
+1713.50.3.1
+
+TRANS.SUS-BLOCO MANUT-VIGILÂNCIA
+
+SAÚDE-PRINCIPAL
+
+1.600.0000
+
+42.200,00
+
+1713.50.3.1
+
+TRANS.SUS-BLOCO MANUT-VIGILÂNCIA
+
+SAÚDE-PRINCIPAL
+
+1.600.0000
+
+322.400,00
+
+1713.50.4.0
+
+TRANSF.SUS- BLOCO MANUTENÇÃO-ASSISTÊNCIA
+
+FARMACÊUTICA
+
+0.000.000
+
+196.400,00
+
+1713.50.4.1
+
+TRANS.SUS- BLOCO
+
+MANUT.-ASSIST.FARMAC.-PRINCIPAL
+
+1.600.0000
+
+196.400,00
+
+1713.50.5.0
+
+TRANSF.SUS- BLOCO MANUTENÇÃO- GESTÃO DO SUS
+
+0.000.000
+
+1.355.900,00
+
+1713.50.5.1
+
+TRANS.SUS- BLOCO MANUT.-GESTÃO SUS-PRINCIPAL
+
+1.605.3120
+
+1.355.900,00
+
+1714.00.0.0
+
+TRANSF.RECURSOS FUNDO NAC.DESENVOLVIMENTO
+
+EDUCAÇÃO-FNDE
+
+0.000.000
+
+3.040.000,00
+
+1714.50.0.0
+
+TRANSFERÊNCIAS DO SALÁRIO-EDUCAÇÃO
+
+0.000.000
+
+2.243.200,00
+
+1714.50.0.1
+
+TRANSF.SALÁRIO-EDUCAÇÃO– PRINCIPAL
+
+1.550.0000
+
+2.243.200,00
+
+1714.51.0.0
+
+TRANSFERÊNCIAS FNDE- PROGR.DINH.DIRETO NA
+
+0.000.000
+
+61.000,00
+
+ESCOLA - PDDE
+
+1714.51.0.1
+
+TRANSF.FNDE-PROGR.DINH.DIRETO
+
+ESCOLA-PDDE-PRINCIPAL
+
+1.551.0000
+
+61.000,00
+
+1714.52.0.0
+
+TRANSF.PROGRAMA NACIONAL ALIMENTAÇÃO ESCOLA-
+
+PNAE
+
+0.000.000
+
+504.800,00
+
+1714.52.0.1
+
+TRANSF.PROGR.NAC. ALIMEN.ESCOLA-PNAE-PRINCIPAL
+
+1.552.0000
+
+504.800,00
+
+1714.53.0.0
+
+TRANSF.PROG.NACIONAL APOIOTRANSPORTE DO
+
+ESCOLAR – PNATE
+
+0.000.000
+
+231.000,00
+
+1714.53.0.1
+
+TRANSF.PROG.NAC.TRANSP.ESCOLAR-PNATE-PRINCIP
+
+AL
+
+1.553.0000
+
+231.000,00
+
+1715.00.0.0
+
+TRANSFERÊNCIAS COMPLEMENTAÇÃO DA UNIÃO
+
+-FUNDEB
+
+0.000.000
+
+17.673.000,00
+
+1715.50.0.0
+
+TRANSFERÊNCIAS COMPLEMENTAÇÃO UNIÃO
+
+FUNDEB-VAAT
+
+0.000.000
+
+10.214.000,00
+
+1715.50.0.1
+
+TRANSF.COMP.UNIÃO FUNDEB-VAAT-PRINCIPAL
+
+1.542.0000
+
+3.064.200,00
+
+1715.50.0.1
+
+TRANSF.COMP.UNIÃO FUNDEB-VAAT-PRINCIPAL
+
+1.542.1070
+
+7.149.800,00
+
+1715.51.0.0
+
+TRANSFERÊNCIAS COMPLEMENTAÇÃO UNIÃO
+
+0.000.000
+
+7.265.000,00
+
+FUNDEB-VAAF
+
+1715.51.0.1
+
+TRANSF.COMP.UNIÃO FUNDEB-VAAF-PRINCIPAL
+
+1.541.0000
+
+2.179.500,00
+
+1715.51.0.1
+
+TRANSF.COMP.UNIÃO FUNDEB-VAAF-PRINCIPAL
+
+1.541.1070
+
+5.085.500,00
+
+1715.52.0.0
+
+TRANSFERÊNCIAS COMPLEMENTAÇÃO UNIÃO
+
+0.000.000
+
+194.000,00
+
+FUNDEB-VAAR
+
+1715.52.0.1
+
+TRANSF.COMP.UNIÃO FUNDEB-VAAR-PRINCIPAL
+
+1.543.0000
+
+194.000,00
+
+1716.00.0.0
+
+TRANSF.RECURSOS FUNDO NACIONAL ASSISTÊNCIA
+
+0.000.000
+
+530.100,00
+
+SOCIAL-FNAS
+
+1716.50.0.0
+
+TRANSF.RECURSOS FUNDO NACIONAL ASSISTÊNCIA
+
+0.000.000
+
+530.100,00
+
+SOCIAL-FNAS
+
+1716.50.0.1
+
+TRANSF.RECUR.-FNAS-PRINCIPAL
+
+1.660.0000
+
+144.200,00
+
+1716.50.0.1
+
+TRANSF.RECUR.-FNAS-PRINCIPAL
+
+1.660.0000
+
+385.900,00
+
+1719.00.0.0
+
+OUTRAS TRANSFERÊNCIAS RECURSOS UNIÃO E DE
+
+0.000.000
+
+25.500,00
+
+SUAS ENTIDADES
+
+1719.99.0.0
+
+OUTRAS TRANSF.RECURSOS UNIÃO ENTIDADES
+
+0.000.000
+
+25.500,00
+
+Código
+
+Especificação
+
+F.R.
+
+Desdobramento
+
+SubCategoria
+
+Fonte
+
+Categoria
+
+Econômica
+
+1719.99.0.1
+
+OUTRAS TRANSF.RECUR.UNIÃO ENTID.-PRINCIPAL
+
+1.500.0000
+
+25.500,00
+
+1720.00.0.0
+
+TRANSFERÊNCIAS ESTADOS DISTRITO FEDERAL E DE
+
+0.000.000
+
+21.604.600,00
+
+SUAS ENTIDADES
+
+1721.00.0.0
+
+PARTICIPAÇÃO NA RECEITA DOS ESTADOS E DISTRITO
+
+0.000.000
+
+21.382.600,00
+
+FEDERAL
+
+1721.50.0.0
+
+COTA-PARTE DO ICMS
+
+0.000.000
+
+21.101.000,00
+
+1721.50.0.1
+
+COTA-PARTE DO ICMS – PRINCIPAL
+
+1.500.0000
+
+21.101.000,00
+
+1721.51.0.0
+
+COTA-PARTE DO IPVA
+
+0.000.000
+
+173.200,00
+
+1721.51.0.1
+
+COTA-PARTE DO IPVA – PRINCIPAL
+
+1.500.0000
+
+173.200,00
+
+1721.52.0.0
+
+COTA-PARTE DO IPI – MUNICÍPIOS
+
+0.000.000
+
+59.500,00
+
+1721.52.0.1
+
+COTA-PARTE DO IPI – MUNICÍPIOS – PRINCIPAL
+
+1.500.0000
+
+59.500,00
+
+1721.53.0.0
+
+COTA-PARTE CONTRIBUIÇÃO INTERVENÇÃO DOMÍNIO
+
+0.000.000
+
+48.900,00
+
+ECONÔMICO
+
+1721.53.0.1
+
+COTA-PARTE-CIDE-PRINCIPAL
+
+1.750.0000
+
+48.900,00
+
+1722.00.0.0
+
+TRANSF.COMPENS.FINANC.EXPL.RECURSOS NATURAIS
+
+0.000.000
+
+222.000,00
+
+1722.52.0.0
+
+COTA-PARTE
+
+0.000.000
+
+222.000,00
+
+ROYALTIES-COMPENS.FINANC.PRODUÇÃO PETRÓEO
+
+1722.52.0.1
+
+COTA-PARTE ROYALTIES-PROD.PETRÓEO-PRINCIPAL
+
+1.500.0000
+
+222.000,00
+
+1750.00.0.0
+
+TRANSFERÊNCIAS DE OUTRAS INSTITUIÇÕES
+
+0.000.000
+
+20.800.000,00
+
+PÚBLICAS
+
+1751.00.0.0
+
+TRANSF.RECURSOS FUNDO MANUTENÇÃO
+
+0.000.000
+
+20.800.000,00
+
+DESENVOL.EDUCAÇÃO-FUNDEB
+
+1751.50.0.0
+
+TRANSF.RECURSOS FUNDO MANUTENÇÃO
+
+0.000.000
+
+20.800.000,00
+
+DESENVOL.EDUCAÇÃO-FUNDEB
+
+1751.50.0.1
+
+TRANSF.RECURSOS FUNDEB-PRINCIPAL
+
+1.540.0000
+
+6.240.000,00
+
+1751.50.0.1
+
+TRANSF.RECURSOS FUNDEB-PRINCIPAL
+
+1.540.1070
+
+14.560.000,00
+
+9000.00.0.0
+
+(R) DEDUCOES DA RECEITA
+
+0.000.000
+
+-11.206.860,00
+
+9500.00.0.0
+
+(R) DEDUÇÕES DO FUNDEB
+
+0.000.000
+
+-11.206.860,00
+
+9510.00.0.0
+
+(R) DEDUÇÕES DO FUNDEB
+
+0.000.000
+
+-11.206.860,00
+
+9510.00.0.0
+
+(R) DEDUÇÕES DO FUNDEB
+
+0.000.000
+
+-11.206.860,00
+
+9510.00.0.0
+
+(R) DEDUÇÕES DO FUNDEB
+
+1.500.0000
+
+-11.206.860,00
+
+Total das Receitas (exceto Intra-Orçamentárias)
+
+123.585.440,00
+
+TOTALIZAÇÃO DAS RECEITAS POR CATEGORIA ECONOMICA
+
+RECEITA CORRENTE
+
+123.585.440,00
+
+RECEITA DE CAPITAL
+
+0,00
+
+Total Geral das Receitas
+
+123.585.440,00
+
+**_ANTONIO FERREIRA DOS SANTOS_**
+
+Prefeito Municipal
+
+615.280.132-04
+
+|  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+
+**Publicado por:**
+
+Gabriel Henrick da Costa Faria
+
+**Código Identificador:**D18C1DA1

@@ -1,0 +1,462 @@
+---
+titulo: "LEI 316 DE 13/12/2016"
+uf: "AM"
+municipio: "Iranduba"
+tipo: "Lei Ordinária"
+numero: ""
+ano: "2016"
+ementa: "LEI 316 DE 13/12/2016"
+entidade: "Município de Iranduba"
+orgao: "CÂMARA MUNICIPAL DE IRANDUBA"
+publicacao: "DOM-AAM ed. 1752"
+data_publicacao: 2016-12-16
+fonte: "https://www.diariomunicipal.com.br/aam/materia/BEEE032A"
+codigo_sigpub: "BEEE032A"
+versao_texto: "original (publicação no DOM-AAM)"
+baixado_em: 2026-10-15
+---
+# LEI 316 DE 13/12/2016
+
+CÂMARA MUNICIPAL DE IRANDUBA
+
+LEI 316 DE 13/12/2016
+
+**LEI Nº 316, de 13 de dezembro de 2016. **
+
+“Institui novo Plano de Cargos, Carreiras e Salários - PCCS dos servidores públicos da Câmara Municipal de Iranduba, e dá outra providencias”.
+
+**O PRESIDENTE DA CÂMARA MUNICIPAL DE IRANDUBA**, no uso de suas atribuições legais, FAZ SABER a todos os moradores de Iranduba, que a Câmara Aprovou, e ele **PROMULGA** a presente
+
+**LEI:**
+
+**DAS DISPOSIÇÕES PRELIMINARES**
+
+**CAPÍTULO I**
+
+**SEÇÃO I**
+
+**Da Instituição do Plano e seu Âmbito de Aplicação**
+
+**Art. 1º** - Fica instituído na forma desta lei, o Plano de Carreira, Cargos e Salários dos Servidores Públicos da Câmara Municipal de Iranduba - PCCS, abrangendo os cargos:
+
+a) – Provimento efetivo;
+
+b) – Em comissão
+
+§ 1º - Os cargos de Provimento efetivo estão distribuídos em grupos ocupacionais pelos critérios de complexidade, responsabilidade, escolaridade e grupos ocupacionais.
+
+§ 2º - Os Cargos de provimento em comissão são os de caráter transitório, de livre nomeação e exoneração.
+
+§ 3º - Os dispositivos desta Lei estão fundados nos princípios constitucionais da legalidade, igualdade, impessoalidade, moralidade e eficiência, na valorização do servidor, na eficácia das ações institucionais e das políticas públicas.
+
+**SEÇÃO II**
+
+**Das Diretrizes e Objetivos**
+
+**Art. 2º.**O Plano de Cargos, Carreiras e Salários aqui estabelecido tem como diretrizes básicas:
+
+**I -**valorização, profissionalização e o desenvolvimento profissional do servidor público de modo a possibilitar o estabelecimento de trajetória das carreiras, mediante ascensão profissional;
+
+**II -**mobilidade, nos limites legais vigentes, por meio da articulação de cargos e carreiras com os diversos ambientes organizacionais da Administração, a fim de permitir a prestação de serviços públicos de excelência;
+
+**III -**adoção de instrumentos gerenciais de política de pessoal, integrados ao planejamento estratégico da Câmara.
+
+**SEÇÃO III**
+
+**Das Definições**
+
+**Art. 3º.** Para efeitos desta lei, adotam-se as seguintes definições:
+
+**I** – **Cargo Público**: é a unidade laborativa instituída por lei que implica o desempenho, pelo seu titular, de uma função pública sócio organizacional, objetivando proporcionar produtos e serviços próprios do Poder Legislativo e, pertinentes às atribuições que lhe sejam outorgadas, mediante remuneração paga pelos cofres públicos, compreendendo:
+
+**a)** Cargo de Provimento Efetivo: aquele para o qual o correspondente provimento exige aprovação em concurso público de provas ou de provas e títulos;
+
+**b)** Cargo Isolado: o cargo de provimento efetivo desprovido de série de classes.
+
+**II** – **Descrição das Atividades do Cargo:** é a identificação das atribuições típicas de cada cargo na respectiva classe, compreendendo também as funções abrangidas pelo exercício do cargo;
+
+**III** – **Série de Classes**: é o agrupamento de classes disposto em ordem crescente de complexidade e de responsabilidade, grau de dificuldade das atribuições, observada a qualificação profissional e os demais requisitos exigidos;
+
+livre provimento e exoneração;
+
+**IV – Grupo Ocupacional:** conjunto de série de classes que guarda semelhança quanto à natureza das atribuições, áreas de conhecimento e de atuação e qualificações básicas;
+
+**V** – **Quadro Geral de Pessoal:** é a sistematização dos servidores do Poder Legislativo da Câmara Municipal de Iranduba, observado o cargo, o grupo ocupacional e a escolaridade exigida para o correspondente exercício;
+
+**VI – Remuneração: **o valor do vencimento ou salário, calculado para o número de horas trabalhadas e acrescidas das vantagens funcionais e pessoais, incorporadas ou não, percebido pelo servidor em cada mês.
+
+**VII** – **Referência**: é a posição distinta na faixa de vencimento básico para a jornada de trabalho de 30 horas semanais, dentro de cada padrão, identificada por 7 (sete) letras, de A até G, correspondentes ao posicionamento horizontal de um ocupante de cargo em conformidade com a Tabela Financeira;
+
+**VIII – Servidor Público**: é a pessoa legalmente investida em cargo público ou admitida no serviço público, regida pelo Regime Jurídico Único do Município;
+
+**XIX – Servidor Efetivo**: é a pessoa legalmente investida no cargo público provido em caráter efetivo mediante concurso público de provas e títulos;
+
+**X – Servidor Comissionado **– é a pessoa legalmente investida em cargo público de caráter transitório, de livre nomeação e exoneração.
+
+**XI** – **Sistema de Avaliação de Desempenho – SAD**: o sistema de gestão de pessoas utilizado para a:
+
+**a)** aferição dos resultados alcançados pela atuação do servidor efetivo, no exercício de suas funções, segundo parâmetros de qualidade do exercício funcional combinados com parâmetros comportamentais; e
+
+**b)** coleta e disponibilização de informações acerca da qualidade e das deficiências dos instrumentos colocados à disposição do servidor efetivo para o desempenho das atribuições típicas de seu cargo, de modo a viabilizar ações, políticas e estratégias de melhoria da qualidade dos serviços demandados pela sociedade;
+
+**c)** Aplicação e de implementação da Avaliação Especial de Desempenho – AED, destinada à avaliação do desempenho do servidor efetivo, para fins de estágio probatório e aquisição de estabilidade;
+
+**XII – Vencimento**: é a retribuição pelo efetivo exercício do cargo, correspondente ao símbolo ou nível fixado em lei;
+
+**SEÇÃO IV**
+
+**Do Quadro Geral de Pessoal do Poder Legislativo**
+
+**Art. 4º.** O quadro de Pessoal da Câmara Municipal divide-se em:
+
+I - Quadro de Pessoal Permanente – em que se listam os cargos de provimento efetivo e de provimento em comissão, regidos pelo Estatuto dos Servidores Públicos Municipais de Iranduba.
+
+**SEÇÃO V**
+
+**DO QUADRO DE CARGOS DE PROVIMENTO EFETIVO**
+
+**Art. 5º**. Os cargos de Provimento Efetivo da Câmara do Município de Iranduba estão discriminados no Anexo I que integra esta Lei.
+
+**Parágrafo Único **- Cumpre à Presidência da Câmara Municipal adotar as medidas cabíveis para a realização dos concursos públicos que se fizerem necessários para o provimento dos cargos efetivos de que trata esta Lei.
+
+**Art. 6°.** Fica criado o cargo de Agente Administrativo como parte integrante do quadro efetivo de servidores da Câmara Municipal de Iranduba, ficando em vacância até que seja realizado concurso público para preenchimento da vaga.
+
+**SEÇÃO VI**
+
+**DO QUADRO DE CARGOS DE PROVIMENTO EM COMISSÃO**
+
+**Art. 7**º. Os cargos de Provimento em Comissão da Câmara do Município de Iranduba estão discriminados e dimensionados no Anexo I dessa Lei;
+
+**Art. 8º.** Todo servidor efetivo que vier a ocupar cargo em comissão, terá resguardado, seu direito de retornar ao seu cargo ou emprego de origem quando exonerado.
+
+**Art. 9.** O provimento de Cargo em Comissão no âmbito da Câmara Legislativa do Município de Iranduba será de livre nomeação e exoneração do Presidente da Casa.
+
+**Art. 10**. O servidor efetivo que vier a ser nomeado para Cargo em Comissão, receberá, acrescido ao vencimento, FG – Função Gratificada, conforme anexo III.
+
+**Art. 11.** Ficam criados, no âmbito do Órgão Municipal, os seguintes Cargos em Comissão, conforme anexo I desta Lei:
+
+I – Secretário Geral da Presidência;
+
+II – Controlador
+
+III – Assessor Jurídico;
+
+IV – Diretor de Departamento
+
+V – Assessor Parlamentar
+
+§ 1° O quantitativo de vagas e as descrições dos cargos em comissão, encontram-se nos Anexos II e VII desta Lei;
+
+§ 2º Os Cargos em Comissão terão como remuneração os subsídios previstos no Anexo IV, com base nas referências do Anexo I desta Lei.
+
+§ 3º Para o cargo de Controlador, serão observadas as especificações e orientações contidas em Lei específica elaborada por esta Casa Legislativa em um prazo de 06 (seis) meses, devendo o ocupante o cargo ser submetido à sabatina pelos membros da Mesa.
+
+§ 4º O servidor detentor de cargo de efetivo, designado para o exercício nos Cargos Comissionados de Secretário Geral da Presidência, Controlador, Assessor Jurídico, Chefe de Departamento, desde que preenchidos os requisitos previstos nesta lei, receberá valor adicional à sua remuneração, na forma prevista no Anexo III.
+
+**Art. 12.** Ficam criadas, no âmbito do Poder Legislativo Municipal de Iranduba, as seguintes Funções de Confiança:
+
+I – Diretor de Departamento Administrativo;
+
+II – Diretor de Departamento Financeiro;
+
+III – Diretor de Departamento Legislativo;
+
+**CAPÍTULO II**
+
+**DO DESENVOLVIMENTO FUNCIONAL**
+
+**SEÇÃO I**
+
+**Disposições Gerais**
+
+**Art. 13. **Como definição do desenvolvimento funcional, adotam-se os seguintes conceitos:
+
+**I – Progressão Horizontal**: é a passagem do servidor efetivo estável, mediante habilitação em procedimento de avaliação periódica de desempenho, para a referência imediatamente seguinte, dentro do mesmo padrão. Alcançada a última referência do padrão em que se encontra, o deslocamento dar-se-á para a primeira referência do padrão seguinte;
+
+**II – Progressão Vertical:** é a passagem do servidor efetivo estável para a classe seguinte da correspondente série de classes, na mesma referência que se encontrava, mediante habilitação em procedimento de avaliação periódica de desempenho e aprovação em avaliação interna de conhecimentos que o habilite à progressão.
+
+**Art. 14. **O desenvolvimento funcional do servidor efetivo estável, titular de cargo que integre o Quadro Geral, tem por objetivo:
+
+I – incentivar a melhoria do desempenho do servidor ao executar as atribuições do cargo;
+
+II – oferecer perspectivas de melhoria salarial e de qualidade de vida;
+
+III – incentivar a qualificação profissional e o aprimoramento das técnicas e formas de exercício das atribuições dos cargos.
+
+**Art. 15. **O desenvolvimento funcional dar-se-á por Progressão Horizontal e por Progressão Vertical.
+
+**Parágrafo único. **Os titulares dos cargos isolados beneficiam-se exclusivamente da Progressão Horizontal.
+
+**CAPÍTULO III**
+
+**DO SISTEMA DE AVALIAÇÃO DE DESEMPENHO – SAD**
+
+**SEÇÃO I**
+
+**Disposições Gerais**
+
+**Art. 16 **É instituído o Sistema de Avaliação de Desempenho – SAD, gerenciado e operacionalizado pelo Departamento de Administração, Setor de Gestão de Pessoas da Câmara Municipal de Iranduba.
+
+**§ 1°** O servidor efetivo ocupante de cargo do Quadro Geral de Pessoal, quando nomeado para cargo de provimento em comissão, será avaliado no desempenho das correspondentes atribuições.
+
+**§ 2°** O servidor não será submetido ao SAD quando cedido para outro órgão dos demais Poderes do Município de Iranduba, enquanto durar a cedência.
+
+**Art. 17. **São elementos de constituição do SAD:
+
+**I** – a interação entre servidor, chefes mediato e imediato e comissão especial designada para avaliação;
+
+**II** – a avaliação:
+
+**a)** individual do servidor;
+
+**III** – reconhecimento das características específicas de cada tarefa desempenhada.
+
+**§ Único:** A avaliação do servidor será anual para fins de progressão funcional
+
+**Art. 18. **São objetivos do SAD:
+
+**I** – vincular, de modo objetivo, os ganhos de eficiência e eficácia à estrutura organizacional do Poder Legislativo, no desempenho de suas competências e na prestação de serviços públicos;
+
+**II** – identificar os fatores que tenham ascendência sobre a qualidade do desempenho das atribuições dos cargos;
+
+**III** – vincular a mobilidade funcional ao resultado do trabalho;
+
+**IV** – prestar as informações necessárias à formação do convencimento quanto:
+
+**a)** à permanência do servidor no serviço público e no sistema de mobilidade funcional;
+
+**b)** ao implemento de ações, políticas e estratégias que visem ao constante aperfeiçoamento, à atualização e à capacitação dos servidores; e
+
+**c)** à instituição de sistema de mérito no serviço público;
+
+d) Avaliação de para o provimento, abrangendo as provisões dos cargos públicos dentre as quais nomeação, reintegração, reversão, recondução, aproveitamento, promoção e readaptação, quando se fizer necessário, obedecendo aos seguintes etapas: Avaliação escrita, Avaliação de títulos, Declaração de serviços prestados para a gestão pública municipal**.**
+
+**Art. 19. **Avaliar os aspectos funcionais de atuação do servidor e os elementos relativos ao seu comportamento no ambiente de trabalho, entre eles:
+
+**I** – assiduidade;
+
+**II** – disciplina;
+
+**III** – responsabilidade;
+
+**IV** – eficiência;
+
+**V** – capacidade de iniciativa;
+
+**VI** – produtividade;
+
+**VII** – eficácia.
+
+**Art. 20. **As avaliações dar-se-ão em etapas autônomas entre si, que ocorrerão a cada seis meses, em caso de estágio probatório, persistindo até o fim do mesmo.
+
+**§ 1°** Os resultados serão apurados em pontos.
+
+**§ 2°** O servidor que obtiver média inferior a 50% (cinquenta por cento) dos pontos em três avaliações, consecutivas ou não, será considerado reprovado.
+
+**§ 3°** Reprovado em conformidade com o parágrafo anterior, o servidor será submetido a procedimento administrativo, do qual, após ser-lhe garantida a ampla defesa e, em sendo confirmada a reprovação, decorrerá a sua exoneração.
+
+**Art. 21. **O SAP obedecerá à periodicidade de 12 (doze) meses, iniciando-se em 1º de abril de cada exercício e encerrando-se em 31 de março do exercício seguinte.
+
+**Parágrafo único. **Os dados da avaliação periódica de desempenho serão apurados em pontos, entre 1° de abril e 30 de junho de cada exercício, e noticiados ao servidor, em documento de caráter sigiloso.
+
+**Art. 22. **São instrumentos da Avaliação Periódica de Desempenho – APD:
+
+I – Acompanhamento de Desempenho: caracterizado pela troca de informações entre a chefia e o servidor, visando a apontar problemas de execução dos projetos e atividades ou ausência de meios que estejam interferindo na obtenção dos resultados, identificando, ainda, ações corretivas a serem adotadas;
+
+II – Avaliação de Desempenho Individual: caracterizada pela atribuição dos pontos aos fatores preestabelecidos;
+
+III – Plano de Aperfeiçoamento do Servidor: caracterizado pelas recomendações relativas ao atendimento das necessidades de melhoria de desempenho e do desenvolvimento profissional do servidor.
+
+**Art. 23. **Ato do Chefe do Poder Legislativo regulamentará o disposto neste Capítulo.
+
+**Art. 24. **A Progressão Horizontal e a Progressão Vertical geram efeitos financeiros, para o servidor, a partir da sua publicação.
+
+**Art. 25. **Além de outros requisitos estabelecidos nesta Lei, todo procedimento que vise à Progressão Funcional levará em conta:
+
+I – a qualificação, a formação e o aperfeiçoamento dos servidores públicos;
+
+II – a participação em cursos como um dos requisitos para a progressão na correspondente série de classes;
+
+III – o resultado positivo em avaliação periódica de desempenho;
+
+IV – a melhoria do desempenho do servidor ao executar as atribuições do cargo;
+
+V - os conhecimentos específicos para o exercício das atribuições decorrentes da progressão vertical.
+
+**Art. 26. **Suspende o interstício necessário para a Progressão Horizontal e a Progressão Vertical:
+
+I – as licenças para:
+
+a) acompanhar cônjuge ou companheiro;
+
+b) desempenho de mandato classista;
+
+c) tratar de interesses particulares;
+
+II – a cessão do servidor para os demais Poderes do Município;
+
+III – o desvio de função.
+
+**Parágrafo único. **O exercício de cargos de provimento em Comissão no Poder Legislativo não interrompe a contagem para fins do interstício necessário para a mobilidade funcional.
+
+**SEÇÃO II**
+
+**Da Progressão Horizontal**
+
+**Art. 27. **A Progressão Horizontal poderá ser concedida, mediante critérios de merecimento verificados em Avaliação Periódica de Desempenho, ao servidor efetivo estável que atenda cumulativamente às seguintes exigências:
+
+I – ter completado o interstício de 05 (cinco) anos de efetivo exercício na referência em que se encontra;
+
+II – obter conceito igual ou superior a 60% (sessenta por cento) dos pontos possíveis em todos os procedimentos de Avaliação Periódica de Desempenho;
+
+III – estar em efetivo exercício em órgão, departamento, unidade ou seção do Poder Legislativo ou a disposição do Executivo;
+
+IV – não ter mais do que cinco faltas injustificadas nos 24 (vinte e quatro) últimos meses imediatamente anteriores à data da homologação do respectivo resultado da APD;
+
+V – não ter sofrido punição disciplinar nos 24 (vinte e quatro) últimos meses imediatamente anteriores à data da homologação do respectivo resultado da APD;
+
+VI – não ter sido destituído ou exonerado de cargo de provimento em comissão por motivo disciplinar, nos 24 (vinte e quatro) últimos meses imediatamente anteriores à data da homologação do respectivo resultado da APD.
+
+**Parágrafo único. **Observados os requisitos estabelecidos neste artigo, transportar-se á, para a referência inicial do padrão imediatamente posterior, o servidor que chegue à ultima referência do respectivo padrão e continue no efetivo exercício do cargo.
+
+**SEÇÃO III**
+
+**Da Progressão Vertical**
+
+**Art. 28. **A Progressão Vertical poderá ser concedida, mediante critérios de merecimento verificados em Avaliação Periódica de Desempenho – APD, ao servidor efetivo estável que atenda cumulativamente às seguintes exigências:
+
+I – ter completado pelo menos 03 (três) anos de efetivo exercício na classe em que se encontra;
+
+II – obter conceito igual ou superior a 60% (sessenta por cento) dos pontos possíveis em todos os procedimentos de Avaliação Periódica de Desempenho;
+
+III – estar em efetivo exercício em órgão, departamento, unidade ou seção do Poder Legislativo/Executivo;
+
+IV – não ter mais do que cinco faltas injustificadas nos quarenta últimos meses imediatamente anteriores à data da homologação do respectivo resultado da APD;
+
+V – não ter sofrido punição disciplinar nos sessenta últimos meses imediatamente anteriores à data da homologação do respectivo resultado da APD;
+
+VI – não ter sido destituído ou exonerado de cargo de provimento em comissão por motivo disciplinar nos sessenta últimos meses imediatamente anteriores à data da homologação do respectivo resultado da APD;
+
+VII – ter o conhecimento e a experiência profissional necessários para o exercício do cargo, verificados em avaliação interna de conhecimentos;
+
+VIII – obter conceito igual ou superior a setenta por cento dos pontos possíveis na avaliação interna de conhecimentos de que trata o inciso anterior;
+
+**Parágrafo único. **A Progressão Vertical está limitada à existência de vaga nas classes posteriores.
+
+**SEÇÃO IV**
+
+**Da Avaliação Interna de Conhecimentos para a Progressão Vertical**
+
+**Art. 29. **É instituída a Avaliação Interna de Conhecimentos, destinada a verificar o conhecimento e a experiência profissionais necessários para o exercício das atribuições previstas para as classes seguintes.
+
+**Parágrafo único. **A avaliação de que trata este artigo constará de questões teóricas e práticas que, de acordo com a natureza e a complexidade das atribuições da classe superior, apontem a aptidão para o seu exercício.
+
+**Art. 30. **Ato do Chefe do Poder Legislativo regulamentará o disposto neste Capítulo.
+
+**SEÇÃO V**
+
+**Da Qualificação Profissional**
+
+**Art. 31. **O Setor de Gestão de Pessoas desenvolverá programas de qualificação geral e especifica para os integrantes do Quadro Geral de Pessoal.
+
+§ 1º A Qualificação Profissional dos servidores deverá resultar de programas regulares de cursos de treinamento e aperfeiçoamento, organizados e implementados pelo Setor de Gestão de Pessoas, objetivando:
+
+I – o estabelecimento da possibilidade de progressão funcional;
+
+II – a formação inicial, a preparação do servidor para o exercício das atribuições dos cargos, propiciando conhecimentos, métodos, técnicas e habilidades adequadas;
+
+III – nos cursos regulares de aperfeiçoamento, a habilitação do servidor para o desempenho eficiente das atribuições inerentes à classe imediatamente superior;
+
+IV – nos cursos de natureza gerencial, a preparação do servidor para o exercício de funções de direção, coordenação e assessoramento;
+
+V – a capacitação para melhor desempenho das atribuições do correspondente cargo.
+
+§ 2º A organização e a implementação das políticas e das ações de Qualificação Profissional de que trata este artigo poderão ser terceirizadas.
+
+§ 3º A qualificação profissional, quando se fizer necessário, proporcionará ao servidor efetivo, até 50% (cinquenta por cento) em valor, para auxílio nos cursos de capacitação, conforme Art. 23 que trata do Plano de Aperfeiçoamento do Servidor.
+
+**CAPÍTULO VI**
+
+**Da extinção de cargo, reenquadramento funcional e transformação de nomenclatura de cargo**
+
+**SEÇÃO I**
+
+**Disposições Gerais**
+
+**Art. 32. **Pela presente lei, fica extinto o cargo de Mensageiro por não atender mais a necessidade desta Casa Legislativa e configurar-se em obsolescência devido às inovações tecnológicas no campo das comunicações;
+
+**Art. 33.** O ocupante do cargo de Mensageiro submeter-se-á a Avaliação de uma comissão, denominada Comissão de Reenquadramento Funcional, que deverá ser criada com o intuito de avaliar o servidor para reenquadramento no serviço público, conforme preceitua o Art. 16 da Lei 105/2005 que trata do Estatuto dos Servidores Públicos Municipais de Iranduba, obedecendo as seguintes etapas:
+
+Avaliação Escrita;
+
+Prova de Títulos;
+
+Avaliação constante no Capítulo III desta Lei.
+
+**§ Único:** O servidor deverá requerer o reenquadramento, instruído com comprovações de qualificação na função requerida.
+
+**Art. 34. **A autoridade competente de cada Poder do Município definirá através de regulamento específico, os cargos de atribuições compatíveis, observando vaga, capacitação, escolaridade, experiência no serviço público e a função para a qual o servidor encontrava-se em desvio de função.
+
+**Art. 35**. O cargo de Assistente Legislativo será transformado em Assistente Técnico Legislativo para melhor atendimento aos serviços operacionais da Câmara Municipal, sendo reconduzidos os ocupantes dos cargos efetivos à nova nomenclatura.
+
+**CAPÍTULO VII**
+
+**DA REMUNERAÇÃO**
+
+**SEÇÃO I**
+
+**Disposições Gerais**
+
+**Art. 36. **O vencimento básico dos cargos que integram o Quadro Geral de Pessoal do Poder Legislativo da Câmara Municipal de Iranduba, expresso em classes, padrão e referências iniciais, para jornada de trabalho de 30 horas semanais, está organizado em Tabela Financeira, em conformidade com o Anexo VI a esta Lei.
+
+**Art. 37. **A remuneração dos titulares de cargos do Quadro Geral, bem como os proventos, pensões ou outra espécie remuneratória, percebidos, cumulativamente ou não, incluídas as vantagens pessoais ou de qualquer outra natureza, não poderão exceder o subsídio mensal, em espécie, do Presidente da Câmara Municipal de Iranduba.
+
+**Art. 38. **Fica concedida a todos os Servidores do Poder Legislativo Municipal de Iranduba uma recomposição salarial anual que não poderá ser menor que o percentual apurado pelo IPCA-IBGE.
+
+**CAPÍTULO VII**
+
+**DA IMPLANTAÇÃO DO PLANO DE CARGOS E SALÁRIOS**
+
+**Art. 39. **A implementação e a gestão do plano de cargos e salários de que trata esta Lei compete ao Departamento Administrativo, Setor de Gestão de Pessoas, cabendo-lhe:
+
+I – fixar as diretrizes operacionais e implementar os programas, sistemas e subsistemas de que trata esta Lei, incluindo o detalhamento dos procedimentos da Avaliação Desempenho e da Avaliação Periódica de Desempenho;
+
+II – manter atualizadas as especificações dos cargos;
+
+III - detalhar, com base no quadro quantitativo de pessoal, o planejamento e a gestão de pessoas, incluindo a alocação e lotação dos recursos humanos, a progressão e a movimentação de pessoal;
+
+IV – promover a lotação regular e sistemática dos servidores nos diversos órgãos e unidades da Administração Direta do Poder Legislativo;
+
+V – adotar as seguintes diretrizes gerenciais:
+
+a) implementação e operacionalização de um cadastro central de pessoas abrangendo todo o Poder Legislativo;
+
+b) estudo das propostas de criação, transformação e extinção de cargos e funções de quaisquer naturezas;
+
+c) promoção dos direitos, vantagens e deveres dos servidores, bem como sua auditoria e controle.
+
+**CAPÍTULO VI**
+
+**DAS DISPOSIÇÕES FINAIS**
+
+**Art. 40. **Fica o Presidente da Câmara autorizado, através de Portaria, a proceder ao pagamento de Gratificação por Tempo Integral e Dedicação Exclusiva ao serviço público de, até, 150% (cento e cinquenta por cento) do salário base dos servidores, conforme preceitua o Art. 148 da Lei Municipal 105/2005.
+
+**Art. 41. **Integram-se à presente Lei, os Anexos I a XI.
+
+**Art. 42**. As despesas decorrentes da aplicação desta Lei correrão à conta de dotação orçamentária própria do Poder Legislativo.
+
+**Art. 43. **Esta lei entra em vigor na data de sua publicação.
+
+**Art. 44. **Revogam-se todos os Anexos das demais Resoluções e Decretos que regulamentam o tema.
+
+**GABINETE DO PRESIDENTE DA CÂMARA MUNICIPAL DE IRANDUBA**, 13 de dezembro de 2016.
+
+**_**ERNANDES JOSÉ LIMA ROCHA**_**
+
+Presidente
+
+**Publicado por:**
+
+Aldineia Morais de Medeiros
+
+**Código Identificador:**BEEE032A

@@ -1,0 +1,1932 @@
+---
+titulo: "LEI COMPLEMENTAR Nº 036 DE 19 DE SETEMBRO DE 2025"
+uf: "AM"
+municipio: "Codajás"
+tipo: "Lei Complementar"
+numero: "36"
+ano: "2025"
+ementa: "DISPÕE SOBRE ALTERAÇÃO DO ANEXO VI DO PLANO DE CARGOS, CARREIRA E REMUNERAÇÃO DOS SERVIDORES ADMINISTRATIVOS DO MUNICIPIO DE CODAJÁS/AM, E DÁ OUTRAS PROVIDENCIAS."
+entidade: "Município de Codajás"
+orgao: "GABINETE DO PREFEITO"
+publicacao: "DOM-AAM ed. 3945"
+data_publicacao: 2025-09-22
+fonte: "https://www.diariomunicipal.com.br/aam/materia/F95DBAFB"
+codigo_sigpub: "F95DBAFB"
+versao_texto: "original (publicação no DOM-AAM)"
+baixado_em: 2026-10-15
+---
+# LEI COMPLEMENTAR Nº 036 DE 19 DE SETEMBRO DE 2025
+
+GABINETE DO PREFEITO
+
+LEI COMPLEMENTAR Nº 036 DE 19 DE SETEMBRO DE 2025
+
+DISPÕE SOBRE ALTERAÇÃO DO ANEXO VI DO PLANO DE CARGOS, CARREIRA E REMUNERAÇÃO DOS SERVIDORES ADMINISTRATIVOS DO MUNICIPIO DE CODAJÁS/AM, E DÁ OUTRAS PROVIDENCIAS.
+
+**O PREFEITO DO MUNICIPIO DE CODAJÁS, Estado do Amazonas, no uso de suas atribuições legais que lhe confere no artigo 69. III ‘O’ da Lei Orgânica Municipal. LOM, faço saber que a câmara Municipal aprovou e eu sanciono a seguinte Lei complementar**:
+
+Art. 1º. Fica alterado o anexo VI da Lei Complementar nº 033/2025 que passará a viger conforme o Anexo I desta Lei Complementar.
+
+Art. 2º. Esta Lei entrará em vigor na data de sua publicação, revogando disposições em contrário.
+
+**ANEXO I**
+
+**DESCRIÇÃO DAS ATRIBUIÇÕES E EXIGÊNCIAS PARA CARGOS PÚBLICOS EFETIVOS**
+
+Cargo:
+
+**AUXILIAR DE SERVIÇOS GERAIS**
+
+C.B.O:
+
+5143-20
+
+REQUISITO PARA INGRESSO
+
+Escolaridade mínima para provimento:
+
+Ensino Fundamental incompleto
+
+Outros requisitos para provimento:
+
+Provimento e Perspectivas de Progressão e Promoção:
+
+Ingresso por meio de aprovação de concurso público em nível inicial (nível I), com possibilidade de promoção para os níveis II e III
+
+Progressão até a referência E de cada nível.
+
+Carga horária:
+
+40 (quarenta) horas semanais
+
+ATRIBUIÇÕES DO CARGO
+
+1. Executar a limpeza e conservação de áreas internas e externas de prédios públicos, incluindo salas, banheiros, corredores, pátios, jardins e demais dependências;
+
+2. Recolher e separar resíduos sólidos, destinando-os corretamente conforme as normas municipais de descarte;
+
+3. Higienizar móveis, equipamentos e utensílios de uso coletivo;
+
+4. Manter a organização dos espaços, garantindo um ambiente limpo e adequado para o uso da população e dos servidores;
+
+5. Auxiliar na manutenção preventiva e corretiva de equipamentos, mobiliários e instalações físicas dos prédios públicos;
+
+6. Realizar pequenos reparos, como troca de lâmpadas, conserto de torneiras e outros ajustes simples.
+
+Informar à equipe de manutenção sobre problemas estruturais que exijam intervenções mais complexas;
+
+7. Transportar e organizar materiais, móveis e equipamentos quando necessário;
+
+8. Auxiliar na montagem e desmontagem de eventos promovidos pela Prefeitura;
+
+9. Apoiar servidores em tarefas operacionais, quando solicitado;
+
+10. Solicitar reposição de materiais de limpeza e manutenção quando necessário;
+
+11. Zelar pelo uso correto e econômico de produtos e equipamentos utilizados nas atividades diárias;
+
+12. Organizar e armazenar produtos de limpeza e outros materiais de forma segura;
+
+13. Receber e orientar visitantes em relação ao uso das dependências públicas;
+
+14. Trabalhar em equipe, mantendo uma boa comunicação com servidores e gestores;
+
+15. Seguir as normas de segurança do trabalho, utilizando Equipamentos de Proteção Individual (EPIs) quando necessário;
+
+16. Atender às diretrizes da Vigilância Sanitária no que diz respeito à higiene e limpeza;
+
+17. Respeitar normas internas e cumprir ordens de serviço determinadas pelos superiores.
+
+|  |  |
+| --- | --- |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+
+Cargo:
+
+**ALMOXARIFE**
+
+C.B.O:
+
+414105
+
+REQUISITO PARA INGRESSO
+
+Escolaridade mínima para provimento:
+
+Ensino Médio completo concluído em instituição de ensino reconhecida pelo Ministério da Educação – MEC
+
+Outros requisitos para provimento:
+
+Conhecimento básico em informática nível usuário em sistema de gestão de estoque e controle de materiais.
+
+Provimento e Perspectivas de Progressão e Promoção:
+
+Ingresso por meio de aprovação de concurso público em nível inicial (nível I), com possibilidade de promoção para os níveis II e III
+
+Progressão até a referência E de cada nível.
+
+Carga horária:
+
+40 (quarenta) horas semanais
+
+ATRIBUIÇÕES DO CARGO
+
+1. Receber, conferir e registrar os materiais que chegam ao almoxarifado, verificando se correspondem aos pedidos realizados e se estão em conformidade com as especificações.
+
+2. Organizar os materiais recebidos de forma adequada no almoxarifado, garantindo que estejam protegidos contra danos e em condições ideais de conservação.
+
+3. Manter registros precisos sobre a entrada e saída de materiais do almoxarifado, atualizando sistematicamente os registros para garantir a precisão do inventário.
+
+4. Atender às solicitações internas de materiais, separando e distribuindo os itens conforme as necessidades de cada setor ou departamento.
+
+5.Verificar a qualidade dos materiais recebidos, identificando e registrando possíveis problemas ou irregularidades para providenciar substituição ou correção.
+
+6. Conferir a documentação de entrega (notas fiscais, guias de remessa) e registrar a entrada de materiais no sistema.
+
+7. Garantir a correta armazenagem dos materiais, adotando medidas que preservem sua integridade física e condições de uso, como controle de temperatura, umidade e proteção contra pragas, zelar pela segurança do almoxarifado, adotando medidas para prevenir furtos, perdas e danos aos materiais.
+
+8. Manter atualizado o controle de estoques, registrando entradas, saídas e saldos de materiais.
+
+9. Realizar inventários periódicos, confrontando os registros com o estoque físico e ajustando possíveis diferenças, monitorar os níveis de estoque e planejar a reposição de materiais, evitando faltas e excessos.
+
+10. Atender às requisições de materiais feitas pelos diversos setores da instituição, garantindo a entrega conforme as necessidades e prazos estabelecidos.
+
+11. Manter organizada toda a documentação relativa ao almoxarifado, incluindo notas fiscais, requisições, relatórios de inventário e outros documentos pertinentes.
+
+12. Emitir relatórios periódicos sobre o movimento de estoque, consumo de materiais e necessidades de reposição.
+
+13. Participar de auditorias internas e externas, fornecendo informações e documentos sobre o controle de estoques.
+
+14. Assegurar o cumprimento das normas e procedimentos estabelecidos para o armazenamento e controle de materiais.
+
+15. Manter o ambiente de trabalho limpo, organizado e seguro, seguindo as normas de segurança do trabalho.
+
+16. Identificar e propor melhorias nos processos de recebimento, armazenamento e distribuição de materiais.
+
+17. Manter-se atualizado sobre novas práticas e tecnologias de gestão de estoques e almoxarifado.
+
+18. Executar outras tarefas compatíveis com as exigências para o exercício da função
+
+|  |  |
+| --- | --- |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+
+Cargo:
+
+**ASSISTENTE ADMINISTRATIVO**
+
+C.B.O:
+
+411010
+
+REQUISITO PARA INGRESSO
+
+Escolaridade mínima para provimento:
+
+Ensino Médio completo concluído em instituição de ensino reconhecida pelo Ministério da Educação – MEC
+
+Outros requisitos para provimento:
+
+Conhecimento básico em informática nível usuário
+
+Provimento e Perspectivas de Progressão e Promoção:
+
+Ingresso por meio de aprovação de concurso público em nível inicial (nível I), com possibilidade de promoção para os níveis II e III
+
+Progressão até a referência E de cada nível.
+
+Carga horária:
+
+40 (quarenta) horas semanais
+
+ATRIBUIÇÕES DO CARGO
+
+1. Desenvolver atividades na área administrativa dando suporte as atividades da Prefeitura.
+
+2. Controlar a entrada e saída de materiais e equipamentos nos órgãos púbicos.
+
+3. Operar equipamentos diversos, tais como: projetor multimídia; aparelhos de fax; máquinas fotocopiadoras/duplicadoras e outros.
+
+4. Produzir, reproduzir e processar, fotografias, slides, microfilmes, jornais, revistas ou livros, negativos e celulose.
+
+5. Localizar, organizar, classificar e manter atualizado o acervo de multimídia.
+
+6. Zelar pela higiene, limpeza, conservação e boa utilização dos equipamentos e instrumentos utilizados sob sua responsabilidade, solicitando junto à chefia os serviços de manutenção.
+
+7. Realizar e atender chamadas telefônicas, anotar e enviar recados.
+
+8. Manter, organizar, classificar e atualizar arquivos, fichários, livros, publicações e outros documentos, para possibilitar controle documental.
+
+9. Realizar serviços auxiliares no processo de aquisição e processamento técnico.
+
+10. Atender ao público em geral, averiguando suas necessidades para orientá-los e/ou encaminhá-los às pessoas e/ou setores competentes, receber, protocolar e distribuir correspondências e documentos.
+
+11. Atender ao telefone, anotar e transmitir informações e recados.
+
+12. Receber, separar, entregar, levar e buscar documentos, correspondências, papéis, jornais, materiais de pequeno porte, através de malote e protocolo, providenciando os registros necessários de empréstimos e devoluções e afixar materiais de divulgação em editais, quando necessário.
+
+13. Participar de programa de treinamento, quando convocado.
+
+14. Executar tarefas pertinentes à área de atuação, utilizando-se de equipamentos e programas de informática.
+
+15. Elaborar, redigir, digitar e revisar documentos administrativos, como relatórios, memorandos, ofícios e outros textos.
+
+16. Auxiliar na organização da agenda de compromissos da chefia e na preparação de reuniões.
+
+17. Preparar e organizar salas de reuniões, providenciar materiais e equipamentos necessários.
+
+18. Executar atividades de apoio administrativo nas áreas de recursos humanos, administração, finanças, logística, entre outras
+
+19. Controlar e requisitar material de expediente e outros insumos necessários ao funcionamento do setor.
+
+20. Lançar dados e informações em sistemas informatizados de gestão.
+
+21.Acompanhar e controlar a tramitação de processos administrativos, assegurando o cumprimento de prazos e procedimentos, auxiliar na elaboração e revisão de procedimentos administrativos, fluxos de trabalho e políticas internas.
+
+22. Auxiliar na gestão de ponto eletrônico, controle de frequência, elaboração de folhas de pagamento e outros controles de pessoal, organizar e manter atualizados os registros funcionais dos servidores.
+
+23.Colaborar na organização de eventos, treinamentos, cursos e outros projetos institucionais, prestar suporte na execução de projetos e programas desenvolvidos pelo órgão ou entidade.
+
+24.Elaborar e divulgar comunicados internos, avisos e informações relevantes para os servidores, manter atualizados os murais e canais de comunicação interna.
+
+25.Auxiliar no controle e execução de despesas, conferindo notas fiscais, lançamentos contábeis e pagamentos, preparar e controlar prestações de contas, relatórios financeiros e orçamentários.
+
+26.Executar outras tarefas compatíveis com as exigências para o exercício da função.
+
+|  |  |
+| --- | --- |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+
+Cargo:
+
+**COLETOR DE LIXO**
+
+C.B.O:
+
+514205
+
+REQUISITO PARA INGRESSO
+
+Escolaridade mínima para provimento:
+
+Ensino Fundamental incompleto
+
+Outros requisitos para provimento:
+
+Aptidão física.
+
+Provimento e Perspectivas de Progressão e Promoção:
+
+Ingresso por meio de aprovação de concurso público em nível inicial (nível I), com possibilidade de promoção para os níveis II e III
+
+Progressão até a referência E de cada nível.
+
+Carga horária:
+
+40 (quarenta) horas semanais
+
+ATRIBUIÇÕES DO CARGO
+
+1 Percorre os logradouros, seguindo roteiros preestabelecidos, recolhendo lixo domiciliares, resíduos de serviços de saúde, e os resíduos gerados pela varrição, despejando-o em veículos especiais, contribuindo para a limpeza desses locais;
+
+2.recolhe o lixo que eventualmente se esparrama pelo chão em virtude, de sacos de lixo rasgado por animais, ou mesmo rasgados no exercício da função, transportando para o caminhão apropriado, para garantir a ordem e a limpeza das mesmas;
+
+3.executar atividades formada por equipe composta de no máximo 04 (quatro) coletores com ou sem supervisão permanente, sendo que um da equipe deverá acompanhar o caminhão de lixo até o descarregamento, inclusive do chorume;
+
+4.assegurar-se antes de sair para o local de trabalho que de possui todos os equipamentos necessários para a segurança pessoal (EPI’s) bem como manter atualizada a carteira de vacinação;
+
+5.comunicar ausência ao trabalho com antecedência quando específico;
+
+6.executar outras atividades afins, determinadas pelo superior imediato.
+
+|  |  |
+| --- | --- |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+
+Cargo:
+
+**FISCAL DE ATIVIDADES URBANAS**
+
+C.B.O:
+
+254505
+
+REQUISITO PARA INGRESSO
+
+Escolaridade mínima para provimento:
+
+Ensino Médio completo concluído em instituição de ensino reconhecida pelo Ministério da Educação – MEC
+
+Outros requisitos para provimento:
+
+Conhecimento básico em informática nível usuário.
+
+Provimento e Perspectivas de Progressão e Promoção:
+
+Ingresso por meio de aprovação de concurso público em nível inicial (nível I), com possibilidade de promoção para os níveis II e III
+
+Progressão até a referência E de cada nível.
+
+Carga horária:
+
+40 (quarenta) horas semanais
+
+ATRIBUIÇÕES DO CARGO
+
+1. Verificar a conformidade de obras e construções com os projetos aprovados, como planos de ocupação, licenças de construção, alvarás e outros documentos legais.
+
+Inspecionar construções, reformas e ampliações de imóveis, tanto em andamento quanto concluídas, garantindo que atendam às normas técnicas, ambientais e de segurança.
+
+2. Garantir que o uso do solo esteja de acordo com o zoneamento urbano, o plano diretor e as legislações municipais relacionadas.
+
+3. Fiscalizar atividades comerciais, residenciais ou industriais em áreas não autorizadas ou irregulares.
+
+3. Verificar a documentação de empreendimentos e atividades, como alvarás de funcionamento, licenças ambientais e outros documentos exigidos por lei.
+
+4. Avaliar e aprovar processos de licenciamento e expedição de alvarás para atividades comerciais, industriais e de serviços.
+
+5. Prestar orientações sobre a legislação urbanística vigente para cidadãos, empresários e profissionais da construção civil.
+
+6. Oferecer informações sobre normas, processos de licenciamento e documentação necessária.
+
+7. Elaborar relatórios técnicos sobre as inspeções realizadas, apontando irregularidades ou infrações encontradas.
+
+Encaminhar relatórios para o setor competente para ações corretivas, como autuações, multas ou interdições.
+
+8. Aplicar sanções administrativas, como multas e embargos, em casos de descumprimento da legislação urbanística.
+
+9. Notificar proprietários ou responsáveis por infrações, orientando sobre o prazo para regularização das pendências.
+
+10. Participar de processos administrativos ou judiciais relacionados à área urbanística, fornecendo informações ou testemunhos, quando necessário.
+
+11. Acompanhar a tramitação de processos relacionados a atividades urbanas, como projetos de construção ou alteração de uso do solo.
+
+|  |  |
+| --- | --- |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+
+Cargo:
+
+**ASSISTENTE TÉCNICO TRIBUTÁRIO**
+
+C.B.O:
+
+254410
+
+REQUISITO PARA INGRESSO
+
+Escolaridade mínima para provimento:
+
+Ensino Médio completo concluído em instituição de ensino reconhecida pelo Ministério da Educação – MEC
+
+Outros requisitos para provimento:
+
+Conhecimento básico em informática nível usuário.
+
+Provimento e Perspectivas de Progressão e Promoção:
+
+Ingresso por meio de aprovação de concurso público em nível inicial (nível I), com possibilidade de promoção para os níveis II e III
+
+Progressão até a referência E de cada nível.
+
+Carga horária:
+
+40 (quarenta) horas semanais
+
+ATRIBUIÇÕES DO CARGO
+
+1. O fiscal verifica se as declarações de tributos (como ISS, IPTU, etc.) estão corretas, em conformidade com as normas e prazos estabelecidos.
+
+2. Verificação de Pagamentos: Fiscaliza o pagamento de tributos, conferindo se os valores pagos estão de acordo com os valores devidos. Isso inclui a apuração do valor correto de tributos e a verificação de eventuais inadimplências.
+
+3. O fiscal verifica se as empresas estão emitindo notas fiscais corretamente, principalmente no caso de serviços prestados (ISS), e se os impostos estão sendo retidos e recolhidos de forma adequada.
+
+4. O fiscal tem a responsabilidade de identificar práticas de sonegação de impostos, como a omissão de receitas, o não pagamento de tributos ou a emissão de documentos fiscais falsificados.
+
+5. Apreensão de Documentos: Em casos de suspeita de irregularidade, pode ser necessário apreender documentos fiscais ou contábeis para averiguar a real situação tributária do contribuinte.
+
+6. Emissão de Autos de Infração: Quando é identificada uma infração tributária, o fiscal pode lavrar um auto de infração e aplicar as penalidades previstas pela legislação municipal.
+
+7. O fiscal auxilia na cobrança de tributos não pagos, acompanhando a regularização de débitos e ajudando os contribuintes a parcelar suas dívidas fiscais.
+
+8. Orientação para Regularização: O fiscal também orienta o contribuinte sobre os procedimentos para regularizar sua situação fiscal, como o pagamento de débitos ou a solicitação de parcelamentos.
+
+9. O fiscal de tributos municipais presta informações ao contribuinte sobre as normas e leis fiscais municipais, esclarecendo dúvidas sobre o cálculo de impostos, prazos e formas de pagamento.
+
+10. Apoio na Emissão de Documentos: O fiscal pode auxiliar no processo de emissão de documentos fiscais, como alvarás de licença ou certidões negativas de débitos, e no preenchimento de declarações fiscais.
+
+11. Quando as irregularidades identificadas não são corrigidas, o fiscal pode aplicar multas ou outras sanções previstas na legislação tributária municipal.
+
+12. Além das multas, o fiscal também pode aplicar outras penalidades, como a suspensão de atividades comerciais, embargos de obras ou a interdição de estabelecimentos, quando houver descumprimento da legislação tributária.
+
+13. O fiscal é responsável pela elaboração de relatórios detalhados sobre suas atividades de fiscalização, registrando irregularidades encontradas e as ações tomadas para resolver a situação.
+
+14. Quando necessário, o fiscal pode emitir pareceres técnicos sobre questões tributárias específicas, orientando a administração municipal sobre o melhor caminho a seguir.
+
+15. O fiscal pode participar de processos administrativos relacionados a infrações tributárias, ajudando na apuração dos fatos e na aplicação de penalidades.
+
+16. Em casos de recursos administrativos apresentados por contribuintes, o fiscal pode analisar a argumentação apresentada e fornecer pareceres técnicos.
+
+17. O fiscal trabalha em conjunto com outros órgãos municipais, como a Secretaria da Fazenda, Procuradoria Jurídica, Secretaria de Urbanismo, entre outros, para garantir que as leis fiscais sejam cumpridas de forma eficaz.
+
+18. O fiscal também pode colaborar com órgãos estaduais e federais, como a Receita Federal e a Secretaria da Fazenda Estadual, para trocas de informações tributárias.
+
+19. O fiscal pode receber denúncias de contribuintes, funcionários ou outros cidadãos sobre possíveis irregularidades fiscais e tomar as providências necessárias para apuração.
+
+20. O fiscal pode ser responsável por analisar processos de isenção de tributos, verificando se o contribuinte preenche os requisitos legais para ser isento ou imune a determinado tributo.
+
+21. Campanhas Educativas: O fiscal pode participar de ações educativas para orientar os cidadãos sobre a importância do cumprimento das obrigações tributárias e os benefícios de manter a regularidade fiscal.
+
+|  |  |
+| --- | --- |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+
+Cargo:
+
+**GUARDA PATRIMONIAL**
+
+C.B.O:
+
+517420
+
+REQUISITO PARA INGRESSO
+
+Escolaridade mínima para provimento:
+
+Ensino Fundamental incompleto
+
+Outros requisitos para provimento:
+
+Provimento e Perspectivas de Progressão e Promoção:
+
+Ingresso por meio de aprovação de concurso público em nível inicial (nível I), com possibilidade de promoção para os níveis II e III
+
+Progressão até a referência E de cada nível.
+
+Carga horária:
+
+40 (quarenta) horas semanais
+
+ATRIBUIÇÕES DO CARGO
+
+1. Efetuar rondas periódicas nas dependências da organização, inspecionando áreas internas e externas, com o objetivo de garantir a segurança de bens e pessoas.
+
+2. Observar comportamentos suspeitos e situações que possam representar riscos, tomando providências para evitar danos ao patrimônio ou incidentes.
+
+3. Manter vigilância constante em pontos de maior risco, como entradas e saídas, portões, depósitos, áreas isoladas, e outros locais vulneráveis.
+
+5. Verificar o estado de portas, janelas, portões e fechaduras, garantindo que não haja sinais de arrombamento ou tentativas de invasão.
+
+6. Monitorar o fluxo de pessoas e veículos nas dependências da organização, garantindo que apenas pessoas autorizadas tenham acesso a determinadas áreas.
+
+Observar o movimento em entradas e saídas, reportando qualquer comportamento suspeito ou irregularidades.
+
+7. Identificar possíveis riscos, como incêndios, vazamentos ou falhas em equipamentos, e acionar a equipe responsável ou autoridades competentes.
+
+8. Zelar pela integridade do patrimônio da empresa, prevenindo furtos, danos ou vandalismos.
+
+9. Cumprir e fazer cumprir as normas de segurança estabelecidas pela empresa, especialmente em relação a comportamentos de risco e uso de equipamentos de segurança.
+
+10. Garantir que as áreas de trabalho sejam mantidas organizadas e seguras, evitando acidentes e situações perigosas.
+
+11. Em caso de emergência (como incêndio, alagamento ou acidente), o vigia deve seguir os procedimentos de evacuação e apoiar no controle da situação até a chegada das autoridades ou equipes especializadas.
+
+12. Garantir a segurança das pessoas durante evacuações e emergências, ajudando a orientá-las e direcioná-las para os pontos de segurança.
+
+13. Manter registros detalhados sobre a movimentação de pessoas, incidentes ou situações de risco que ocorreram durante o turno de trabalho.
+
+14. Elaborar relatórios sobre qualquer anomalia detectada, como falhas no sistema de segurança ou comportamentos suspeitos.
+
+15. Trabalhar em colaboração com outros profissionais de segurança, como vigilantes e guardas patrimoniais, fornecendo informações e realizando tarefas de apoio.
+
+16. Auxiliar na movimentação de materiais, pessoas e equipamentos, conforme necessário, garantindo que o ambiente permaneça seguro.
+
+17. Manter a ordem no local de trabalho, observando a presença de funcionários, visitantes ou prestadores de serviços e assegurando que todos sigam as normas e regras estabelecidas pela empresa.
+
+18. Garantir que as instalações sejam mantidas em bom estado de conservação, reportando necessidades de manutenção.
+
+19. Prestar suporte a outros departamentos ou áreas da empresa, por exemplo, ajudando na movimentação de materiais ou auxiliando na segurança de processos especiais (como auditorias, mudanças de turno, entre outros).
+
+|  |  |
+| --- | --- |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+
+Cargo:
+
+**OFICIAL DE MANUTENÇÃO - ELETRICA**
+
+C.B.O:
+
+313120
+
+REQUISITO PARA INGRESSO
+
+Escolaridade mínima para provimento:
+
+Ensino Médio completo, concluído em instituição de ensino reconhecida pelo Ministério da Educação – MEC
+
+Outros requisitos para provimento:
+
+Curso técnico em eletricidade, eletrotécnica ou área correlata.
+
+Conhecimento básico em informática nível usuário.
+
+Provimento e Perspectivas de Progressão e Promoção:
+
+Ingresso por meio de aprovação de concurso público em nível inicial (nível I), com possibilidade de promoção para os níveis II e III
+
+Progressão até a referência E de cada nível.
+
+Carga horária:
+
+40 (quarenta) horas semanais
+
+ATRIBUIÇÕES DO CARGO
+
+1. Identificar e diagnosticar falhas elétricas, efetuando reparos necessários de acordo com normas técnicas e de segurança.
+
+2. Realizar inspeções periódicas e preventivas em instalações elétricas, equipamentos e sistemas de iluminação.
+
+3. Instalar, montar e reparar sistemas elétricos, como quadros de distribuição, painéis elétricos, tomadas, interruptores e luminárias.
+
+4. Substituir componentes defeituosos ou obsoletos, garantindo o funcionamento adequado dos equipamentos.
+
+5. Manter e operar geradores de energia e sistemas de emergência, realizando testes de funcionamento regularmente.
+
+6. Executar reparos emergenciais e preventivos para garantir a disponibilidade contínua de energia elétrica.
+
+7.Interpretar projetos elétricos, diagramas e especificações técnicas para realizar instalações e reparos conforme as normas estabelecidas, garantir a conformidade com os padrões de segurança e qualidade estabelecidos pelos órgãos reguladores.
+
+8. Seguir rigorosamente as normas de segurança elétrica, incluindo o uso correto de equipamentos de proteção individual (EPIs) e coletiva (EPCs).
+
+9. Manter registros precisos de manutenções realizadas, incluindo relatórios de intervenções, substituições de peças e testes de funcionamento.
+
+10. Prestar suporte técnico e orientação a outros funcionários em questões relacionadas a sistemas elétricos.
+
+11.Executar outras tarefas compatíveis com as exigências para o exercício da função.
+
+|  |  |
+| --- | --- |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+
+Cargo:
+
+**OFICIAL DE MANUTENÇÃO - HIDRÁULICO**
+
+C.B.O:
+
+724110
+
+REQUISITO PARA INGRESSO
+
+Escolaridade mínima para provimento:
+
+Ensino Médio completo, concluído em instituição de ensino reconhecida pelo Ministério da Educação – MEC
+
+Outros requisitos para provimento:
+
+Curso técnico em manutenção e reparação de sistemas hidráulicos ou área correlata.
+
+Conhecimento básico em informática nível usuário.
+
+Provimento e Perspectivas de Progressão e Promoção:
+
+Ingresso por meio de aprovação de concurso público em nível inicial (nível I), com possibilidade de promoção para os níveis II e III
+
+Progressão até a referência E de cada nível.
+
+Carga horária:
+
+40 (quarenta) horas semanais
+
+ATRIBUIÇÕES DO CARGO
+
+1.Instalar e montar tubulações, válvulas, registros, torneiras, sanitários, e outros componentes hidráulicos.
+
+2. Ler e interpretar desenhos técnicos, esquemas e plantas hidráulicas para executar corretamente as instalações.
+
+3. Realizar inspeções periódicas em sistemas hidráulicos para identificar possíveis problemas antes que ocorram falhas.
+
+4. Limpar e substituir filtros, juntas, vedantes e outros componentes para garantir o funcionamento eficiente do sistema.
+
+5. Diagnosticar e reparar vazamentos, entupimentos e outros problemas em sistemas de água, esgoto e drenagem.
+
+6. Executar reparos em bombas, motores e outros equipamentos hidráulicos.
+
+7. Realizar testes de pressão e vazão para assegurar que os sistemas estejam funcionando dentro dos parâmetros especificados.
+
+8. Ajustar e calibrar componentes hidráulicos conforme necessário.
+
+9. Atender prontamente solicitações de reparo emergencial, garantindo a rápida resolução de problemas que possam afetar a operação normal dos serviços públicos.
+
+10. Substituir componentes danificados ou defeituosos e reconfigurar sistemas conforme necessário.
+
+11. Registrar todas as atividades de manutenção realizadas, incluindo os detalhes dos reparos, peças substituídas e tempo gasto.
+
+12. Preparar relatórios periódicos sobre o estado dos sistemas hidráulicos e as ações de manutenção executadas.
+
+13. Trabalhar em conjunto com outros profissionais de manutenção e setores envolvidos para garantir a integração dos sistemas hidráulicos com outros serviços de infraestrutura.
+
+14.Executar outras tarefas compatíveis com as exigências para o exercício da função.
+
+|  |  |
+| --- | --- |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+
+Cargo:
+
+**OFICIAL DE MANUTENÇÃO - PEDREIRO**
+
+C.B.O:
+
+715210
+
+REQUISITO PARA INGRESSO
+
+Escolaridade mínima para provimento:
+
+Ensino Médio completo, concluído em instituição de ensino reconhecida pelo Ministério da Educação – MEC
+
+Outros requisitos para provimento:
+
+Curso de qualificação profissional em construção civil ou áreas relacionadas.
+
+Conhecimento básico em informática nível usuário.
+
+Provimento e Perspectivas de Progressão e Promoção:
+
+Ingresso por meio de aprovação de concurso público em nível inicial (nível I), com possibilidade de promoção para os níveis II e III
+
+Progressão até a referência E de cada nível.
+
+Carga horária:
+
+40 (quarenta) horas semanais
+
+ATRIBUIÇÕES DO CARGO
+
+1. Executar serviços de alvenaria, como assentamento de tijolos, blocos, preparar massas de cimento, concreto, argamassa, instalar esquadrias, portas, janelas e outros componentes de construção e outros materiais de construção.
+
+2.Construir e reparar muros, paredes, pisos, lajes e outras estruturas, realizar acabamentos como reboco, revestimentos cerâmicos e outros tipos de revestimentos.
+
+3. Executar manutenções preventivas e corretivas em edificações e infraestruturas públicas.
+
+4. Ler e interpretar plantas, esquemas e desenhos técnicos para a execução de obras e reparos.
+
+5. Registrar todas as atividades de manutenção realizadas, incluindo os detalhes dos reparos e peças substituídas.
+
+6. Trabalhar em conjunto com outros profissionais de manutenção, como encanadores, eletricistas e pintores, para a execução de projetos e reparos.
+
+7.Executar outras tarefas compatíveis com as exigências para o exercício da função.
+
+|  |  |
+| --- | --- |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+
+Cargo:
+
+**PILOTO DE EMBARCAÇÃO**
+
+C.B.O:
+
+341230
+
+REQUISITO PARA INGRESSO
+
+Escolaridade mínima para provimento:
+
+Ensino Médio completo, concluído em instituição de ensino reconhecida pelo Ministério da Educação – MEC
+
+Outros requisitos para provimento:
+
+Carteira profissional exigida.
+
+Conhecimento aprofundado das técnicas de navegação e operação de lanchas.
+
+Capacidade de utilizar equipamentos de navegação, como GPS, bússolas e sonares.
+
+Conhecimento básico em informática nível usuário.
+
+Provimento e Perspectivas de Progressão e Promoção:
+
+Ingresso por meio de aprovação de concurso público em nível inicial (nível I), com possibilidade de promoção para os níveis II e III
+
+Progressão até a referência E de cada nível.
+
+Carga horária:
+
+40 (quarenta) horas semanais
+
+ATRIBUIÇÕES DO CARGO
+
+1. Conduzir a embarcaç de acordo com as normas de navegação e segurança.
+
+2. Planejar rotas e trajetos considerando as condições climáticas e das vias navegáveis.
+
+3. Garantir a segurança de todos os passageiros e tripulantes a bordo.
+
+4. Verificar e manter os equipamentos de segurança, como coletes salva-vidas, boias e extintores de incêndio.
+
+5. Executar inspeções regulares e manutenção preventiva da lancha para assegurar seu bom funcionamento.
+
+6. Supervisionar o embarque e desembarque de passageiros e carga, assegurando que todos os procedimentos sejam seguidos.
+
+7. Manter registros detalhados de passageiros e carga transportada.
+
+8. Cumprir todas as leis e regulamentações de navegação, incluindo aquelas específicas para a região de operação.
+
+9. Manter a documentação da lancha e as licenças de navegação sempre atualizadas.
+
+10. Participar de programas de capacitação e atualização profissional, quando convocado.
+
+11.Executar outras tarefas compatíveis com as exigências para o exercício da função.
+
+|  |  |
+| --- | --- |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+
+Cargo:
+
+**MANIPULADOR DE ALIMENTOS**
+
+C.B.O:
+
+5135-05
+
+REQUISITO PARA INGRESSO
+
+Escolaridade mínima para provimento:
+
+Ensino Fundamental incompleto
+
+Outros requisitos para provimento:
+
+Conhecimento básico em informática nível usuário.
+
+Provimento e Perspectivas de Progressão e Promoção:
+
+Ingresso por meio de aprovação de concurso público em nível inicial (nível I), com possibilidade de promoção para os níveis II e III
+
+Progressão até a referência E de cada nível.
+
+Carga horária:
+
+40 (quarenta) horas semanais
+
+ATRIBUIÇÕES DO CARGO
+
+• Manusear produtos e utensílios envolvidos na preparação, distribuição e armazenamento de alimentos;
+
+• Seguir as normas de higiene e segurança alimentar;
+
+• Manter os alimentos em temperaturas seguras;
+
+• Separar alimentos crus e cozidos para evitar a contaminação cruzada;
+
+• Verificar regularmente a validade dos alimentos;
+
+• Manter a ordem e a limpeza em todo o local de trabalho;
+
+• Prevenir a presença de pragas;
+
+• Manter as unhas curtas e sem esmaltes;
+
+• Usar proteção nas mãos e nos cabelos;
+
+• Evitar cantar, falar, tossir, e não manipular alimento enquanto doente
+
+|  |  |
+| --- | --- |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+
+Cargo:
+
+**MOTORISTADE MÁQUINAS PESADAS**
+
+C.B.O:
+
+715125
+
+REQUISITO PARA INGRESSO
+
+Escolaridade mínima para provimento:
+
+Ensino Médio completo, concluído em instituição de ensino reconhecida pelo Ministério da Educação – MEC
+
+Outros requisitos para provimento:
+
+Curso de operador de máquinas pesadas.
+
+Provimento e Perspectivas de Progressão e Promoção:
+
+Ingresso por meio de aprovação de concurso público em nível inicial (nível I), com possibilidade de promoção para os níveis II e III
+
+Progressão até a referência E de cada nível.
+
+Carga horária:
+
+40 (quarenta) horas semanais
+
+ATRIBUIÇÕES DO CARGO
+
+1. Conduzir e operar máquinas pesadas como escavadeiras, tratores, pás carregadeiras, motoniveladoras, retroescavadeiras, entre outras, conforme as necessidades da obra.
+
+2. Realizar movimentos de terra, escavações, nivelamento e transporte de materiais pesados de acordo com as especificações do projeto.
+
+3. Efetuar inspeções diárias e manutenções preventivas nas máquinas, como checagem de óleo, combustível, hidráulica, filtros e sistemas de segurança.
+
+4. Realizar pequenos reparos e ajustes, quando necessário, para garantir que as máquinas operem de maneira eficiente e segura.
+
+5. Seguir rigorosamente as normas de segurança do trabalho, utilizando os Equipamentos de Proteção Individual (EPIs) exigidos, como capacete, luvas, óculos de segurança, protetores auriculares, entre outros.
+
+6. Identificar situações de risco e comunicar a equipe de segurança ou supervisão para prevenção de acidentes.
+
+7. Ler e entender plantas, projetos e instruções fornecidas pelos engenheiros ou supervisores de obra, a fim de operar as máquinas de acordo com as especificações técnicas.
+
+8. Seguir as orientações sobre a execução das atividades de movimentação de materiais, escavação e transporte de terra.
+
+9. Monitorar o desempenho das máquinas e realizar ajustes nos controles de acordo com as necessidades da obra.
+
+10. Acompanhar a produtividade das máquinas, garantindo que os trabalhos sejam realizados de acordo com o cronograma estabelecido.
+
+11. Trabalhar em conjunto com outros operadores, engenheiros, mestres de obras e outros membros da equipe para coordenar as tarefas e garantir a fluidez do trabalho.
+
+12. Comunicar-se constantemente com a equipe de segurança e com a supervisão sobre condições de operação e necessidades de ajustes nas máquinas.
+
+13. Preencher relatórios de atividades, indicando o tempo de operação, a necessidade de manutenção, problemas ocorridos e o desempenho das máquinas.
+
+14. Registrar eventuais falhas ou dificuldades operacionais, para garantir a rastreabilidade dos serviços e permitir a correta manutenção das máquinas.
+
+16. Em caso de falha ou acidente com a máquina, tomar as providências necessárias para o bloqueio seguro da operação e notificar a área responsável para reparos.
+
+17. Agir com prontidão em emergências, buscando minimizar riscos e danos.
+
+|  |  |
+| --- | --- |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+
+Cargo:
+
+**MOTORISTADE VEICULOS - (CNH CAT “D”)**
+
+C.B.O:
+
+782510
+
+REQUISITO PARA INGRESSO
+
+Escolaridade mínima para provimento:
+
+Ensino Médio completo, concluído em instituição de ensino reconhecida pelo Ministério da Educação – MEC
+
+Outros requisitos para provimento:
+
+Carteira de Habilitação categoria D.
+
+Conhecimento da legislação estabelecido pelo Código Brasileiro de Trânsito.
+
+Não ter cometido nenhuma infração grave ou gravíssima, ou ser reincidente em infrações médias, durante os últimos doze meses.
+
+Provimento e Perspectivas de Progressão e Promoção:
+
+Ingresso por meio de aprovação de concurso público em nível inicial (nível I), com possibilidade de promoção para os níveis II e III
+
+Progressão até a referência E de cada nível.
+
+Carga horária:
+
+40 (quarenta) horas semanais
+
+ATRIBUIÇÕES DO CARGO
+
+1.Conduzir veículos automotores veículo motorizado utilizado no transporte de passageiros, cuja lotação exceda a oito lugares, excluído o do motorista.
+
+2. Manter o veículo lubrificado, lavado e abastecido.
+
+3. Efetuar o conserto de emergência no veículo que dirige e recolhê-lo para revisão periódica.
+
+4. Informar ao mecânico quanto aos defeitos apresentados pelo veículo.
+
+5. Comunicar o seu chefe imediato qualquer anormalidade apresentada.
+
+6. Zelar pelo uso e conservação do veículo.
+
+7. Recolher o veículo à garagem da Prefeitura ou em outro local determinado pelo seu superior, após a jornada de trabalho.
+
+8. Portar documentos de Habilitação e zelar pela documentação do veículo, observando rigorosamente suas validades.
+
+9. Participar de treinamento na área de atuação, quando solicitado.
+
+10. Realizar inspeções diárias nos veículos, verificando itens de segurança, níveis de fluídos, condições dos pneus, entre outros.
+
+11. Utilizar equipamentos e dispositivos especiais tais como sinalização sonora e luminosa, software de navegação e outros.
+
+12. Trabalhar seguindo normas de segurança, higiene, qualidade e proteção ao meio ambiente.
+
+13. Cumprir rigorosamente todas as leis e regulamentos de trânsito.
+
+14.Executar outras tarefas compatíveis com as exigências para o exercício da função.
+
+|  |  |
+| --- | --- |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+
+Cargo:
+
+**MOTORISTA DE VEICULOS (CNH CAT “A” e “B”)**
+
+C.B.O:
+
+782305
+
+REQUISITO PARA INGRESSO
+
+Escolaridade mínima para provimento:
+
+Ensino Médio completo em Nutrição, concluído em instituição de ensino reconhecida pelo Ministério da Educação – MEC
+
+Outros requisitos para provimento:
+
+Carteira de Habilitação categoria A e B.
+
+Conhecimento da legislação estabelecido pelo Código Brasileiro de Trânsito.
+
+Não ter cometido nenhuma infração grave ou gravíssima, ou ser reincidente em infrações médias, durante os últimos doze meses.
+
+Provimento e Perspectivas de Progressão e Promoção:
+
+Ingresso por meio de aprovação de concurso público em nível inicial (nível I), com possibilidade de promoção para os níveis II e III
+
+Progressão até a referência E de cada nível.
+
+Carga horária:
+
+40 (quarenta) horas semanais
+
+ATRIBUIÇÕES DO CARGO
+
+1. Conduzir veículos das categorias A (motocicletas) e B (automóveis e veículos de quatro rodas leves), transportando pessoas, cargas ou valores.
+
+2. Manter o veículo lubrificado, lavado e abastecido.
+
+3. Efetuar o conserto de emergência no veículo que dirige e recolhê-lo para revisão periódica.
+
+4. Informar ao mecânico quanto aos defeitos apresentados pelo veículo.
+
+5. Comunicar o seu chefe imediato qualquer anormalidade apresentada.
+
+6. Zelar pelo uso e conservação do veículo.
+
+7. Recolher o veículo à garagem da Prefeitura ou em outro local determinado pelo seu superior, após a jornada de trabalho.
+
+8. Portar documentos de Habilitação e zelar pela documentação do veículo, observando rigorosamente suas validades.
+
+9. Participar de treinamento na área de atuação, quando solicitado.
+
+10. Realizar inspeções diárias nos veículos, verificando itens de segurança, níveis de fluídos, condições dos pneus, entre outros.
+
+11. Utilizar equipamentos e dispositivos especiais tais como sinalização sonora e luminosa, software de navegação e outros.
+
+12. Trabalhar seguindo normas de segurança, higiene, qualidade e proteção ao meio ambiente.
+
+13. Cumprir rigorosamente todas as leis e regulamentos de trânsito.
+
+14.Executar outras tarefas compatíveis com as exigências para o exercício da função.
+
+|  |  |
+| --- | --- |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+
+Cargo:
+
+**TÉCNICO AGROPECUÁRIO**
+
+C.B.O:
+
+311110
+
+REQUISITO PARA INGRESSO
+
+Escolaridade mínima para provimento:
+
+Curso técnico em Agropecuária, ou áreas relacionadas. em instituição de ensino reconhecida pelo Ministério da Educação – MEC
+
+Outros requisitos para provimento:
+
+Conhecimento avançado em informática.
+
+Provimento e Perspectivas de Progressão e Promoção:
+
+Ingresso por meio de aprovação de concurso público em nível inicial (nível I), com possibilidade de promoção para os níveis II e III
+
+Progressão até a referência E de cada nível.
+
+Carga horária:
+
+40 (quarenta) horas semanais
+
+ATRIBUIÇÕES DO CARGO
+
+1. Prestar orientação técnica para produtores rurais, auxiliando no melhor manejo de cultivos agrícolas e criação de animais.
+
+2. Desenvolver planos de manejo, bem como coordenar as atividades da propriedade rural, incluindo a escolha de culturas, rotação de pastagens e controle de rebanhos.
+
+3. Orientar sobre práticas de sanidade tanto para os animais (vacinação, controle de parasitas) quanto para as plantações (controle de pragas, fungos e doenças).
+
+4. Realizar estudos e análises do solo, clima, e recursos hídricos, entre outros, para indicar as melhores práticas de cultivo e manejo.
+
+5. Ajudar na escolha e no planejamento de sistemas de irrigação e fertilização para otimizar a produtividade.
+
+6. na comercialização de produtos agropecuários, desde a colheita até a entrega aos mercados.
+
+7. Garantir que as práticas adotadas estejam dentro das normas ambientais, de saúde e segurança no trabalho.
+
+8. Treinamento e Capacitação: Treinar mão de obra rural para o correto manejo e técnicas de produção.
+
+|  |  |
+| --- | --- |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+
+Cargo:
+
+**TÉCNICO EM INFORMÁTICA**
+
+C.B.O:
+
+317205
+
+REQUISITO PARA INGRESSO
+
+Escolaridade mínima para provimento:
+
+Curso técnico em informática, tecnologia da informação, ou áreas relacionadas. em instituição de ensino reconhecida pelo Ministério da Educação – MEC
+
+Outros requisitos para provimento:
+
+Conhecimento avançado em informática.
+
+Provimento e Perspectivas de Progressão e Promoção:
+
+Ingresso por meio de aprovação de concurso público em nível inicial (nível I), com possibilidade de promoção para os níveis II e III
+
+Progressão até a referência E de cada nível.
+
+Carga horária:
+
+40 (quarenta) horas semanais
+
+ATRIBUIÇÕES DO CARGO
+
+1. Instalação, configuração e manutenção de equipamentos de informática, como computadores, impressoras, scanners, entre outros.
+
+2. Diagnóstico e resolução de problemas de hardware e software em equipamentos utilizados pela instituição.
+
+3. Prestação de suporte técnico aos usuários internos da instituição para resolver questões relacionadas ao uso de computadores e sistemas.
+
+4. Treinamento básico para usuários sobre a utilização de softwares específicos e boas práticas de segurança da informação.
+
+5. Configuração e manutenção de redes locais (LAN’s), incluindo roteadores, switches e cabos de rede.
+
+6. Monitoramento e gerenciamento de tráfego de rede para garantir a disponibilidade e segurança das informações.
+
+7. Implementação de medidas de segurança cibernética para proteger sistemas, redes e dados contra acessos não autorizados e ataques cibernéticos.
+
+8. Desenvolvimento e manutenção de sistemas de informação, incluindo aplicativos e sistemas web, de acordo com as necessidades da instituição.
+
+10.Participar de programas de capacitação e treinamento, quando convocado.
+
+11.Executar outras tarefas compatíveis com as exigências para o exercício da função.
+
+|  |  |
+| --- | --- |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+
+Cargo:
+
+**ANALISTA TRIBUTÁRIO**
+
+C.B.O:
+
+2512-25
+
+REQUISITO PARA INGRESSO
+
+Escolaridade mínima para provimento:
+
+Ensino Superior completo em Economia ou Ciências Contábeis, concluído em instituição de ensino reconhecida pelo Ministério da Educação – MEC
+
+Outros requisitos para provimento:
+
+Registro ativo no conselho de sua classe profissional
+
+Conhecimento intermediário em informática nível usuário.
+
+Provimento e Perspectivas de Progressão e Promoção:
+
+Ingresso por meio de aprovação de concurso público em nível inicial (nível I), com possibilidade de promoção para os níveis II e III
+
+Progressão até a referência E de cada nível.
+
+Carga horária:
+
+40 (quarenta) horas semanais
+
+ATRIBUIÇÕES DO CARGO
+
+• realizar análise econômica, com ênfase em macroeconomia, investigando conjunturas e cenários, atuando em organizações do setor público nas esferas federal, estadual e municipal, na administração direta e indireta, como bancos públicos e de desenvolvimento, órgãos de governo, secretarias, autarquias, institutos de pesquisa econômica e organizações similares;
+
+• Analisar tendências setoriais e regionais, de curto, médio e longo prazos, considerando o ambiente político-institucional;
+
+• Analisar funções do Estado - alocativa, distributiva e estabilizadora da economia - para propor instrumentos de política monetária e fiscal, tais como estabilidade de preços, equilíbrio da balança de pagamentos, manutenção do nível de emprego elevado e crescimento econômico;
+
+• Elaborar previsões e gerenciar banco de dados, produzindo e analisando informações;
+
+• Analisar contas nacionais, déficit público, balança comercial e de pagamentos, políticas de juros, de crédito e de câmbio, política macroeconômica e índices de preços;
+
+• Utilizar formulações matemáticas, estatísticas e de modelagem, na análise dos fenômenos socioeconômicos em instituições públicas de financiamento;
+
+• Elaborar projetos de pesquisa, analisando mercados e realizando estudos de viabilidade econômico-financeira;
+
+• Executar e coordenar projetos no campo das ciências econômicas, desenvolvendo instrumentos de coleta e indicadores;
+
+• Recrutar, selecionar e treinar equipes;
+
+• Coletar, processar e criticar dados, interpreta resultados e propõe ações e diretrizes;
+
+• Participar de elaboração de planos de governo e de planejamento estratégico e de curto e médio prazos de instituições públicas;
+
+• Identificar estrutura de mercado, oportunidades e ameaças oriundas do ambiente e projeções de demanda por serviços públicos;
+
+• Analisa mercado financeiro, de capitais e derivativos e sua regulamentação.
+
+|  |  |
+| --- | --- |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+
+Cargo:
+
+**ARQUITETO**
+
+C.B.O:
+
+2141
+
+REQUISITO PARA INGRESSO
+
+Escolaridade mínima para provimento:
+
+Ensino Superior completo em Arquitetura, concluído em instituição de ensino reconhecida pelo Ministério da Educação – MEC
+
+Outros requisitos para provimento:
+
+Registro ativo no Conselho Regional de Arquitetura e Urbanismo do Amazonas. (CAU).
+
+Conhecimento intermediário em informática nível usuário.
+
+Provimento e Perspectivas de Progressão e Promoção:
+
+Ingresso por meio de aprovação de concurso público em nível inicial (nível I), com possibilidade de promoção para os níveis II e III
+
+Progressão até a referência E de cada nível.
+
+Carga horária:
+
+40 (quarenta) horas semanais
+
+ATRIBUIÇÕES DO CARGO
+
+1. Criar projetos arquitetônicos para construções residenciais, comerciais, públicas, entre outras.
+
+2. Avaliar a viabilidade técnica, econômica e ambiental dos projetos, considerando os aspectos legais e regulamentações locais.
+
+3. Elaborar esboços e planos detalhados de edificações, especificando as dimensões, materiais, acabamentos e disposição dos espaços.
+
+4. Desenvolver detalhes técnicos, como plantas baixas, cortes, fachadas, e especificações dos materiais a serem usados na obra.
+
+5. Avaliar as características do terreno e suas implicações no projeto, considerando topografia, clima, vegetação e infraestruturas existentes.
+
+6. Planejar a distribuição de móveis e acabamentos internos de um ambiente, considerando funcionalidade, estética e conforto.
+
+7. Garantir que o projeto atenda às normas de acessibilidade para pessoas com deficiência.
+
+8. Acompanhar a execução do projeto no canteiro de obras, garantindo que os prazos, custos e qualidade sejam atendidos conforme o planejamento.
+
+9. Coordenar a equipe de engenheiros, mestres de obra, e outros profissionais envolvidos na construção, garantindo a correta execução do projeto.
+
+10. Gerir o orçamento da obra, buscando alternativas para reduzir custos sem comprometer a qualidade do projeto.
+
+11. Fornecer consultoria técnica ao cliente em relação ao uso do espaço, otimização de áreas, materiais e custos.
+
+Estudo de sustentabilidade: Propor soluções sustentáveis, como o uso de materiais ecológicos, sistemas de energia renovável e aproveitamento de recursos naturais.
+
+12. Garantir que o projeto esteja em conformidade com as normas e regulamentos urbanísticos, como os códigos de construção, licenciamento e alvarás.
+
+13. Coordenar projetos complementares, como hidráulico, elétrico e estrutural, garantindo a harmonia entre os diferentes sistemas da edificação.
+
+14. Trabalhar em estreita colaboração com engenheiros civis, de instalações e outros profissionais para integrar os aspectos técnicos do projeto arquitetônico.
+
+15. Manter-se atualizado em relação a novas tecnologias, materiais e tendências no campo da arquitetura.
+
+16. Participação em cursos e eventos: Participar de seminários, workshops e outras atividades para aprimorar conhecimentos e habilidades.
+
+|  |  |
+| --- | --- |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+
+Cargo:
+
+**ENGENHEIRO AMBIENTAL E SANITARISTA**
+
+C.B.O:
+
+214005
+
+REQUISITO PARA INGRESSO
+
+Escolaridade mínima para provimento:
+
+Ensino Superior completo em Engenharia Ambiental, concluído em instituição de ensino reconhecida pelo Ministério da Educação – MEC
+
+Outros requisitos para provimento:
+
+Registro ativo no Conselho Regional de Engenharia e Agronomia (CREA).
+
+Conhecimento intermediário em informática nível usuário.
+
+Provimento e Perspectivas de Progressão e Promoção:
+
+Ingresso por meio de aprovação de concurso público em nível inicial (nível I), com possibilidade de promoção para os níveis II e III
+
+Progressão até a referência E de cada nível.
+
+Carga horária:
+
+40 (quarenta) horas semanais
+
+ATRIBUIÇÕES DO CARGO
+
+1.Supervisionar, coordenar e dar orientação técnica; elaborar estudos, planejamentos, projetos e especificações em geral de regiões, zonas, cidades, obras, estruturas, transporte, exploração de recursos naturais e desenvolvimento da produção industrial e agropecuária.
+
+2. Controle da emissão de poluentes, planejamento e gestão do meio ambiente e recuperação de áreas desmatadas e poluídas.
+
+3.Realizar estudos de viabilidade técnico-econômica; prestar assistência, assessoria e consultoria.
+
+4. Realizar vistoria, perícia, avaliação, arbitramento, laudo e parecer técnico.
+
+5. Desempenhar atividades de análise, experimentação, ensaio e divulgação técnica.
+
+6. Elaborar orçamentos.
+
+7. Realizar atividades de padronização, mensuração, e controle de qualidade.
+
+8. Executar e fiscalizar obras e serviços técnicos; conduzir equipe de instalação, montagem, operação, reparo ou manutenção.
+
+9. Elaborar projetos, assessorando e supervisionando a sua realização.
+
+10. Orientar e controlar processo de produção ou serviço de manutenção.
+
+11. Projetar produtos; instalações e sistemas.
+
+12. Pesquisar e elaborar processos.
+
+13. Estudar e estabelecer métodos de utilização eficaz e econômica de materiais e equipamentos, bem como de gerenciamento de pessoal.
+
+14. Utilizar recursos de informática.
+
+15. Fiscalizar o cumprimento de normas ambientais e de saneamento.
+
+16. Projetar, implementar e gerenciar sistemas de abastecimento de água, tratamento de esgoto e resíduos sólidos.
+
+17. Avaliar e emitir pareceres técnicos em processos de licenciamento ambiental.
+
+18.Desenvolver e coordenar programas de educação ambiental para a população, promover campanhas de conscientização sobre a importância da preservação ambiental e do saneamento.
+
+19. Desenvolver soluções para problemas ambientais locais.
+
+20. Atuar em emergências ambientais, como desastres naturais ou acidentes que causem danos ao meio ambiente.
+
+21. Integrar políticas de sustentabilidade em projetos de desenvolvimento urbano e rural.
+
+11. Executar outras tarefas compatíveis com as exigências para o exercício da função.
+
+|  |  |
+| --- | --- |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+
+Cargo:
+
+**ENGENHEIRO CIVIL**
+
+C.B.O:
+
+214205
+
+REQUISITO PARA INGRESSO
+
+Escolaridade mínima para provimento:
+
+Ensino Superior completo em Engenharia Civil, concluído em instituição de ensino reconhecida pelo Ministério da Educação – MEC
+
+Outros requisitos para provimento:
+
+Registro ativo no Conselho Regional de Engenharia e Agronomia (CREA).
+
+Conhecimento intermediário em informática nível usuário.
+
+Provimento e Perspectivas de Progressão e Promoção:
+
+Ingresso por meio de aprovação de concurso público em nível inicial (nível I), com possibilidade de promoção para os níveis II e III
+
+Progressão até a referência E de cada nível.
+
+Carga horária:
+
+40 (quarenta) horas semanais
+
+ATRIBUIÇÕES DO CARGO
+
+1. 1. Projetar, calcular, orçar, dirigir e fiscalizar a construção, reformas e ampliações de edifícios públicos, estradas vicinais, praças de esporte e as obras complementares respectivas; elaborar projetos urbanísticos, elaborar projetos, orçamentos para construção de prédios públicos e praças de esportes, cálculos de estruturas de concreto armado e metálicas em edifícios públicos.
+
+2. Realizar em laboratórios especializados estudos, ensaios e pesquisas relacionadas com o aproveitamento de matérias primas, processos de industrialização ou de aplicação de produtos;
+
+3. Distribuir e orientar os trabalhos de levantamento topográficos e hidrométricos.
+
+4. Fazer cálculos específicos para a confecção de mapas e registros cartográficos.
+
+5. Elaborar laudo de avaliação para fins administrativos, fiscais ou judiciais, mediante vistoria dos imóveis.
+
+6. Fiscalizar o cumprimento dos contratos celebrados entre o Município e empresas particulares para execução de obras.
+
+7. Examinar processos e emitir pareceres de caráter técnico.
+
+8. Prestar informações a interessados.
+
+9. Acompanhar e executar o plano diretor.
+
+10. Inspecionar estabelecimentos industriais, comerciais, laboratórios, hospitais, obras e proceder a fiscalização.
+
+11. Elaborar relatórios sobre assuntos pertinentes a sua área.
+
+12. Verificação do cumprimento de normas de segurança, qualidade e prazos estabelecidos.
+
+13. Participação na elaboração de editais de licitação e na gestão de contratos de obras públicas.
+
+14. Realização de estudos de viabilidade técnica e econômica para projetos de engenharia civil
+
+15. Planejamento e coordenação de atividades de manutenção preventiva e corretiva de obras e instalações públicas.
+
+16.Participação em reuniões e comissões técnicas, contribuindo com conhecimentos especializados.
+
+17. Desenvolvimento de programas de treinamento e capacitação para equipes de trabalho.
+
+18.Executar outras tarefas compatíveis com as exigências para o exercício da função.
+
+|  |  |
+| --- | --- |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+
+Cargo:
+
+**ENGENHEIRO DE PESCA**
+
+C.B.O:
+
+222115
+
+REQUISITO PARA INGRESSO
+
+Escolaridade mínima para provimento:
+
+Ensino Superior completo em Engenharia de Pesca, concluído em instituição de ensino reconhecida pelo Ministério da Educação – MEC
+
+Outros requisitos para provimento:
+
+Registro ativo no Conselho Regional de Engenharia e Agronomia (CREA).
+
+Conhecimento intermediário em informática nível usuário.
+
+Provimento e Perspectivas de Progressão e Promoção:
+
+Ingresso por meio de aprovação de concurso público em nível inicial (nível I), com possibilidade de promoção para os níveis II e III
+
+Progressão até a referência E de cada nível.
+
+Carga horária:
+
+40 (quarenta) horas semanais
+
+ATRIBUIÇÕES DO CARGO
+
+1.Desenvolvimento de planos e políticas para a exploração sustentável dos recursos pesqueiros
+
+2.Elaboração de projetos de desenvolvimento pesqueiro, incluindo análise de viabilidade econômica e ambiental, desenvolvimento de políticas e estratégias para o manejo sustentável dos recursos pesqueiros.
+
+3. Coordenação de programas de monitoramento e controle da atividade pesqueira.
+
+4. Fiscalização das atividades pesqueiras para garantir o cumprimento das leis e regulamentações ambientais e de pesca.
+
+5. Emissão de licenças e autorizações para atividades de pesca e aquicultura
+
+6. Inspeção de embarcações, equipamentos e instalações de processamento de pescado.
+
+7. Desenvolvimento de novas técnicas e tecnologias para a captura e processamento de pescado.
+
+8. Avaliação e monitoramento dos estoques pesqueiros e dos ecossistemas aquáticos.
+
+9. Promoção de programas de educação ambiental e capacitação técnica para pescadores e comunidades ribeirinhas.
+
+10. Divulgação de boas práticas de pesca e manejo sustentável dos recursos hídricos.
+
+11. Implementação de medidas de conservação e manejo sustentável dos recursos pesqueiros
+
+12. Coordenação de projetos de restauração de habitats aquáticos e proteção de espécies ameaçadas.
+
+13. Participar de programa de treinamento, quando convocado
+
+14. Monitorar a captura, desembarque e comercialização de produtos pesqueiros.
+
+15. Executar outras tarefas compatíveis com as exigências para o exercício da função.
+
+|  |  |
+| --- | --- |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+
+Cargo:
+
+**ENGENHEIRO FLORESTAL**
+
+C.B.O:
+
+222120
+
+REQUISITO PARA INGRESSO
+
+Escolaridade mínima para provimento:
+
+Ensino Superior completo em Engenharia Florestal, concluído em instituição de ensino reconhecida pelo Ministério da Educação – MEC
+
+Outros requisitos para provimento:
+
+Registro ativo no Conselho Regional de Engenharia e Agronomia (CREA).
+
+Conhecimento intermediário em informática nível usuário.
+
+Provimento e Perspectivas de Progressão e Promoção:
+
+Ingresso por meio de aprovação de concurso público em nível inicial (nível I), com possibilidade de promoção para os níveis II e III
+
+Progressão até a referência E de cada nível.
+
+Carga horária:
+
+40 (quarenta) horas semanais
+
+ATRIBUIÇÕES DO CARGO
+
+1. Planejar, coordenar e executar atividades agrossilvipecuárias e o uso de recursos naturais renováveis e ambientais.
+
+2.Elaborar documentação técnica e científica.
+
+3.Estudar o índice de crescimento das árvores e o seu cultivo em diferentes condições de clima, umidade relativa do ar e composição do solo.
+
+4.Planejar o plantio, corte e poda das árvores.
+
+5.Identificar as diversas espécies de árvores e definir suas características.
+
+6.Analisar os efeitos das enfermidades, do corte, do fogo, do pastoreio e de outros fatores que contribuem para a redução da cobertura florestal e desenvolver medidas de prevenção e combate aos mesmos.
+
+7.Efetuar estudos sobre produção e seleção de sementes.
+
+8.Participar, conforme a política interna da Instituição, de projetos, cursos, eventos, comissões, convênios e programas de ensino, pesquisa e extensão.
+
+9.Participar de programa de treinamento, quando convocado.
+
+10.Trabalhar segundo normas técnicas de segurança, qualidade, produtividade, higiene e preservação ambiental.
+
+11.Executar tarefas pertinentes à área de atuação, utilizando-se de equipamentos e programas de informática.
+
+12.Gestão de unidades de conservação e áreas protegidas, inventário e monitoramento dos recursos florestais.
+
+13.Implementação de programas de conservação da fauna e flora, monitoramento de espécies ameaçadas e elaboração de planos de ação para sua proteção, estudo e avaliação dos ecossistemas florestais para garantir sua preservação.
+
+14.Fiscalização de atividades florestais e agropecuárias para garantir o cumprimento da legislação ambiental, emissão de licenças ambientais e autorização para o uso dos recursos florestais e aplicação de penalidades e medidas corretivas em casos de infrações ambientais.
+
+15.Capacitação e orientação técnica de comunidades e produtores rurais sobre o uso sustentável dos recursos florestais.
+
+16.Promoção de atividades de educação ambiental e sensibilização sobre a importância da conservação florestal, participação em programas de divulgação e conscientização pública sobre questões ambientais.
+
+17. Colaboração com outros órgãos e entidades em iniciativas interdisciplinares de gestão ambiental.
+
+18. Executar outras tarefas compatíveis com as exigências para o exercício da função.
+
+|  |  |
+| --- | --- |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+
+Cargo:
+
+**PROCURADOR MUNICIPAL**
+
+C.B.O:
+
+241225
+
+REQUISITO PARA INGRESSO
+
+Escolaridade mínima para provimento:
+
+Ensino Superior completo em Direito, concluído em instituição de ensino reconhecida pelo Ministério da Educação – MEC
+
+Outros requisitos para provimento:
+
+Registro ativo na Ordem dos Advogados do Brasil (OAB).
+
+Conhecimento intermediário em informática nível usuário.
+
+Provimento e Perspectivas de Progressão e Promoção:
+
+Ingresso por meio de aprovação de concurso público em nível inicial (nível I), com possibilidade de promoção para os níveis II e III
+
+Progressão até a referência E de cada nível.
+
+Carga horária:
+
+40 (quarenta) horas semanais
+
+ATRIBUIÇÕES DO CARGO
+
+1. O procurador representa o município em processos judiciais (em qualquer instância), atuando em defesa dos interesses municipais. Também pode atuar em situações extrajudiciais, como acordos e negociações que envolvam a administração pública.
+
+2. Prestar orientação jurídica ao prefeito, secretários, e demais órgãos da administração pública municipal, de modo a garantir que as ações do município sejam sempre conduzidas dentro da legalidade.
+
+3. Emitir pareceres sobre a legalidade de atos administrativos, contratos, projetos de lei, editais de licitação, entre outros, para garantir que as decisões e documentos estejam em conformidade com a legislação.
+
+4. Acompanhar processos administrativos e procedimentos licitatórios para garantir que sejam realizados conforme as normas legais e regulatórias, evitando erros ou fraudes que possam prejudicar o município.
+
+5. Defender judicialmente os atos administrativos do município, como decretos, resoluções e outras ações que possam ser contestadas ou impugnadas na Justiça.
+
+6. Verificar a conformidade de atos administrativos praticados pela prefeitura e órgãos municipais, sugerindo a revogação ou anulação de atos que violem a lei.
+
+7. Atuar na cobrança de dívidas e créditos do município, como débitos tributários ou financeiros, através de ações de execução fiscal.
+
+8. O procurador também pode atuar na defesa do município em processos de improbidade administrativa, tanto como parte autora, como nas ações que envolvem servidores públicos municipais.
+
+9. Analisar a legalidade de contratos administrativos firmados pelo município, garantindo que sejam adequados às normas legais e regulares quanto ao processo licitatório.
+
+10.O procurador acompanha e orienta o processo licitatório, verificando a legalidade dos procedimentos, garantindo que as licitações sejam transparentes e em conformidade com a legislação vigente.
+
+11. Em alguns casos, o procurador pode atuar em questões legais relacionadas a processos eleitorais, garantindo que as campanhas eleitorais e outras questões atinentes ao município estejam dentro da legalidade.
+
+Zelar pela Regularidade Fiscal e Tributária:
+
+O procurador pode ajudar na gestão tributária do município, atuando para assegurar a regularidade fiscal e o cumprimento da legislação tributária municipal.
+
+|  |  |
+| --- | --- |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+
+Cargo:
+
+**BRIGADISTA**
+
+C.B.O:
+
+517110/517120
+
+REQUISITO PARA INGRESSO
+
+Escolaridade mínima para provimento:
+
+Ensino Médio completo concluído em instituição de ensino reconhecida pelo Ministério da Educação – MEC
+
+Outros requisitos para provimento:
+
+Conhecimento básico em informática nível usuário e conhecimento primeiros socorros.
+
+Provimento e Perspectivas de Progressão e Promoção:
+
+Ingresso por meio de aprovação de concurso público em nível inicial (nível I), com possibilidade de promoção para os níveis II e III
+
+Progressão até a referência E de cada nível.
+
+Carga horária:
+
+40 (quarenta) horas semanais
+
+ATRIBUIÇÕES DO CARGO
+
+1. Realizar inspeções regulares nas instalações para identificar e corrigir possíveis riscos de incêndio.
+
+2. prevenir e combater incêndios, realizar primeiros socorros e coordenar evacuações em situações de emergência.
+
+3. Assegurar que extintores, hidrantes, alarmes e detectores de fumaça estejam em perfeito estado de funcionamento.
+
+4. Participar e, eventualmente, conduzir treinamentos de prevenção e combate a incêndio para os funcionários.
+
+5. Responder rapidamente a qualquer sinal de incêndio, utilizando os equipamentos apropriados para controlar e extinguir o fogo.
+
+6. Prestar primeiros socorros a funcionários e cidadãos em situações de emergência até a chegada de serviços médicos profissionais.
+
+7. Manter-se atualizado e treinado em técnicas de primeiros socorros e reanimação cardiopulmonar (RCP).
+
+8. Participar na elaboração e atualização dos planos de evacuação de emergência dos prédios públicos.
+
+9. Guiar e orientar as pessoas durante uma evacuação de emergência, garantindo que todos deixem o local de forma segura e ordenada.
+
+10 Organizar e participar de simulações de evacuação para treinar funcionários e visitantes.
+
+11. Promover campanhas educativas sobre prevenção de incêndios e segurança pública.
+
+12. Manter registros detalhados das inspeções de segurança e das manutenções realizadas.
+
+13. laborar relatórios detalhados de qualquer incidente ocorrido, incluindo ações tomadas e recomendações para melhorias futuras.
+
+14. Participar de treinamentos regulares para atualização e aprimoramento de técnicas e procedimentos de segurança.
+
+15. Colaborar com o Corpo de Bombeiros e outras equipes de emergência quando necessário.
+
+16. Conduzir treinamentos e palestras para funcionários públicos sobre procedimentos de emergência e uso de equipamentos de combate a incêndio.
+
+17. Envolver-se em exercícios práticos e simulações para garantir a prontidão em situações reais de emergência.
+
+18. Colaborar com outros departamentos e áreas da administração pública para garantir que todas as normas de segurança sejam cumpridas.
+
+19. Fornecer consultoria interna sobre questões de segurança e prevenção de incêndios, auxiliando na criação de políticas e procedimentos.
+
+20.Executar outras tarefas compatíveis com as exigências para o exercício da função.
+
+|  |  |
+| --- | --- |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+
+Cargo:
+
+**GUARDA CIVIL MUNICIPAL**
+
+C.B.O:
+
+5172-15
+
+REQUISITO PARA INGRESSO
+
+Escolaridade mínima para provimento:
+
+Ensino Médio completo concluído em instituição de ensino reconhecida pelo Ministério da Educação – MEC
+
+Outros requisitos para provimento:
+
+Aptidão física, conhecimento básico em informática nível usuário e conhecimento primeiros socorros.
+
+Provimento e Perspectivas de Progressão e Promoção:
+
+Ingresso por meio de aprovação de concurso público em nível inicial (nível I), com possibilidade de promoção para os níveis II e III
+
+Progressão até a referência E de cada nível.
+
+Carga horária:
+
+40 (quarenta) horas semanais
+
+ATRIBUIÇÕES DO CARGO
+
+1. Realizar rondas e patrulhamento ostensivo nas áreas públicas do município, incluindo praças, ruas, escolas e órgãos municipais, com o objetivo de prevenir crimes e delitos.
+
+2. A GCM atua de forma a garantir a tranquilidade da população e prevenir ações criminosas ou infracionais, atuando em áreas sensíveis, como centros comerciais, zonas turísticas e áreas de grande circulação de pessoas.
+
+3. Fiscalizar o cumprimento de leis e regulamentos municipais, como o código de posturas, leis de uso do solo, trânsito e meio ambiente.
+
+4. Auxiliar no controle do tráfego de veículos e pedestres, colaborando com a segurança no trânsito, realizando ações educativas e aplicando multas quando necessário.
+
+5. Atuar em situações de emergência, como incêndios, acidentes, ou distúrbios públicos, prestando apoio a outros órgãos de segurança, como a Polícia Militar e os Bombeiros.
+
+6. Agir em situações de conflito social ou desordem pública, buscando resolver a situação de forma pacífica e com o mínimo de uso da força.
+
+7. Realizar a fiscalização e a prevenção de crimes ambientais, como o despejo irregular de lixo e o desmatamento ilegal, dentro da área urbana e nas zonas periféricas.
+
+8. Trabalhar na conscientização sobre questões ambientais e na proteção do patrimônio natural municipal, incluindo parques e áreas verdes.
+
+9. Proteger bens públicos, como prédios municipais, escolas, praças, mercados e outros espaços de propriedade do município.
+
+10. Impedir ações de vandalismo, roubo ou depredação ao patrimônio público, realizando vigilância constante e ações preventivas.
+
+11. Participar da segurança e organização de grandes eventos municipais, como festas populares, shows, festivais e outros eventos de grande porte.
+
+12. Auxiliar na orientação do público, controle de multidões e proteção das pessoas e do patrimônio durante essas atividades.
+
+13. Auxiliar na implementação de políticas de segurança pública a nível local, integrando esforços com a Polícia Militar, Polícia Civil, Defesa Civil e outros órgãos municipais.
+
+14. Colaborar com o planejamento de ações de segurança, como blitz educativas, campanhas de prevenção ao crime e operações de combate à violência.
+
+15. Realizar ações preventivas e de apoio a vítimas de violência doméstica, patrulhando áreas de risco e garantindo a segurança de mulheres, crianças e idosos.
+
+16. Auxiliar em situações de ameaças à integridade física de cidadãos e prestar apoio a outros órgãos responsáveis pelo atendimento a vítimas.
+
+17. Fiscalizar o trânsito, com foco na organização do tráfego, controle de estacionamento irregular, aplicação de multas e fiscalização de infrações de trânsito, como velocidade e uso do capacete.
+
+18. Apoiar a educação no trânsito e a conscientização sobre boas práticas, auxiliando no planejamento de campanhas para melhorar a segurança viária.
+
+19. Desenvolver atividades educativas nas escolas e comunidades, com o objetivo de promover a cultura de paz e ensinar as crianças e os jovens sobre cidadania, segurança pública e respeito às leis.
+
+20. Realizar palestras e workshops sobre temas como prevenção à violência, segurança no trânsito e cuidados com o patrimônio público.
+
+|  |  |
+| --- | --- |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+
+GABINETE DO PREFEITO MUNICIPAL DE CODAJÁS, ESTADO DO AMAZONAS, em 19 de dezembro de 2025.
+
+**_
+
+ANTONIO FERREIRA DOS SANTOS
+
+_**
+
+Prefeito Municipal
+
+**Publicado por:**
+
+Gabriel Henrick da Costa Faria
+
+**Código Identificador:**F95DBAFB

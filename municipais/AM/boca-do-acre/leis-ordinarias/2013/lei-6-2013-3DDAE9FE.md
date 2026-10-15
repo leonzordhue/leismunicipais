@@ -1,0 +1,48 @@
+---
+titulo: "LEI Nº 006/2013, DE 22 DE MAIO DE 2013"
+uf: "AM"
+municipio: "Boca do Acre"
+tipo: "Lei Ordinária"
+numero: "6"
+ano: "2013"
+ementa: "DISPÕE SOBRE A DOAÇÃO DE IMÓVEL AO GOVERNO DO ESTADO DO AMAZONAS E DÁ OUTRAS PROVIDENCIAS."
+entidade: "Município de Boca do Acre"
+orgao: "GABINETE DO PREFEITO"
+publicacao: "DOM-AAM ed. 1333"
+data_publicacao: 2015-04-17
+fonte: "https://www.diariomunicipal.com.br/aam/materia/3DDAE9FE"
+codigo_sigpub: "3DDAE9FE"
+versao_texto: "original (publicação no DOM-AAM)"
+baixado_em: 2026-10-15
+---
+# LEI Nº 006/2013, DE 22 DE MAIO DE 2013
+
+GABINETE DO PREFEITO
+
+LEI Nº 006/2013, DE 22 DE MAIO DE 2013
+
+DISPÕE SOBRE A DOAÇÃO DE IMÓVEL AO GOVERNO DO ESTADO DO AMAZONAS E DÁ OUTRAS PROVIDENCIAS.
+
+O Excelentíssimo Senhor Antonio Iran de Souza Lima, Prefeito Municipal de Boca do Acre, Estado do Amazonas, no uso de suas atribuições que lhe são asseguradas pela legislação em vigor, faz saber que a Câmara Municipal de Boca do Acre, por seus representantes, aprovou e eu sanciono a seguinte
+
+LEI
+
+Art. 1.º Fica a Prefeitura Municipal de Boca do Acre autorizada a doar ao GOVERNO DO ESTADO DO AMAZONAS, de UMA ÁREA DE TERRA, destacada de uma área maior, situada no Km 05 da BR 317, margem esquerda no sentido cidade baixa/Platô do Piquiá, neste Município, com área total de 12,000,00m² (Doze Mil Metros Quadrados) e um perímetro de 440,00 metros, dentro dos seguintes limites e confrontações: Partindo do Marco 01, com coordenadas LONG=0681787, LAT=9030392, com azimute magnético de 10º00’00” e distância de 120,00m, até o marco 02 com coordenadas LONG=0681825, LAT=9030508, limitando-se com terras da senhora Jucileide Almeida de Noronha; daí, segue com azimute de 280º00’00” e distância de 100,00m, até o marco 03,com coordenadas LONG=0681729, LAT=9030538, limitando-se com o restante de terras da Prefeitura Municipal de Boca do Acre; deste, segue com azimute de 190º00’00” e distância de 120,00m, até o marco 04, com coordenadas LONG=0681694, LAT=9030424, limitando-se com terras remanescentes da outorgante vendedora Elizabeth Carvalho Lopes; seguindo com azimute de 100º00’,00” e distância de 100,00m, até o marco 01, inicio do levantamento, limitando-se com a BR 317, KM 05; adquirido pela Prefeitura Municipal de Boca do Acre, Estado do Amazonas, inscrita no CNPJ/MF sob o n° 15.811.318/0001-20, estabelecida na Avenida Comandante Julio Toá s/n°, Platô do Piquiá, nesta cidade, por compra feita a Elizabeth Carvalho Lopes, brasileira, solteira, comerciante, portadora da Cédula de Identidade RG nº 410.199-SSP/AM, e inscrita no CPF/MF sob o nº 073.584.312-00, residente e domiciliada nesta cidade, conforme Escritura Pública de Compra e Venda de 21.05.2013, lavradas nas Notas do Cartório de Notas da Comarca de Boca do Acre, no livro n° 38, fls. 019, devidamente registrada sob o n° R-1-2.966, referente a Matricula 2.966, constantes de fls., 089, do Livro n° 2-N, de Registro Geral de Imóveis, sem condições.
+
+Art. 2.º A área objeto da doação tem como destinação exclusiva construção de uma Escola de Tempo Integral, pelo Governo do Estado do Amazonas.
+
+Art. 3º A doação ora autorizada terá caráter irrevogável e irretratável, salvo se for dada ao imóvel destinação diversa da prevista nesta lei, caso em que o terreno retornará ao patrimônio da doadora.
+
+Art. 4.º Esta Lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+
+Gabinete do Prefeito Municipal de Boca do Acre, AM., aos 22 de maio de 2013.
+
+**_ANTONIO IRAN DE SOUZA LIMA_**
+
+Prefeito Municipal
+
+**Publicado por:**
+
+Aguimar Silva de Noronha
+
+**Código Identificador:**3DDAE9FE

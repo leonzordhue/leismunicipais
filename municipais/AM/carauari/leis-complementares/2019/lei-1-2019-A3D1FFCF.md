@@ -1,0 +1,6011 @@
+---
+titulo: "LEI COMPLEMENTAR Nº 001/2019."
+uf: "AM"
+municipio: "Carauari"
+tipo: "Lei Complementar"
+numero: "1"
+ano: "2019"
+ementa: "Revoga a Lei Complementar nº 001/2017 e Institui o Novo Código Tributário do Município de Carauari - AM."
+entidade: "Município de Carauari"
+orgao: "Gabinete do Prefeito"
+publicacao: "DOM-AAM ed. 2516"
+data_publicacao: 2019-12-27
+fonte: "https://www.diariomunicipal.com.br/aam/materia/A3D1FFCF"
+codigo_sigpub: "A3D1FFCF"
+versao_texto: "original (publicação no DOM-AAM)"
+baixado_em: 2026-10-15
+---
+# LEI COMPLEMENTAR Nº 001/2019.
+
+GABINETE DO PREFEITO
+
+LEI COMPLEMENTAR Nº 001/2019.
+
+_Revoga a Lei Complementar nº 001/2017 e Institui o Novo Código Tributário do Município de Carauari - AM._
+
+**O PREFEITO EM EXERCÍCIO MUNICIPAL DE CARAUARI**, no uso das atribuições legais que lhe confere a Lei Orgânica do Município de Carauari,
+
+**FAÇO SABER** a todos os habitantes que a **CÂMARA MUNICIPAL** aprovou e eu sanciono a presente.
+
+**LEI:**
+
+**DO CÓDIGO TRIBUTÁRIO MUNICIPAL**
+
+**DAS DISPOSIÇÕES PRELIMINARES**
+
+**Art. 1º. **A presente Lei institui o Código Tributário do Município, com fundamento na Constituição da República Federativa do Brasil, no Código Tributário Nacional e legislação subsequente e na Lei Orgânica do Município.
+
+**Art. 2º. **Este Código institui os tributos de competência do Município, estabelece as normas complementares de Direito Tributário relativas a ele e disciplina a atividade tributária dos agentes públicos, dos sujeitos passivos e demais obrigados.
+
+**Art. 3º. **O presente Código é constituído de 3 (três) livros, com a matéria assim distribuída:
+
+**a) **LIVRO I - Dispõe sobre as normas gerais de direito tributário estabelecidas pela legislação federal, aplicáveis aos Municípios, e as de interesse do Município para aplicação de sua lei tributária;
+
+**b) **LIVRO II - Regula os Tributos em espécie;
+
+**c) **LIVRO III - Regula a Administração Tributaria;
+
+**LIVRO I**
+
+**DAS NORMAS GERAIS**
+
+**TÍTULO I**
+
+**DA LEGISLAÇÃO TRIBUTÁRIA**
+
+**Art. 4º. **A expressão “legislação tributária municipal” compreende as leis, os decretos e as normas complementares que versam, no todo ou em parte, sobre tributos de competência do Município e relações jurídicas a eles pertinentes.
+
+Parágrafo Único.São normas complementares das leis e dos decretos:
+
+I **- **os atos normativos expedidos pelas autoridades administrativas;
+
+II** - **as decisões dos órgãos competentes das instâncias administrativas;
+
+III** - **as práticas reiteradamente adotadas pelas autoridades administrativas;
+
+IV** - **os convênios que o Município celebrar com autoridades competentes da Administração direta ou indireta da União, Estados ou Municípios.
+
+**Art. 5º. **A lei tributária entra em vigor na data de sua publicação, ou após decorrido o período de vacância, a contar da data da publicação nela estabelecido, salvo os dispositivos que instituam ou majorem tributos, definam novas hipóteses de incidência e extingam ou reduzam isenções, que só produzirão efeitos a partir do exercício seguinte.
+
+**Art. 6º. **Nenhum tributo será cobrado:
+
+I** - **em relação a fatos geradores ocorridos antes do início da vigência da lei que o houver instituído ou aumentado;
+
+II** - **no mesmo exercício em que haja sido publicada a lei que os instituiu ou aumentou;
+
+III **- **Antes de decorridos noventa dias da data em que haja sido publicada a lei que os instituiu ou aumentou, observado o disposto no inciso II.
+
+**Art. 7º. **A lei aplica-se a ato ou fato pretérito:
+
+I **- **em qualquer caso, quando seja expressamente interpretativa, excluída a aplicação de penalidades à infração dos dispositivos interpretados;
+
+II** - **tratando-se de ato não definitivamente julgado, quando:
+
+a)deixe de defini-lo como infração;
+
+b)deixe de tratá-lo como contrário a qualquer exigência de ação ou omissão, desde que não tenha sido fraudulento, nem implicado a falta de pagamento de tributo;
+
+c)comine-lhe penalidade menos severa que a prevista na lei vigente ao tempo de sua prática.
+
+**Art. 8º. **O conteúdo e o alcance dos decretos restringem-se aos das leis em função das quais sejam expedidos.
+
+**Art. 9º. **Interpreta-se literalmente a legislação tributária que disponha sobre:
+
+I **- **suspensão ou exclusão do crédito tributário;
+
+II **- **outorga de isenção;
+
+III** - **dispensa do cumprimento de obrigações acessórias.
+
+**TÍTULO II**
+
+**DAS OBRIGAÇÕES TRIBUTÁRIAS**
+
+**CAPÍTULO I**
+
+**DAS DISPOSIÇÕES GERAIS**
+
+**Art. 10º. **Decorre a obrigação tributária do fato de encontrar-se a pessoa física ou jurídica nas condições previstas em lei, dando lugar à referida obrigação.
+
+**Art. 11. **A obrigação tributária é principal ou acessória.
+
+§ 1°. A obrigação principal surge com a ocorrência do fato gerador, tem por seu objeto o pagamento do tributo ou penalidade pecuniária, extinguindo-se juntamente com o crédito dela decorrente.
+
+§ 2°. A obrigação acessória decorre da legislação tributária e tem por objeto prestações positivas ou negativas nela previstas no interesse do lançamento, da cobrança e da fiscalização dos tributos.
+
+§ 3°. A obrigação acessória, pelo simples fato da sua não observância, converte-se em obrigação principal relativamente à penalidade pecuniária.
+
+**Art. 12. **Se não for fixado o tempo do pagamento, o vencimento da obrigação tributária ocorre 30 (trinta) dias após a data da apresentação da declaração do lançamento ou da notificação do sujeito passivo.
+
+**CAPÍTULO II**
+
+**DO FATO GERADOR**
+
+**Art. 13. **O fato gerador da obrigação tributária principal é a situação definida nesta Lei como necessária e suficiente para justificar o lançamento e a cobrança de cada um dos tributos do Município.
+
+**Art. 14. **O fato gerador da obrigação acessória é qualquer situação que, na forma da legislação aplicável, imponha a prática ou a abstenção de ato que não configure obrigação principal.
+
+**Art. 15. **O lançamento do tributo e a definição legal do fato gerador são interpretados independentemente, abstraindo-se:
+
+I - a validade jurídica dos atos efetivamente praticados pelos contribuintes, responsáveis ou terceiros, bem como da natureza do seu objeto ou dos seus efeitos;
+
+II - os efeitos dos fatos efetivamente ocorridos.
+
+**Art. 16. **Salvo disposição em contrário, consideram-se ocorrido o fato gerador e existente os seus efeitos:
+
+I - tratando-se de situação de fato, desde o momento em que se verifiquem as circunstâncias materiais necessárias a que produzam os efeitos que normalmente lhe são próprios;
+
+II - tratando-se de situação jurídica, desde o momento em que ela esteja definitivamente constituída, nos termos do direito aplicável.
+
+**CAPÍTULO III**
+
+**DO SUJEITO ATIVO**
+
+**Art. 17. **Sujeito ativo da obrigação é o Município de Carauari
+
+**CAPÍTULO IV**
+
+**DO SUJEITO PASSIVO**
+
+**Art. 18. **Sujeito passivo da obrigação principal é a pessoa obrigada ao pagamento de tributo ou penalidade pecuniária.
+
+Parágrafo único.O sujeito passivo da obrigação principal diz-se:
+
+I - contribuinte, quando tenha relação pessoal e direta com a situação que constitua o respectivo fato gerador;
+
+II - responsável, quando, sem revestir a condição de contribuinte, sua obrigação decorra de disposição expressa em lei.
+
+**Art. 19. **Sujeito passivo da obrigação acessória é a pessoa obrigada à prática ou à abstenção de atos discriminados na legislação tributária do Município, que não configurem obrigação principal de tributo ou penalidade pecuniária.
+
+**Art. 20. **O sujeito passivo, caso convocado, fica obrigado a prestar as declarações solicitadas pela autoridade administrativa que, quando julgá-las insuficientes ou imprecisas, poderá exigir que sejam completadas ou esclarecidas.
+
+§ 1°. A convocação do contribuinte será feita por quaisquer dos meios previstos nesta Lei.
+
+§ 2°. Feita a convocação do contribuinte, terá ele o prazo de até 20 (vinte) dias, a cargo da administração, para prestar os esclarecimentos solicitados, sob pena de que se proceda ao lançamento de ofício, sem prejuízo da aplicação das demais sanções cabíveis, a contar da intimação.
+
+**CAPÍTULO V**
+
+**DA CAPACIDADE TRIBUTÁRIA**
+
+**Art. 21. **A capacidade tributária passiva independe:
+
+I - da capacidade civil das pessoas naturais;
+
+II - de encontrar-se a pessoa natural sujeita a medidas que importem privação ou limitação do exercício de atividades civis, comerciais ou profissionais, ou da administração direta de seus bens e negócios;
+
+III - de estar à pessoa jurídica regularmente constituída, bastando que configure uma unidade econômica ou profissional.
+
+**CAPÍTULO VI**
+
+**DO DOMICÍLIO TRIBUTÁRIO**
+
+**Art. 22. **Na falta de eleição, pelo contribuinte ou responsável, de domicílio tributário, para os fins desta Lei, considera-se como tal:
+
+I - quanto às pessoas físicas, a sua residência habitual ou, sendo esta incerta ou desconhecida, o centro habitual de sua atividade, no território do Município;
+
+II - quanto às pessoas jurídicas de direito privado ou às firmas individuais, o lugar de cada estabelecimento situado no território do Município de Carauari;
+
+III - quanto às pessoas jurídicas de direito público, qualquer de suas repartições no território do Município.
+
+§ 1°. Quando não couber a aplicação das regras previstas em quaisquer dos incisos deste artigo, considerar-se-á como domicílio tributário do contribuinte ou responsável o lugar da situação dos bens ou da ocorrência dos atos que derem origem à obrigação.
+
+§ 2°. A autoridade administrativa pode recusar o domicílio eleito, quando impossibilite ou dificulte a arrecadação ou a fiscalização do tributo, aplicando-se então a regra do parágrafo anterior.
+
+§ 3°. Os contribuintes comunicarão à repartição competente a mudança de domicílio no prazo máximo de 30 (trinta) dias.
+
+§ 4°. O domicílio fiscal e o número de inscrição respectivo serão obrigatoriamente consignados nos documentos e papéis dirigidos às repartições fiscais do Município.
+
+**CAPÍTULO VII**
+
+**DA SOLIDARIEDADE**
+
+**Art. 23. **São solidariamente obrigadas:
+
+I - as pessoas que tenham interesse comum na situação que constitua o fato da obrigação principal;
+
+II - as pessoas expressamente designadas por lei;
+
+III - todos os que, por qualquer meio ou em razão de ofício, participem ou guardem vínculo ao fato gerador da obrigação tributária.
+
+§ 1°. A solidariedade não comporta benefício de ordem.
+
+§ 2°. A solidariedade subsiste em relação a cada um dos devedores solidários, até a extinção do crédito fiscal.
+
+**Art. 24. **Salvo disposição em contrário, são os seguintes os efeitos da solidariedade:
+
+I - o pagamento efetuado por um dos obrigados aproveita aos demais;
+
+II - a isenção ou remissão de crédito exonera todos os obrigados, salvo se outorgada pessoalmente a um deles, subsistindo, neste caso, a solidariedade quanto aos demais pelo saldo;
+
+III - a interrupção da prescrição, em favor ou contra um dos obrigados, favorece ou prejudica os demais.
+
+**CAPÍTULO VIII**
+
+**DA RESPONSABILIDADE TRIBUTÁRIA**
+
+**SEÇÃO I**
+
+**DAS DISPOSIÇÕES GERAIS**
+
+**Art. 25. **Sem prejuízo do disposto neste capítulo, a lei pode atribuir de modo expresso a responsabilidade pelo crédito tributário a terceira pessoa, vinculada ao fato gerador da respectiva obrigação, excluindo a responsabilidade do contribuinte ou atribuindo a este, em caráter supletivo, o cumprimento total ou parcial da referida obrigação.
+
+**SEÇÃO II**
+
+**DA RESPONSABILIDADE DOS SUCESSORES**
+
+**Art. 26. **O disposto nesta seção se aplica por igual aos créditos tributários definitivamente constituídos ou em curso de constituição à data dos atos nela referidos, e aos constituídos posteriormente aos mesmos atos, desde que relativos às obrigações tributárias surgidas até a referida data.
+
+**Art. 27. **Os créditos tributários relativos a impostos cujo fato gerador seja a propriedade, o domínio útil ou a posse de bens imóveis, e bem assim relativos a taxas pela prestação de serviços referentes a tais bens ou a contribuições de melhoria, sub-rogam-se na pessoa dos respectivos adquirentes, salvo quando conste do título a prova de sua quitação.
+
+Parágrafo único. No caso de arrematação em hasta pública, a sub-rogação ocorre sobre o respectivo preço.
+
+**Art. 28. **São pessoalmente responsáveis:
+
+I - o adquirente ou remitente, pelos tributos relativos aos bens adquiridos ou remidos;
+
+II - o sucessor a qualquer título e o cônjuge herdeiro, pelos tributos devidos até a data da partilha ou adjudicação, limitada esta responsabilidade ao montante do quinhão, do legado;
+
+III - o espólio, pelos tributos devidos pelo de cujus até a data da abertura da sucessão.
+
+**Art. 29. **A pessoa jurídica de direito privado que resultar da fusão, transformação ou incorporação de outra é responsável pelos tributos devidos pelas pessoas jurídicas de direito privado fusionadas, transformadas ou incorporadas, até a data do respectivo ato.
+
+Parágrafo único.O disposto neste artigo se aplica aos casos de extinção de pessoas jurídicas de direito privado, quando a exploração da respectiva atividade seja continuada por qualquer sócio remanescente, ou seu espólio, sob a mesma ou outra razão social ou firma individual.
+
+**Art. 30. **A pessoa física ou jurídica de direito privado que adquirir de outra, por qualquer título, estabelecimento comercial, industrial ou profissional e continuar a respectiva exploração, sob a mesma ou outra razão social ou sob firma ou nome individual, responde pelos tributos, relativos ao estabelecimento adquirido, devidos até a data do ato:
+
+I - integralmente, se o alienante cessar a exploração do comércio, indústria ou atividade;
+
+II - subsidiariamente com o alienante, se este prosseguir na exploração ou iniciar, dentro de 06 (seis) meses a contar da data da alienação, nova atividade no mesmo ou em outro ramo de comércio, indústria ou profissão.
+
+**SEÇÃO III**
+
+**DA RESPONSABILIDADE DE TERCEIROS**
+
+**Art. 31. **Nos casos de impossibilidade de exigência do cumprimento da obrigação principal pelo contribuinte, respondem solidariamente com este, nos atos que intervierem ou pelas omissões de que forem responsáveis:
+
+I - os pais, pelos tributos devidos por seus filhos menores;
+
+II - os tutores ou curadores, pelos tributos devidos pelos seus tutelados ou curatelados;
+
+III - os administradores de bens de terceiros, pelos tributos devidos por estes; IV - o inventariante, pelos tributos devidos pelo espólio;
+
+V - o síndico e o comissário, pelos tributos devidos pela massa falida ou pelo concordatário;
+
+VI - os tabeliães, escrivães e demais serventuários de ofício, pelos tributos devidos pelos atos praticados por eles, ou perante eles, em razão de seu ofício;
+
+VII - os sócios, no caso de liquidação de sociedade de pessoas.
+
+Parágrafo único. O disposto neste artigo só se aplica, em matéria de penalidade, às de caráter moratório.
+
+**Art. 32. **São pessoalmente responsáveis pelos créditos correspondentes às obrigações tributárias resultantes de atos praticados com excesso de poderes ou infração de lei, contrato social ou estatutos:
+
+I - as pessoas referidas no artigo anterior;
+
+II - os mandatários, prepostos e empregados;
+
+III - os diretores, gerentes ou representantes de pessoas jurídicas de direito privado.
+
+**SEÇÃO IV**
+
+**DA RESPONSABILIDADE POR INFRAÇÕES**
+
+**Art. 33. **Salvo disposição de lei em contrário, a responsabilidade por infrações da legislação tributária independe da intenção do agente ou do responsável e da efetividade, natureza e extensão dos efeitos do ato.
+
+**Art. 34. **A responsabilidade é pessoal ao agente:
+
+I - quanto às infrações conceituadas por lei como crimes ou contravenções, salvo quando praticadas no exercício regular de administração, mandato, função, cargo ou emprego, ou no cumprimento de ordem expressa emitida por quem de direito;
+
+II - quanto às infrações em cuja definição o dolo específico do agente seja elementar;
+
+III - quanto às infrações que decorram direta e exclusivamente de dolo específico:
+
+a) das pessoas referidas no artigo 31, contra aquelas por quem respondem;
+
+b) dos mandatários, prepostos ou empregados, contra seus mandantes, preponentes ou empregadores;
+
+c) dos diretores, gerentes ou representantes de pessoas jurídicas de direito privado, contra estas.
+
+**TÍTULO III**
+
+**DO CRÉDITO TRIBUTÁRIO**
+
+**CAPÍTULO I**
+
+**DAS DISPOSIÇÕES GERAIS**
+
+**Art. 35. **O crédito tributário decorre da obrigação principal e tem a mesma natureza desta.
+
+**Art. 36. **As circunstâncias que modificam o crédito tributário, sua extensão ou seus efeitos, ou as garantias ou os privilégios a ele atribuídos, ou que excluam sua exigibilidade, não afetam a obrigação tributária que lhe deu origem.
+
+**Art. 37. **O crédito tributário regularmente constituído somente se modifica ou extingue, ou tem a sua exigibilidade suspensa ou excluída, nos casos previstos em lei, fora dos quais não podem ser dispensados, sob pena de responsabilidade funcional na forma da lei, a sua efetivação ou as respectivas garantias.
+
+**Art. 38. **Qualquer subsídio ou isenção, redução de base de cálculo, anistia ou remissão que envolva matéria tributária de competência do Município somente poderá ser concedida através de lei específica, observado o disposto no art. 14 da Lei de Responsabilidade Fiscal.
+
+**CAPÍTULO II**
+
+**DA CONSTITUIÇÃO DO CRÉDITO TRIBUTÁRIO**
+
+**SEÇÃO I**
+
+**DO LANÇAMENTO**
+
+**Art. 39. **Compete privativamente à autoridade administrativa constituir o crédito tributário pelo lançamento, assim entendido o procedimento administrativo tendente a verificar a ocorrência do fato gerador da obrigação correspondente, determinar a matéria tributável, calcular o montante do tributo devido, identificar o sujeito passivo e, sendo o caso, propor a aplicação da penalidade cabível.
+
+Parágrafo único.A atividade administrativa de lançamento é vinculada e obrigatória, sob pena de responsabilidade funcional.
+
+**Art. 40. **O lançamento reporta-se à data da ocorrência do fato gerador da obrigação e é regido pela então lei vigente, ainda que posteriormente modificada ou revogada.
+
+Parágrafo único.Aplica-se ao lançamento a legislação que, posteriormente à ocorrência do fato gerador da obrigação, tenha instituído novos critérios de apuração ou processos de fiscalização, ampliando os poderes de investigação das autoridades administrativas, ou outorgado ao crédito maiores garantias ou privilégios, exceto, neste último caso, para efeito de atribuir responsabilidade tributária a terceiros.
+
+**Art. 41. **O lançamento regularmente notificado ao sujeito passivo somente pode ser alterado em virtude de:
+
+I - impugnação do sujeito passivo;
+
+II - recurso de ofício;
+
+III - iniciativa de ofício da autoridade administrativa, nos casos previstos no art. 47, desta Lei.
+
+**Art. 42. **Considera-se o contribuinte notificado do lançamento ou de qualquer alteração que ocorra posteriormente, daí se contando o prazo para reclamação, relativamente às inscrições nela indicadas, sucessivamente, através:
+
+I - da notificação direta;
+
+II - da remessa do aviso por via postal;
+
+III - da publicação de edital.
+
+§ 1°. Quando o domicílio tributário do contribuinte se localizar fora do território do Município, considerar-se-á feita notificação direta com a remessa do aviso por via postal.
+
+§ 2°. Na impossibilidade de se localizar pessoalmente o sujeito passivo, quer através da entrega pessoal da notificação, quer através de sua remessa por via postal, reputar-se-á efetivado o lançamento ou as suas alterações mediante a comunicação na forma do inciso III deste artigo.
+
+§ 3°. A recusa do sujeito passivo em receber a comunicação do lançamento, ou a impossibilidade de localizá-lo pessoalmente ou através de via postal, não implica dilatação do prazo concedido para o cumprimento da obrigação tributária ou para a apresentação de reclamações ou interposição de recursos.
+
+§ 4°. A notificação de lançamento conterá:
+
+I - o nome do sujeito passivo e seu domicílio tributário;
+
+II - a denominação do tributo e o exercício a que se refere;
+
+III - o valor do tributo, sua alíquota e a base de cálculo;
+
+IV - o prazo para pagamento ou impugnação;
+
+V - o comprovante, para o órgão fiscal, de recebimento pelo contribuinte;
+
+VI - demais elementos estipulados em regulamento.
+
+§ 5°. Considera-se feita a notificação:
+
+I - se direta, na data do respectivo ciente;
+
+II - se por carta, na data do recibo de volta, ou se for omitido, 05 (cinco) dias após a data da entrega da carta à agência postal;
+
+III - se por edital, 05 (cinco) dias após a sua afixação ou publicação.
+
+**Art. 43. **Enquanto não extinto o direito da Fazenda Pública, poderão ser efetuados lançamentos omitidos, por qualquer circunstância, nas épocas próprias, bem como lançamentos complementares de outros viciados por irregularidade ou erro de fato.
+
+Parágrafo único. No caso deste artigo, o débito decorrente do lançamento anterior, quando quitado, será considerado como pagamento parcial do crédito resultante do lançamento complementar.
+
+**Art. 44. **Quando o cálculo do tributo tenha por base, ou tome em consideração o valor ou o preço de bens, direitos, serviços ou atos jurídicos, a autoridade lançadora arbitrará aquele valor ou preço, sempre que seja omissos ou que não mereçam fé as declarações ou os esclarecimentos prestados, ou os documentos expedidos pelo sujeito passivo ou pelo terceiro legalmente obrigado, ressalvado, em caso de contestação, avaliação contraditória, administrativa ou judicial.
+
+**Art. 45. **É facultado ainda à Fazenda Pública Municipal o arbitramento de bases tributárias, quando ocorrer sonegação cujo montante não se possa conhecer exatamente ou fato que impossibilite a obtenção de dados exatos ou dos elementos necessários à fixação da base de cálculo ou alíquota do tributo.
+
+**Art. 46. **A modificação introduzida, de ofício ou em conseqüência de decisão administrativa ou judicial, nos critérios jurídicos adotados pela autoridade administrativa no exercício do lançamento, somente pode ser efetivada, em relação a um mesmo sujeito passivo, quanto a fato gerador ocorrido posteriormente à sua introdução.
+
+**SEÇÃO II**
+
+**DAS MODALIDADES DE LANÇAMENTO**
+
+**Art. 47. **O lançamento é efetuado:
+
+I - com base em declaração do contribuinte ou de seu representante legal;
+
+II - de ofício, nos casos previstos neste capítulo;
+
+III - por homologação.
+
+**Art. 48. **Far-se-á o lançamento com base na declaração do contribuinte, quando este prestar à autoridade administrativa informações sobre a matéria de fato, indispensáveis à efetivação do lançamento.
+
+§ 1°. A retificação da declaração por iniciativa do próprio declarante quando vise reduzir ou excluir tributo, só é admissível mediante comprovação do erro em que se funde e antes de notificado o lançamento.
+
+§ 2°. Os erros contidos na declaração e apuráveis pelo seu exame serão retificados de ofício pela autoridade administrativa a quem competir a revisão daquela.
+
+**Art. 49. **O lançamento é efetuado e revisto de ofício pelas autoridades administrativas nos seguintes casos:
+
+I - quando a lei assim o determine;
+
+II - quando a declaração não seja prestada por quem de direito, no prazo e na forma desta lei;
+
+III - quando a pessoa legalmente obrigada, embora tenha prestado declaração, nos termos do inciso anterior, deixe de atender, no prazo, ao pedido de esclarecimento formulado pela autoridade administrativa, recuse-se a prestá-lo ou não preste satisfatoriamente, a juízo daquela autoridade;
+
+IV - quando se comprove falsidade, erro ou omissão quanto a qualquer elemento definido na legislação tributária como sendo de declaração obrigatória;
+
+V - quando se comprove omissão ou inexatidão, por parte de pessoa legalmente obrigada, nos casos de lançamento por homologação a que se refere o artigo seguinte;
+
+VI - quando se comprove ação ou omissão do sujeito passivo ou de terceiro legalmente obrigado, que conceda lugar à aplicação de penalidade pecuniária;
+
+VII - quando se comprove que o sujeito passivo, ou terceiro em benefício daquele, agiu com dolo, fraude ou simulação;
+
+VIII - quando deva ser apreciado fato não conhecido ou não provado quando do lançamento anterior;
+
+IX - quando se comprove que no lançamento anterior ocorreu fraude ou falta funcional da autoridade que o efetuou, ou omissão, pela mesma autoridade, de ato ou formalidade essencial;
+
+X - quando se comprove que no lançamento anterior ocorreu erro na apreciação dos fatos ou na aplicação da lei.
+
+**Art. 50. **O lançamento por homologação, que ocorre quanto aos tributos cuja legislação atribua ao sujeito passivo o dever de antecipar o pagamento sem prévio exame da autoridade administrativa, opera-se pelo ato em que a referida autoridade, tomando conhecimento da atividade assim exercida pelo obrigado, expressamente o homologue.
+
+§ 1°. O pagamento antecipado pelo obrigado nos termos deste artigo extingue o crédito, sob condição resolutória da ulterior homologação do lançamento.
+
+§ 2°. Não influem sobre a obrigação tributária quaisquer atos anteriores à homologação, praticados pelo sujeito passivo ou por terceiro, visando à extinção total ou parcial do crédito.
+
+§ 3°. Os atos a que se refere o parágrafo anterior serão considerados na apuração do saldo porventura devido e, sendo o caso, na imposição de penalidade ou sua graduação. § 4°. O prazo para a homologação será de 5 (cinco) anos a contar da ocorrência do fato gerador.
+
+§ 5°. Expirado o prazo previsto no parágrafo anterior sem que a Fazenda Pública Municipal tenha se pronunciado, considera-se homologado o lançamento e definitivamente extinto o crédito, salvo se comprovada a ocorrência de dolo, fraude ou simulação.
+
+**Art. 51. **A declaração ou comunicação fora do prazo, para efeito de lançamento, não desobriga o contribuinte do pagamento das multas e atualização monetária.
+
+**Art. 52. **Nos termos do inciso VI do artigo 31, até o dia 10 (dez) de cada mês os serventuários da Justiça enviarão à Fazenda Pública Municipal, conforme modelos regulamentares, extratos ou comunicações de atos relativos a imóveis, inclusive escrituras de enfiteuse, anticrese, hipotecas, arrendamentos ou locação, bem como das averbações, inscrições ou transações realizadas no mês anterior.
+
+Parágrafo único. Os cartórios e tabelionatos serão obrigados a exigir, sob pena de responsabilidade, sem prejuízo da pena prevista no inciso I do artigo 226, para efeito de lavratura de transferência ou venda de imóvel, além da comprovação de prévia quitação do ITBI, inter vivos, a certidão de aprovação do loteamento, quando couber, e enviar à Fazenda Pública Municipal os dados das operações realizadas com imóveis nos termos do caput deste artigo.
+
+**CAPÍTULO III**
+
+**DA SUSPENSÃO DO CRÉDITO TRIBUTÁRIO**
+
+**SEÇÃO I**
+
+**DAS DISPOSIÇÕES GERAIS**
+
+**Art. 53. **Suspendem a exigibilidade do crédito tributário:
+
+I - a moratória;
+
+II - o depósito do seu montante integral ou parcial;
+
+III - as reclamações e os recursos nos termos deste Código;
+
+IV - a concessão de medida liminar em mandado de segurança;
+
+V - a concessão de medida liminar ou de tutela antecipada, em outras espécies de ação judicial;
+
+VI - o parcelamento.
+
+§ 1º. O disposto neste artigo não dispensa o cumprimento das obrigações acessórias dependentes da obrigação principal cujo crédito seja suspenso ou dela conseqüentes.
+
+§ 2º. O depósito parcial do crédito tributário somente suspenderá este até o limite depositado, ficando o remanescente sujeito aos acréscimos legais.
+
+**SEÇÃO II**
+
+**DA MORATÓRIA**
+
+**Art. 54. **Constitui moratória a concessão, mediante lei específica, de novo prazo ao sujeito passivo, após o vencimento do prazo originalmente assinalado para o pagamento do crédito tributário.
+
+**Art. 55. **A moratória será concedida em caráter geral ou individual, por despacho da autoridade administrativa competente, desde que autorizada por lei municipal.
+
+Parágrafo único. A lei concessiva da moratória pode circunscrever expressamente a sua aplicabilidade a determinada área do Município ou a determinada classe ou categoria de sujeitos passivos.
+
+**Art. 56. **A lei que conceder a moratória especificará, sem prejuízo de outros requisitos:
+
+I - o prazo de duração do favor;
+
+II - as condições da concessão;
+
+III - os tributos alcançados pela moratória;
+
+IV - o número de prestações e seus vencimentos, dentro do prazo estabelecido, podendo se fixar prazos para cada um dos tributos considerados;
+
+V - garantias.
+
+**Art. 57. **Salvo disposição de lei em contrário, a moratória somente abrange os créditos definitivamente constituídos à data da lei ou do despacho que a conceder, ou cujo lançamento já tenha sido efetuado àquela data por ato regularmente notificado ao sujeito passivo.
+
+Parágrafo único. A moratória não aproveita os casos de dolo, fraude ou simulação do sujeito passivo ou de terceiro em benefício daquele.
+
+**Art. 58. **A concessão da moratória em caráter individual não gera direito adquirido e será revogada de ofício sempre que se apurar que o beneficiado não satisfez ou deixou de satisfazer as condições ou não cumpriu ou deixou de cumprir os requisitos para concessão do favor, cobrando-se o crédito acrescido de juros e atualização monetária:
+
+I - com imposição de penalidade cabível, nos casos de dolo ou simulação do beneficiado ou de terceiro em benefício daquele;
+
+II - sem imposição de penalidade, nos demais casos.
+
+§ 1º. No caso do inciso I deste artigo, o tempo decorrido entre a concessão da moratória e sua revogação não se computa para efeito da prescrição do direito à cobrança do crédito.
+
+§ 2º. No caso do inciso II deste artigo, a revogação só pode ocorrer antes de prescrito o referido direito.
+
+**SEÇÃO III**
+
+**DO PARCELAMENTO**
+
+**Art. 59. **Os créditos tributários, regularmente constituídos, poderão ser pagos parceladamente na forma e condição estabelecidas em regulamento, sendo o valor das parcelas devidamente corrigido monetariamente.
+
+§ 1º. Salvo disposição de lei em contrário, o parcelamento do crédito tributário não exclui a incidência de juros e multas.
+
+§ 2º. Aplicam-se, subsidiariamente, ao parcelamento, as disposições desta lei, relativas à moratória.
+
+**SEÇÃO IV**
+
+**DO DEPÓSITO**
+
+**Art. 60. **O sujeito passivo poderá efetuar o depósito do montante integral ou parcial da obrigação tributária:
+
+I - quando preferir o depósito à consignação judicial;
+
+II - para atribuir efeito suspensivo:
+
+a) à consulta formulada na forma deste Código;
+
+b) a qualquer outro ato por ele impetrado, administrativa ou judicialmente, visando à modificação, extinção ou exclusão total ou parcial da obrigação tributária.
+
+**Art. 61. **O regulamento deverá estabelecer hipóteses de obrigatoriedade de depósito prévio:
+
+I - para garantia de instância, na forma prevista nas normas processuais deste Código;
+
+II - como garantia a ser oferecida pelo sujeito passivo, nos casos de compensação;
+
+III - como concessão por parte do sujeito passivo, nos casos de transação;
+
+IV - em quaisquer outras circunstâncias nas quais se fizer necessário resguardar os interesses do fisco.
+
+**Art. 62. **A importância a ser depositada corresponderá ao valor integral do crédito tributário apurado:
+
+I - pelo fisco, nos casos de:
+
+a) lançamento direto;
+
+b) lançamento por declaração;
+
+c) alteração ou substituição do lançamento original, qualquer que tenha sido a sua modalidade;
+
+d) aplicação de penalidades pecuniárias;
+
+II - pelo próprio sujeito passivo, nos casos de: a) lançamento por homologação; b) retificação da declaração, nos casos de lançamento por declaração, por iniciativa do próprio declarante;
+
+c) confissão espontânea da obrigação, antes do início de qualquer procedimento fiscal;
+
+III - na decisão administrativa desfavorável, no todo ou em parte, ao sujeito passivo;
+
+IV - mediante estimativa ou arbitramento procedido pelo fisco, sempre que não puder ser determinado o montante integral do crédito tributário, sem prejuízo da liquidez do crédito tributário.
+
+**Art. 63. **Considerar-se-á suspensa a exigibilidade do crédito tributário, a partir da data da efetivação do depósito, observado o disposto no artigo seguinte.
+
+**Art. 64. **O depósito poderá ser efetuado nas seguintes modalidades:
+
+I - em moeda corrente do país;
+
+II - por cheque;
+
+III - em títulos da dívida pública municipal.
+
+Parágrafo único. O depósito efetuado por cheque somente suspende a exigibilidade do crédito tributário com o resgate deste pelo sacado.
+
+**Art. 65. **Cabe ao sujeito passivo, por ocasião da efetivação do depósito, especificar qual o crédito tributário ou a sua parcela, quando este for exigido em prestações, por ele abrangido.
+
+Parágrafo único.A efetivação do depósito não importa em suspensão de exigibilidade do crédito tributário:
+
+I - quando parcial, das prestações vincendas em que tenha sido decomposto;
+
+II - quando total, de outros créditos referentes ao mesmo ou a outros tributos ou penalidades pecuniárias.
+
+**Art. 66. **Uma vez constituído em caráter definitivo o crédito tributário, total ou parcialmente, observar-se-á o seguinte:
+
+I - o valor depositado será convertido em receita tributária, observada a devida proporção;
+
+II - o saldo devedor porventura existente será imediatamente inscrito em dívida ativa para execução judicial.
+
+**SEÇÃO V**
+
+**DA CESSAÇÃO DO EFEITO SUSPENSIVO**
+
+**Art. 67. **Cessam os efeitos suspensivos relacionados com a exigibilidade do crédito tributário:
+
+I - pela extinção do crédito tributário, por qualquer das formas previstas neste Código;
+
+II - pela exclusão do crédito tributário, por qualquer das formas previstas neste Código;
+
+III - pela decisão administrativa desfavorável, no todo ou em parte; IV - pela cassação da medida liminar concedida em mandado de segurança.
+
+**CAPÍTULO IV**
+
+**DA EXTINÇÃO DO CRÉDITO TRIBUTÁRIO**
+
+**SEÇÃO I**
+
+**DAS DISPOSIÇÕES GERAIS**
+
+**Art. 68. **Extinguem o crédito tributário:
+
+I - o pagamento;
+
+II - a compensação;
+
+III - a transação;
+
+IV - a remissão;
+
+V - a prescrição e a decadência, nos termos do Código Tributário Nacional;
+
+VI - a conversão do depósito em renda; VII - o pagamento antecipado e a homologação do lançamento, nos termos do disposto no artigo 50;
+
+VIII - a decisão administrativa irreformável, assim entendida a definitiva na órbita administrativa;
+
+IX - a decisão judicial transitada em julgado;
+
+X - a consignação em pagamento julgada procedente, nos termos da lei;
+
+XI - a dação em pagamento em bens imóveis, na forma e condições estabelecidas em lei.
+
+**SEÇÃO II**
+
+**DO PAGAMENTO**
+
+**Art. 69. **O pagamento de tributos e rendas municipais é efetuado em moeda corrente ou cheque, dentro dos prazos estabelecidos em lei, regulamento ou fixados pela Administração.
+
+§ 1º. O crédito pago por cheque somente se considera extinto com o resgate deste pelo sacado.
+
+§ 2º. O pagamento é efetuado no órgão arrecadador ou em qualquer estabelecimento autorizado por ato executivo, sob pena de nulidade.
+
+§ 3º. O pagamento poderá ser efetuado mediante parcelamento, conforme regulamento.
+
+**Art. 70. **Poderá ser concedido desconto pela antecipação do pagamento, nas condições estabelecidas nesta lei.
+
+**Art. 71. **Nenhum recolhimento de tributo ou penalidade pecuniária será efetuado sem que se expeça o competente documento de arrecadação municipal - DAM, na forma estabelecida em regulamento (deverá constar no DAM, nome completo do contribuinte, endereço com CEP, CPF/CNPJ, receita, código fiscal, discriminação, instruções p/ recebimento, vencimento e valor)
+
+§ 1º. No DAM deverá constar o nome do contribuinte, endereço completo, CPF/CNPJ, receita, código fiscal, discriminação, instruções para recebimento, vencimento e valor.
+
+§ 2º**. **No caso de expedição fraudulenta de documento de arrecadação municipal, responderão, civilmente, criminalmente e administrativamente, todos aqueles, servidores ou não, que houverem subscrito, emitido ou fornecido.
+
+**Art. 72. **É facultada à Administração a cobrança em conjunto de impostos e taxas, observadas as disposições legais e regulamentares.
+
+**Art. 73. **O contribuinte ou responsável que deixar de efetuar o pagamento de tributo ou demais créditos fiscais nos prazos regulamentares, ou que for autuado em processo administrativo-fiscal, ou ainda notificado para pagamento em decorrência de lançamento de ofício, ficará sujeito aos seguintes acréscimos legais:
+
+I - atualização monetária;
+
+II - multa de mora;
+
+III - juros de mora;
+
+IV - multa de infração.
+
+§ 1º. A atualização monetária será calculada em função da variação do poder aquisitivo da moeda, de acordo com os índices oficiais e da variação da UNIDADE FISCAL DO MUNICIPIO - UFM ou outro índice que venha substituí-la.
+
+§ 2º. As multas moratórias, aplicadas sobre o valor do tributo atualizado monetariamente, serão nas seguintes proporções:
+
+I - 5% (cinco por cento) até 30 dias de atraso;
+
+II - 10% (dez por cento) de 31 a 60 dias de atraso;
+
+III - 15% (quinze por cento) de 61 a 90 dias de atraso; e
+
+IV - 20% (vinte por cento) acima de 90 dias de atraso.
+
+§ 3º. Os juros de mora serão contados à razão de 1% (um por cento) ao mês.
+
+§ 4º. A multa de infração será aplicada quando for apurada ação ou omissão do contribuinte que importe em inobservância de dispositivo da legislação tributária.
+
+§ 5º. Entende-se como valor do principal o que corresponde ao débito, excluídas as parcelas relativas à atualização monetária, multa de mora, juros de mora e multa de infração.
+
+§ 6º. No caso de créditos fiscais decorrentes de multas ou de tributos sujeitos à homologação, ou ainda quando tenham sua base de cálculo fixada em UFM, será feita a atualização destes levando-se em conta, para tanto, a data em que os mesmos deveriam ser pagos.
+
+§ 7º. No caso de tributos recolhidos por iniciativa do contribuinte sem lançamento prévio pela repartição competente, ou ainda quando estejam sujeitos a recolhimento parcelado, o seu pagamento sem o adimplemento concomitante, no todo ou em parte, dos acréscimos legais a que o mesmo esteja sujeito, essa parte acessória passará a constituir débito autônomo, sujeito a plena atualização dos valores e demais acréscimos legais, sob a forma de diferença a ser recolhida de ofício, por notificação da autoridade administrativa, sem prejuízo das demais sanções cabíveis.
+
+§ 8º. As disposições deste artigo aplicam-se a quaisquer débitos fiscais anteriores a esta Lei, apurados ou não.
+
+**Art. 74. **Se dentro do prazo fixado para pagamento o contribuinte efetuar depósito da importância que julgar devida, o crédito fiscal ficará sujeito aos acréscimos legais sobre o remanescente devido.
+
+Parágrafo único.Caso o depósito, de que trata este artigo, for efetuado fora do prazo, deverá o contribuinte recolher, juntamente com o principal, os acréscimos legais já devidos nessa oportunidade.
+
+**Art. 75. **O ajuizamento de crédito fiscal sujeita o devedor ao pagamento do débito, seus acréscimos legais e das demais cominações legais.
+
+**Art. 76. **O recolhimento de tributos em atraso, motivado por culpa ou dolo de servidor, sujeitará este às sanções civis, administrativas e criminais, na forma cabível.
+
+**Art. 77. **O pagamento de um crédito não importa em presunção de pagamento: I - quando parcial, das prestações em que se decomponha; II - quando total, de outros créditos referentes ao mesmo ou a outros tributos.
+
+**Art. 78. **Nenhum pagamento intempestivo de tributo poderá ser efetuado sem que o infrator pague, no ato, o que for calculado sob a rubrica de penalidade.
+
+**Art. 79. **A imposição de penalidades não elide o pagamento integral do crédito tributário.
+
+**SEÇÃO III**
+
+**DA COMPENSAÇÃO E DA TRANSAÇÃO**
+
+**Art. 80. **A compensação de créditos tributários com créditos líquidos e certos, vencidos ou vincendos do sujeito passivo, poderá ser efetivada pela autoridade competente, mediante a demonstração, em processo, da satisfação total dos créditos da Fazenda Pública Municipal, sem antecipação de suas obrigações.
+
+§ 1º. É competente para autorizar a compensação o titular da Fazenda Pública Municipal, mediante fundamentado despacho em processo regular.
+
+§ 2º. Sendo o valor do crédito do contribuinte inferior ao seu débito, o saldo apurado poderá ser objeto de parcelamento, obedecidas as normas vigentes.
+
+§ 3º. Sendo o crédito do contribuinte superior ao débito, a diferença em seu favor será paga de acordo com as normas de administração financeira vigente.
+
+§ 4º. Sendo vincendo o crédito do sujeito passivo, seu montante será reduzido de 1% (um por cento) por mês que decorrer entre a data da compensação e a do vencimento.
+
+§ 5º. É vedada a compensação mediante o aproveitamento de tributo, objeto de contestação judicial pelo sujeito passivo, antes do trânsito em julgado da respectiva decisão judicial.
+
+**Art. 81. **Fica o Executivo Municipal autorizado, sob condições e garantias especiais, a efetuar transação, judicial e extrajudicial, com o sujeito passivo de obrigação tributária para, mediante concessões mútuas, resguardados os interesses municipais, terminar litígio e extinguir o crédito tributário.
+
+Parágrafo único.A transação a que se refere este artigo será autorizada pelo titular da Fazenda Pública Municipal, ou pelo Procurador - Geral do Município quando se tratar de transação judicial, em parecer fundamentado e limitar-se-á à dispensa, parcial ou total, dos acréscimos legais referentes à multa de infração, multa de mora, juros e encargos da dívida ativa, quando:
+
+I - o montante do tributo tenha sido fixado por estimativa ou arbitramento;
+
+II - a incidência ou o critério de cálculo do tributo for matéria controversa;
+
+III - ocorrer erro ou ignorância escusáveis do sujeito passivo quanto à matéria de fato;
+
+IV - ocorrer conflito de competência com outras pessoas de direito público interno;
+
+V - a demora na solução normal do litígio seja onerosa ou temerária ao Município.
+
+**Art. 82. **Para que a transação seja autorizada é necessária a justificação, em processo regular, caso a caso, do interesse da Administração no fim da lide, não podendo a liberdade atingir o principal do crédito tributário atualizado, nem o valor da multa fiscal por infração dolosa ou reincidência.
+
+**SEÇÃO IV**
+
+**DA REMISSÃO**
+
+**Art. 83. **Lei específica poderá autorizar remissão total ou parcial de débitos tributários, atendendo:
+
+I - à situação econômica do sujeito passivo;
+
+II - ao erro ou à ignorância escusáveis do sujeito passivo, quanto à matéria de fato;
+
+III - à diminuta importância do crédito tributário;
+
+IV - a considerações de eqüidade, em relação com as características pessoais ou materiais do fato;
+
+V - a condições peculiares a determinada região do território do Município;
+
+VI - demais condições fixadas em lei.
+
+Parágrafo único.A concessão referida neste artigo não gera direito adquirido e será revogada de ofício sempre que se apure que o beneficiário não satisfazia ou deixou de satisfazer as condições ou não cumpria ou deixou de cumprir os requisitos necessários à sua obtenção, sem prejuízo da aplicação das penalidades cabíveis nos casos de dolo ou simulação do beneficiário.
+
+**SEÇÃO V**
+
+**DA PRESCRIÇÃO E DA DECADÊNCIA**
+
+**Art. 84. **A ação para cobrança do crédito tributário prescreve em 05 (cinco) anos, contados da data de sua constituição definitiva.
+
+**Art. 85. **A prescrição se interrompe:
+
+I - pela citação pessoal feita ao devedor;
+
+II - pelo protesto feito ao devedor;
+
+III - por qualquer ato judicial que constitua em mora o devedor;
+
+IV - por qualquer ato inequívoco, ainda que extrajudicial, que importe em reconhecimento do débito pelo devedor;
+
+V - durante o prazo da moratória concedida até a sua revogação em caso de dolo ou simulação do beneficiário ou de terceiro por aquele.
+
+**Art. 86. **O direito da Fazenda Pública Municipal constituir o crédito tributário decai após 05 (cinco) anos, contados:
+
+I - do primeiro dia do exercício seguinte àquele em que o lançamento poderia ter sido efetuado;
+
+II - da data em que se tornar definitiva a decisão que houver anulado, por vício formal, o lançamento anteriormente efetuado.
+
+Parágrafo único.O direito a que se refere este artigo se extingue definitivamente com o decurso do prazo nele previsto, contado da data em que tenha sido iniciada a constituição do crédito tributário, pela notificação ao sujeito passivo de qualquer medida preparatória indispensável ao lançamento.
+
+**Art. 87. **Ocorrendo a prescrição abrir-se-á inquérito administrativo para apurar as responsabilidades, na forma da lei.
+
+Parágrafo único.A autoridade municipal, qualquer que seja seu cargo ou função e independentemente do vínculo empregatício ou funcional, responderá civil, criminal e administrativamente pela prescrição de débitos tributáveis sob sua responsabilidade, cumprindo-lhe indenizar o Município do valor dos débitos prescritos.
+
+**SEÇÃO VI**
+
+**DAS DEMAIS FORMAS DE EXTINÇÃO DO CRÉDITO TRIBUTÁRIO**
+
+**Art. 88. **Extingue o crédito tributário a decisão administrativa ou judicial que expressamente, em conjunto ou isoladamente:
+
+I - declare a irregularidade de sua constituição;
+
+II - reconheça a inexistência da obrigação que lhe deu origem;
+
+III - exonere o sujeito passivo do cumprimento da obrigação; IV - declare a incompetência do sujeito ativo para exigir o cumprimento da obrigação.
+
+§ 1°. Extinguem, ainda, o crédito tributário:
+
+a) a decisão administrativa irreformável, assim entendida a definitiva na órbita administrativa que não mais possa ser objeto de ação anulatória;
+
+b) a decisão judicial passada em julgado.
+
+§ 2°. Enquanto não tornada definitiva a decisão administrativa ou passada em julgado a decisão judicial, continuará o sujeito passivo obrigado nos termos da legislação tributária, ressalvadas as hipóteses de suspensão da exigibilidade do crédito previstas no artigo 53.
+
+**Art. 89. **Extingue ainda o crédito tributário a conversão em renda de depósito em dinheiro previamente efetuado pelo sujeito passivo:
+
+I - para garantia de instância;
+
+II - em decorrência de qualquer outra exigência da legislação tributária.
+
+Parágrafo único.Convertido o depósito em renda, o saldo porventura apurado contra ou a favor do fisco será exigido ou restituído da seguinte forma:
+
+I - a diferença a favor da Fazenda Pública Municipal será exigida através de notificação direta publicada ou entregue pessoalmente ao sujeito passivo, na forma e nos prazos previstos nesta Lei;
+
+II - o saldo a favor do contribuinte será restituído de ofício, independente de prévio protesto, na forma estabelecida para as restituições totais ou parciais do crédito tributário.
+
+**CAPÍTULO V**
+
+**DA EXCLUSÃO DO CRÉDITO TRIBUTÁRIO**
+
+**SEÇÃO I**
+
+**DAS DISPOSIÇÕES GERAIS**
+
+**Art. 90. **Excluem o crédito tributário:
+
+I - a isenção;
+
+II - a anistia.
+
+Parágrafo único. A exclusão do crédito tributário não dispensa o cumprimento das obrigações acessórias dependentes da obrigação principal cujo crédito seja excluído, ou dela consequentes.
+
+**SEÇÃO II**
+
+**DA ISENÇÃO**
+
+**Art. 91. **Qualquer isenção além da constante do § 1º, deste artigo, será regulamentada por lei específica que determine as condições e os requisitos exigidos para a sua concessão, os tributos e/ou taxas a que se aplica e, sendo o caso, o prazo de sua duração.
+
+§ 1º. Terão caráter permanente as isenções dos tributos: taxas e contribuições:
+
+a) as entidades religiosas;
+
+b) as demais entidades filantrópicas;
+
+**Art. 92. **Salvo disposição em contrário, a isenção não é extensiva:
+
+I - às taxas e à contribuição de melhoria;
+
+II - aos tributos instituídos posteriormente à sua concessão.
+
+**Art. 93. **A isenção, exceto se concedida por prazo certo ou em função de determinadas condições, pode ser revogada ou modificada por lei a qualquer tempo, porém, só terá eficácia a partir do exercício seguinte àquele em que tenha sido modificada ou revogada a isenção.
+
+**Art. 94. **A isenção pode ser concedida:
+
+I - em caráter geral, embora a sua aplicabilidade possa ser restrita a determinada área ou zona do Município, em função de condições peculiares;
+
+II - em caráter individual, por despacho da autoridade administrativa, em requerimento no qual o interessado faça prova do preenchimento das condições e do cumprimento dos requisitos previstos na lei para sua concessão.
+
+§ 1°. Os prazos e os procedimentos relativos à renovação das isenções serão definidos em ato do Poder Executivo, cessando automaticamente os efeitos do benefício a partir do primeiro dia do período para o qual o interessado deixar de promover a continuidade do reconhecimento da isenção.
+
+§ 2°. O despacho referido neste artigo não gera direito adquirido e será revogado de ofício, sempre que se apure que o beneficiado não satisfazia ou deixou de satisfazer as condições ou não cumpria ou deixou de cumprir os requisitos para a concessão do benefício.
+
+**SEÇÃO III**
+
+**DA ANISTIA**
+
+**Art. 95. **A anistia, entendida como o perdão das infrações cometidas e a consequente dispensa dos pagamentos das penalidades pecuniárias a elas relativas, abrange exclusivamente as infrações cometidas anteriormente à vigência da lei que a conceder, não se aplicando:
+
+I - aos atos praticados com dolo, fraude ou simulação pelo sujeito passivo ou por terceiros em benefício daquele;
+
+II - aos atos qualificados como crime de sonegação fiscal, nos termos da Legislação Federal;
+
+III - às infrações resultantes do conluio entre duas ou mais pessoas naturais ou jurídicas.
+
+**Art. 96. **A lei específica que conceder anistia poderá fazê-lo:
+
+I - em caráter geral;
+
+II - limitadamente:
+
+a) às infrações da legislação relativa a determinado tributo;
+
+b) às infrações punidas com penalidades pecuniárias até determinado montante, conjugadas ou não com penalidades de outra natureza;
+
+c) à determinada região do território do Município, em função das condições a ela peculiares;
+
+d) sob condição do pagamento do tributo no prazo fixado pela lei que a conceder, ou cuja fixação seja atribuída pela lei à autoridade administrativa.
+
+§ 1°. Quando não concedida em caráter geral, a anistia é efetivada, em cada ano, por despacho do Prefeito, ou autoridade delegada, em requerimento no qual o interessado faça prova do preenchimento das condições e do cumprimento dos requisitos previstos na lei para a sua concessão.
+
+§ 2°. O despacho referido neste artigo não gera direito adquirido e será revogado de ofício, sempre que se apure que o beneficiado não satisfazia ou deixou de satisfazer as condições ou não cumpria ou deixou de cumprir os requisitos para a concessão do favor, cobrando-se o crédito acrescido de juros de mora, com imposição da penalidade cabível, nos casos de dolo ou simulação do beneficiado ou de terceiro em benefício daquele.
+
+**TÍTULO IV**
+
+**DAS INFRAÇÕES E DAS PENALIDADES**
+
+**CAPÍTULO I**
+
+**DAS INFRAÇÕES**
+
+**Art. 97. **Constitui infração toda ação ou omissão contrária às disposições da legislação tributária e, em especial, desta Lei.
+
+Parágrafo único. Não será passível de penalidade a ação ou omissão que proceder em conformidade com decisão de autoridade competente, nem que se encontrar na pendência de consulta regularmente apresentada ou enquanto perdurar o prazo nela fixado.
+
+**Art. 98. **Constituem agravantes de infração:
+
+I - a circunstância da infração depender ou resultar de outra prevista em lei, tributária ou não;
+
+II - a reincidência;
+
+III - a sonegação.
+
+**Art. 99. **Constituem circunstâncias atenuantes da infração fiscal, com a respectiva redução de culpa, aquelas previstas na lei civil, a critério da Fazenda Pública Municipal.
+
+**Art. 100. **Considera-se reincidência a repetição de falta idêntica cometida pela mesma pessoa natural ou jurídica dentro de 5 (cinco) anos da data em que passar em julgado, administrativamente, a decisão condenatória referente à infração anterior, ou se tornar revel em virtude da não apresentação de defesa administrativa em tempo hábil.
+
+**Art. 101. **A sonegação se configura procedimento do contribuinte em:
+
+I - prestar declaração falsa ou omitir, total ou parcialmente, informação que deva ser produzida a agentes das pessoas jurídicas de direito público interno, com a intenção de se eximir, total ou parcialmente, do pagamento de tributos e quaisquer adicionais devidos por lei;
+
+II - inserir elementos inexatos ou omitir rendimentos ou operações de qualquer natureza de documentos ou livros exigidos pelas leis fiscais, com a intenção de se exonerar do pagamento de tributos devidos à Fazenda Pública Municipal;
+
+III - alterar faturas e quaisquer documentos relativos a operações mercantis com o propósito de fraudar a Fazenda Pública Municipal;
+
+IV - fornecer ou emitir documentos ou alterar despesas, com o objetivo de obter dedução de tributos à Fazenda Pública Municipal, sem prejuízo das sanções administrativas cabíveis.
+
+**Art. 102. **O contribuinte ou responsável poderá apresentar denúncia espontânea de infração, ficando reduzida a respectiva penalidade, conforme previsão legal, desde que a falta seja corrigida imediatamente ou, se for o caso, efetuado o pagamento do tributo devido, atualizado e com os acréscimos legais cabíveis, ou depositada a importância determinada pela autoridade administrativa, quando o montante do tributo dependa de apuração.
+
+§ 1°. Não se considera espontânea a denúncia apresentada após o início de qualquer procedimento administrativo ou medida de fiscalização relacionados com a infração.
+
+§ 2°. A apresentação de documentos obrigatórios à Administração não importa em denúncia espontânea, para os fins do disposto neste artigo.
+
+**Art. 103. **Salvo quando expressamente autorizado por lei, nenhum departamento da Administração Pública, ou de suas autarquias, celebrará contrato ou aceitará proposta em licitação sem que o contratante ou proponente faça prova da quitação de todos os tributos devidos à Fazenda Pública Municipal.
+
+**CAPÍTULO II**
+
+**DAS PENALIDADES**
+
+**Art. 104. **São penalidades tributárias previstas nesta lei, aplicáveis separadas ou cumulativamente, sem prejuízo das cominadas pelo mesmo fato por lei criminal:
+
+I - a multa;
+
+II - a perda de desconto, abatimento ou deduções;
+
+III - a cassação do benefício da isenção;
+
+IV - a revogação dos benefícios de anistia ou moratória;
+
+V - a proibição de transacionar com qualquer órgão da Administração Municipal;
+
+VI - a sujeição a regime especial de fiscalização.
+
+Parágrafo único. A aplicação de penalidades, de qualquer natureza, não dispensa o pagamento do tributo, dos juros de mora e atualização monetária, nem isenta o infrator do dano resultante da infração, na forma da lei civil.
+
+**Art. 105. **A penalidade, além de impor a obrigação de fazer ou deixar de fazer, será pecuniária, quando consista em multa, e, aplicar-se-á, na reincidência, o dobro da penalidade prevista, e a cada reincidência, aplicar-se-á a esta pena acréscimo de 20% (vinte por cento).
+
+**Art. 106. **Independente das penalidades previstas para cada tributo nos capítulos próprios será imputada:
+
+I - aos que recusarem, independentemente de cargo, ofício ou função, ministério, atividade ou profissão, a exibição de livros ou documentos fiscais, embaraçarem a ação fiscal, ou sonegarem documentos para a apuração do tributo ou da fixação da sua estimativa:
+
+a) 10 (dez) UFM, ocorrendo a infração na primeira notificação;
+
+b) 20 (vinte) UFM, ocorrendo a infração na segunda notificação;
+
+c) 40 (quarenta) UFM, ocorrendo a infração na terceira notificação;
+
+d) 80 (oitenta) UFM, ocorrendo a infração na quarta notificação e seguintes.
+
+II - a quaisquer pessoas, físicas ou jurídicas, que infringirem dispositivos da legislação tributária do Município para as quais não tenham sido especificadas penalidades próprias nesta Lei, incidirá multa de 10 (dez) UFM, inclusive nos casos:
+
+a) falta de inscrição ou de comunicação de ocorrência de qualquer ato ou fato que venha modificar os dados da inscrição;
+
+b) desatender a notificação para inscrição do cadastro fiscal;
+
+c) fornecer ao cadastro fiscal dados inexatos ou incompletos, cuja aplicação possa resultar, para o infrator, proveito de qualquer natureza;
+
+d) desatender a notificação para fornecer documentos fiscais ou informações solicitadas;
+
+e) qualquer ação ou omissão não prevista nos incisos anteriores, que importem em descumprimento de dever acessório.
+
+f) a falta de licenças ou a sua inexatidão;
+
+**Art. 107. **Apurada a prática de crime de sonegação fiscal, a Fazenda Pública Municipal solicitará ao órgão de Segurança Pública as providências de caráter policial necessárias à apuração do ilícito penal, dando conhecimento dessa solicitação ao órgão do Ministério Público local, por meio de encaminhamento dos pagamentos de tributos e quaisquer adicionais devidos por lei;
+
+I - inserir elementos inexatos ou omitir rendimentos ou operações de qualquer natureza de documentos ou livros exigidos pelas leis fiscais, com a intenção de se exonerar do pagamento de tributos devidos à Fazenda Pública Municipal;
+
+II - alterar faturas e quaisquer documentos relativos a operações mercantis com o propósito de fraudar a Fazenda Pública Municipal;
+
+III - fornecer ou emitir documentos ou alterar despesas, com o objetivo de obter dedução de tributos à Fazenda Pública Municipal, sem prejuízo das sanções administrativas cabíveis.
+
+**Art. 108. **O contribuinte ou responsável poderá apresentar denúncia espontânea de infração, ficando reduzida a respectiva penalidade, conforme previsão legal, desde que a falta seja corrigida imediatamente ou, se for o caso, efetuado o pagamento do tributo devido, atualizado e com os acréscimos legais cabíveis, ou depositada a importância determinada pela autoridade administrativa, quando o montante do tributo dependa de apuração.
+
+§ 1°. Não se considera espontânea a denúncia apresentada após o início de qualquer procedimento administrativo ou medida de fiscalização relacionados com a infração.
+
+§ 2°. A apresentação de documentos obrigatórios à Administração não importa em denúncia espontânea, para os fins do disposto neste artigo.
+
+**Art. 109. **Salvo quando expressamente autorizado por lei, nenhum departamento da Administração Pública, ou de suas autarquias, celebrará contrato ou aceitará proposta em licitação sem que o contratante ou proponente faça prova da quitação de todos os tributos devidos à Fazenda Pública Municipal.
+
+**TÍTULO V**
+
+**DA INSCRIÇÃO E DO CADASTRO FISCAL**
+
+**CAPÍTULO ÚNICO**
+
+**DAS DISPOSIÇÕES GERAIS**
+
+**Art. 110. **Toda pessoa física ou jurídica, sujeita à obrigação tributária, antes de iniciar quaisquer atividades, deverá promover a inscrição no Cadastro Fiscal da Prefeitura, mesmo que isenta ou imune de tributos, de acordo com as formalidades exigidas nesta Lei ou em regulamento, ou ainda pelos atos administrativos de caráter normativo destinados a complementá-los.
+
+**Art. 111. **O Cadastro Fiscal da Prefeitura é composto:
+
+I - do Cadastro Imobiliário Fiscal;
+
+II - do Cadastro Mercantil Fiscal;
+
+III - do Cadastro de Atividades econômico-sociais;
+
+IV - de outros cadastros não compreendidos nos itens anteriores, necessários a atender às exigências da Prefeitura, com relação ao poder de polícia administrativa ou à organização dos seus serviços.
+
+Parágrafo único. O Poder Executivo definirá, em regulamento, as normas relativas à inscrição, averbação e atualização cadastrais, assim como os respectivos procedimentos administrativos e fiscais.
+
+**LIVRO II**
+
+**DOS TRIBUTOS**
+
+**CAPÍTULO I**
+
+**DO ELENCO TRIBUTARIO**
+
+**Art. 112. **Tributo é toda prestação pecuniária compulsória, em moeda ou cujo valor nela se possa exprimir, que não constitua sanção de ato ilícito, instruído em lei, nos limites da competência constitucional, e cobrado mediante atividade administrativa plenamente vinculada.
+
+**Art. 113. **Integram o sistema tributário do Município os seguintes tributos:
+
+I - Imposto:
+
+a) Imposto Predial Territorial Urbano ou IPTU;
+
+b) Imposto sobre Transmissão de Bens Imóveis ou ITBI.
+
+c) Imposto Sobre Serviços de Qualquer Natureza (ISSQN) não
+
+compreendidos no artigo 155, II, da Constituição Federal de 1988 e definidos em lei complementar; 116/2003; 157/2016; 63/1990; Lei de Improbidade Administrativa (Lei 8.429/1992);
+
+II - Taxas:
+
+b) Decorrentes da utilização efetiva ou potencial de serviços públicos específicos, prestados ao contribuinte ou postos a sua disposição;
+
+a) Decorrentes do regular exercício do poder de polícia do Município.
+
+III - Contribuições de melhoria.
+
+IV - Contribuições de iluminação pública
+
+**CAPÍTULO II**
+
+**DO IMPOSTO SOBRE A PROPRIEDADE PREDIAL E TERRITORIAL URBANA**
+
+**SEÇÃO I**
+
+**HIPÓTESE DE INCIDÊNCIA E DO FATO GERADOR**
+
+**Art.114.** Hipótese de incidência ou fato gerador do IPTU é a propriedade, o domínio útil ou a posse do imóvel situado na zona urbana do Município.
+
+Parágrafo Único. Entende-se como zona urbana a que apresentar os requisitos mínimos de melhoramentos indicados em lei federal e também as áreas urbanizáveis ou de expansão urbana, constantes de loteamentos aprovados pela Prefeitura e destinados à habitação ou à atividade econômica, ou que possuam ainda pelo menos 2 (dois) dos seguintes melhoramentos, constituídos ou mantidos pelo poder público.
+
+I - meio fio ou calçamento, com canalização de águas pluviais;
+
+II - abastecimento de água;
+
+III - sistema de esgotos sanitários;
+
+IV - rede de iluminação pública, com ou sem poste para distribuição
+
+domiciliar;
+
+V - escola primária ou posto de saúde a uma distância máxima de 3 (três)
+
+quilômetros do imóvel considerado;
+
+**Art. 115. **O Imposto sobre a Propriedade Predial e Territorial Urbano (IPTU) incide sobre imóvel.
+
+§ 1_°_. São imóveis edificados aqueles no qual exista construção apta a servir para habitação, uso, recreio ou para exercício de quaisquer atividade, lucrativa ou não, seja qual for sua forma ou destino aparente ou declarado, ressalvadas as construções a que se refere o paragrafo seguinte.
+
+§ 2_°_. São imóveis não edificados, terrenos sem benfeitorias ou edificações, bem como terrenos que contenha:
+
+I - edificação em demolição ou cuja obra esteja paralisada, bem como
+
+com edificações condenadas ou em ruínas;
+
+II - cuja edificação seja de natureza temporária ou provisória ou que possa ser
+
+removida sem destruição, alteração ou modificação;
+
+III - em que houver edificação considerada, a critério da administração, como
+
+inadequada, seja pela situação, dimensão, destino ou utilidade da mesma.
+
+§ 3_°_. Os imóveis com áreas do terreno, localizados parte em área urbana e parte em área rural, para efeito de calculo do valor venal, será considerada a área de 3.000 m2.
+
+**Art. 116. **A incidência do imposto independe da regularidade jurídica dos títulos de propriedade, domínio útil ou posse do terreno, ou de satisfação de quaisquer exigências legais e administrativas para a utilização do imóvel.
+
+**Art.117.** Contribuinte do imposto é o proprietário do imóvel, o titular do seu domínio útil ou seu possuidor a qualquer título.
+
+§ 1_°_. São responsáveis pelo pagamento do imposto definido neste artigo:
+
+I - o titular do direito de usufruto, de uso ou habitação;
+
+II - o compromissário comprador;
+
+III - o comodatário ou credor anticrético;
+
+IV - o adquirente do imóvel, pelos tributos devidos pelo alienante, até a data do titulo translatício da propriedade, do domínio útil ou da posse, salvo quando conste de escrituração pública, prova de plena e geral quitação, limitada esta responsabilidade, nos casos de arrematação em hasta pública, ao montante do respectivo preço;
+
+V - o espólio, pelos tributos devidos pelo "de cujus", até a data da abertura da sucessão;
+
+VI - o sucessor a qualquer título e o cônjuge meeiro pelos tributos devidos pelo "de cujus", até a data da partilha ou da adjudicação ao montante do quinhão, do legado ou da meação;
+
+VII - a pessoa jurídica de direito privado que resultar de fusão, transformação ou incorporação de outra ou em outra, pelos tributos devidos, até a data da realização desses atos.
+
+**Art.118.** O imposto será devido a partir da ocorrência do fato gerador.
+
+Parágrafo Único. Considera-se ocorrido o fato gerador em l.° de janeiro do ano a que corresponde o lançamento.
+
+**SEÇÃO II**
+
+**DA BASE DE CÁLCULO**
+
+**Art. 119.** Base de cálculo do imposto é o valor venal do imóvel e será determinada pelo Sistema de Avaliação Imobiliário, que levará em conta, o preço corrente de mercado e o conjunto de informação contida no cadastro imobiliário do imóvel.
+
+**Art. 120. **O valor venal será o valor do terreno mais o valor da edificação conforme formula - ANEXO I.
+
+§ 1_°_. Na avaliação do valor do terreno serão considerados:
+
+I - Planta de valores - ANEXO I;
+
+II - Área do terreno;
+
+III - Fatores de correção (Fc) como situação na quadra, topografia, pedologia,
+
+limitação, calçada e demais características relevantes - ANEXO I.
+
+§ 2_°_. Na avaliação do valor da edificação serão considerados:
+
+I - Valor do metro quadrado do tipo de construção - ANEXO I;
+
+II - Área da edificação;
+
+III - Fatores de correção (Fc) como alinhamento, situação do lote, situação da
+
+unidade, padrão construtivo, conservação, infraestrutura urbana e demais características relevantes.
+
+**Art. 121. **Será atualizado, pelo Executivo a planta de valores imobiliários, o valor do m2 do tipo de construção e as tabelas de fatores de correção (Fc), levando-se em conta os equipamentos urbanos, recebidos pela área onde se localizam, bem como os preços correntes de mercado.
+
+**Art.122.** O critério a ser utilizado para apuração dos valores que servirão como base de cálculo, para o lançamento e recolhimento do IPTU, bem como o número de parcelas, a data de vencimento e os descontos concedidos será definido em regulamento e a serem baixados anualmente, através de decreto, pelo Executivo, atendidos:
+
+I - o interesse publica;
+
+II - a capacidade econômica do contribuinte;
+
+III - a manutenção do poder aquisitivo da moeda.
+
+§ 1_°_. Chefe do Executivo Municipal poderá conceder desconto do imposto imobiliário, de até 30% (trinta por cento), se o recolhimento for efetuado de uma só vez, nos prazos fixados no Decreto que conceder o desconto.
+
+§ 2_°_. O lançamento do IPTU poderá ser feito em conjunto com os demais tributos que incidam sobre imóvel com a coleta de lixo.
+
+**SEÇÃO III**
+
+**ALÍQUOTAS**
+
+**Art. 123. **As alíquotas do imposto são as seguintes:
+
+I - 1% (um por cento) para imóvel edificado;
+
+II - 2% (dois por cento) para imóvel não edificado.
+
+§ 1°. Toda gleba terá seu valor venal reduzido em até 50% (cinquenta por cento) de acordo com sua área e conforme regulamento.
+
+§ 2°. Entende-se por gleba, para os efeitos do parágrafo anterior, os imóveis não edificados com área igual ou superior a 10.000 m2, situados em zona urbanizável ou de expansão urbana do Município.
+
+**SEÇÃO IV**
+
+**DAS ISENÇÕES**
+
+**Art. 124. **São isentos do pagamento do IPTU, desde que cumpridas as exigências previstas nesta Lei e no Decreto que poderá regulamentar a matéria:
+
+I** -** as autoridades eclesiásticas, para o imposto incidente sobre imóvel localizado no mesmo terreno do templo religioso;
+
+II** -** os proprietários de imóveis declarados de utilidade pública, para fins de desapropriação, relativamente ao imposto incidente sobre estes, observando-se o seguinte:
+
+a) em se tratando de imóveis edificados, a partir da imissão de posse ouocupação efetiva pelo Poder desapropriante;
+
+b) em se tratando de imóveis baldios, a partir da data da declaração.
+
+III** -** o contribuinte que preencher, cumulativamente, os seguintes requisitos:
+
+a) resida no imóvel a ser concedido a isenção,
+
+b) não possuir outro imóvel, construído ou não, qualquer que seja sua localização;
+
+c) tenha uma renda mensal **não superior a um** salário mínimo e meio;
+
+d) ter padrão de vida compatível com a renda a que se refere a alínea anterior, mediante avaliação segundo critérios objetivos definidos em decreto.
+
+e) declaração da Assistente Social de verificação _inloco_ da situação das informações prestadas sejam verídicas constantes na alínea anterior.
+
+IV** -** o contribuinte portador de esclerose múltipla, neoplasia maligna, cegueira, paralisia irreversível e incapacitante, doença de Parkinson, doença de Alzheimer, síndrome da imunodeficiência adquirida, nefropatia grave, cardiopatia grave, espondiloartrose anquilosante, estados avançados da doença de Paget (osteíte deformante), contaminação por radiação, fibrose cística (mucoviscidose) ou alienação mental, desde que preencha, cumulativamente, os seguintes requisitos:
+
+a) esteja aposentado por invalidez motivada por uma das moléstias previstas neste inciso;
+
+b) esteja incapacitado para o trabalho;
+
+c) tenha uma renda mensal **não superior a um** salário mínimo e meio;
+
+d) ter padrão de vida compatível com a renda a que se refere a alínea anterior, mediante avaliação segundo critérios objetivos definidos em decreto.
+
+e) declaração da Assistente Social de verificação _inloco_ da situação das informações prestadas sejam verídicas constantes na alínea anterior.
+
+V **-** cujo valor do imposto não ultrapasse a 1 (uma) vezes o valor da UFM.
+
+§ 1º.O Município reservar-se-á o direito de buscar e averiguar todas as informações necessárias para o fim de conceder ou não a isenção requerida.
+
+§ 2º.As isenções serão requeridas anualmente antes do vencimento da primeira parcela do imposto, serão declarados em requerimento interposto à Administração Tributária Municipal, e sua cassação se dará uma vez verificado não mais existirem os pressupostos que autorizam sua concessão.
+
+§ 3º.Será indeferido o pedido de isenção em casos de omissão de rendimentos ou informações inverídicas sobre seu padrão de vida ou sobre sua situação econômico-financeira, sem prejuízo da aplicação das demais penalidades cabíveis.
+
+§ 4º.Efetuado o pagamento total do tributo, extingue-se o direito à isenção no respectivo exercício e nos casos de pagamentos parciais poderá ser deferida a isenção das parcelas ainda não pagas.
+
+§ 5º.A moléstia a que se refere o inciso V do caput deste artigo deverá ser comprovada por laudo pericial médico atualizado anualmente, atestando a incapacidade para o trabalho.
+
+**SEÇÃO V**
+
+DAS CONTESTAÇÕES DE VALORES
+
+**Art. 125. **O prazo para recebimento da reclamação contra o lançamento do IPTU e demais Tributos ou Contribuições, deverá ser feita por meio de requerimento fundamentado, até o vencimento da 1º (primeira) parcela.
+
+**Art. 126. **A Administração Tributária Municipal conceberá durante o julgamento do requerimento os benefícios estabelecidos até a data da contestação, limitando a Administração a concluir o referido parecer em até 60 dias após o protocolo.
+
+**CAPÍTULO III**
+
+**IMPOSTO SOBRE TRANSMISSÃO DE BENS IMÓVEIS**
+
+**SEÇÃO I**
+
+**HIPÓTESE DE INCIDÊNCIA E DO FATO GERADOR**
+
+**Art. 127. **O imposto sobre a transmissão por ato oneroso inter vivos, de bens imóveis, bem como cessão de direitos a eles relativos, ITBI, tem como fato gerador:
+
+I - a transmissão inter vivos, a qualquer título, por ato oneroso, da propriedade ou do domínio útil de bens imóveis, por natureza ou por acessão física, conforme definido no Código Civil;
+
+II - a transmissão inter vivos, por ato oneroso, a qualquer título, de direitos reais sobre imóveis, exceto os direitos reais de garantia;
+
+III - a cessão de direitos relativos às transmissões referidas nos incisos anteriores.
+
+§ 1º. Para efeitos desta Lei é adotado o conceito de imóvel e de cessão constantes da Lei Civil.
+
+§ 2º. O imposto municipal ITBI deverá ser regulamentado através de Decreto.
+
+**Art. 128. **A incidência do ITBI alcança as seguintes mutações patrimoniais:
+
+I - compra e venda pura ou condicional e atos equivalentes;
+
+II - dação em pagamento;
+
+III - permuta;
+
+IV - arrematação ou adjudicação em leilão, hasta pública ou praça;
+
+V - incorporação ao patrimônio de pessoa jurídica, ressalvados os casos de imunidade e não incidência;
+
+VI - transferência do patrimônio de pessoa jurídica para o de qualquer um de seus sócios, acionistas ou respectivos sucessores;
+
+VII - tornas ou reposições que ocorram:
+
+a) nas partilhas efetuadas em virtude de dissolução da sociedade conjugal ou morte quando o cônjuge ou herdeiro receber, dos imóveis situados no Município, cota-parte de valor maior do que o da parcela que lhe caberia na totalidade desses imóveis;
+
+b) nas divisões para extinção de condomínio de imóvel, quando for recebida por qualquer condômino cota-parte material, cujo valor seja maior do que o de sua cota-parte ideal;
+
+VIII - mandato em causa própria e seus substabelecimentos, quando o instrumento contiver os requisitos essenciais à compra e à venda;
+
+IX - instituição de fideicomisso; X - enfiteuse e subenfiteuse;
+
+XI - rendas expressamente constituídas sobre imóvel;
+
+XII - concessão real de uso;
+
+XIII - cessão de direitos de usufruto;
+
+XIV - cessão de direitos ao usucapião;
+
+XV - cessão de direitos do arrematante ou adjudicante, depois de assinado o auto de arrematação ou adjudicação;
+
+XVI - acessão física quando houver pagamento de indenização;
+
+XVII - cessão de direitos sobre permuta de bens imóveis;
+
+XVIII - qualquer ato judicial ou extrajudicial inter vivos não especificado neste artigo que importe ou se resolva em transmissão, a título oneroso, de bens imóveis por natureza ou acessão física, ou de direitos reais sobre imóveis, exceto os de garantia;
+
+XIX - cessão de direitos relativos aos atos mencionados no inciso anterior;
+
+XX - incorporação de imóvel ou de direitos reais sobre imóveis ao patrimônio de pessoa jurídica, em realização de capital, quando a atividade preponderante da adquirente for a compra e venda, locação ou arrendamento mercantil de imóveis, ou a cessão de direitos relativos à sua aquisição;
+
+XXI - transmissão desses bens ou direitos, decorrentes de fusão, incorporação, cisão ou extinção de pessoa jurídica, quando a atividade preponderante do adquirente for a compra e venda desses bens ou direitos, locação de bens imóveis ou arrendamento mercantil;
+
+XXII - cessão de promessa de venda ou transferência de promessa de cessão, relativa a imóveis, quando se tenha atribuído ao promitente comprador ou ao promitente cessionário o direito de indicar terceiro para receber a escritura decorrente da promessa.
+
+§ 1°. Equipara-se à compra e venda, para efeitos tributários:
+
+I - a permuta de bens imóveis por bens e direitos de outra natureza;
+
+II - a permuta de bens imóveis situados no território do Município por outros quaisquer bens situados fora do território do Município.
+
+§ 2°. Considera-se caracterizada a atividade preponderante referida nos incisos XX e XXI deste artigo, quando mais de 50% (cinquenta por cento) da receita operacional da pessoa jurídica adquirente, nos anos anteriores e nos dois anos subsequentes à aquisição, decorrer de transações mencionadas nesta Lei.
+
+§ 3°. Se a pessoa jurídica adquirente iniciar suas atividades após a aquisição, ou menos de 2 (dois) anos antes dela, apurar-se-á a preponderância referida no parágrafo anterior, levando em conta os 2 (dois) primeiros anos seguintes à data da aquisição.
+
+§ 4°. Verificada a preponderância referida no § 2º deste artigo, tornar-se-á devido o imposto, nos termos da lei vigente à data da aquisição, sobre o valor do bem ou direito nessa data.
+
+**SEÇÃO II**
+
+**DA NÃO INCIDÊNCIA**
+
+**Art. 129. **O imposto não incide sobre a transmissão dos bens ou direitos referidos nos artigos anteriores:
+
+I - quando efetuada para sua incorporação ao patrimônio de pessoa jurídica em pagamento de capital nela subscrito;
+
+II - quando decorrente da incorporação ou da fusão de uma pessoa jurídica por outra ou com outra.
+
+III - a transmissão de imóvel residencial, quando adquirido por servidor publico ativo e inativo da administração direta do município de Carauari, das suas autarquias e fundações, desde que não possua outro imóvel residencial no município de Carauari e o faça para sua moradia.
+
+Parágrafo único.O imposto não incide sobre a transmissão aos mesmos alienantes, dos bens e direitos adquiridos na forma do inciso I deste artigo, em decorrência da sua desincorporação do patrimônio da pessoa jurídica a que foram conferidos.
+
+**SEÇÃO III**
+
+**DO SUJEITO PASSIVO**
+
+**Art. 130. **O sujeito passivo da obrigação tributária é:
+
+I - o adquirente dos bens ou direitos;
+
+II - nas permutas, cada uma das partes pelo valor tributável do bem ou direito que recebe.
+
+**Art. 131. **Respondem solidariamente pelo pagamento do imposto:
+
+I - o transmitente;
+
+II - o cedente;
+
+III - o tabelião, escrivão e demais serventuários de ofício, relativamente aos atos por eles praticados ou que por eles tenham sido coniventes, em razão do seu ofício, ou pelas omissões de que foram responsáveis.
+
+**SEÇÃO IV**
+
+**DA BASE DE CÁLCULO E DA ALÍQUOTA**
+
+**Art. 132. **A base de cálculo do imposto, de que trata este capítulo, é o valor venal dos bens ou direitos transmitidos, cuja avaliação cabe a Administração Tributária Municipal, mesmo que o atribuído no contrato seja menor do que àquele.
+
+§ 1º. Na arrematação ou leilão, na remissão, na adjudicação de bens imóveis ou direitos a eles relativos, a base de cálculo será o valor estabelecido pela avaliação judicial ou administrativa, ou o preço pago, se este for maior.
+
+§ 2º. Nas tornas ou reposições, a base de cálculo, será o valor venal da fração ideal excedente inter vivos, o imposto será pago pelo fiduciário, com redução de 50% (cinquenta por cento) e pelo fideicomissário, quando entrar na posse dos bens de direitos, também com a mesma redução.
+
+§ 3º. Na transmissão de fideicomisso inter vivos o imposto será pago pelo fiduciário, com redução de 50% (cinquenta por cento), e pelo fideicomissário, quando entrar na posse dos bens ou direitos, também com a mesma redução.
+
+§ 4º. Extinto o fideicomisso por qualquer motivo e consolidada a propriedade, o imposto deve ser recolhido no prazo de 30 (trinta) dias do ato extinto.
+
+§ 5º. O fiduciário que puder dispor dos bens e direitos, quando assim proceder, pagará o imposto de forma integral.
+
+§ 6º. Para efeito de fixação do valor tributável, será utilizada a Planta de Valores Imobiliários e Tabela de Preços de Construção, devidamente atualizada, exigindo-se a aprovação do titular da Fazenda Pública Municipal as avaliações que indicarem quantitativos inferiores aos estabelecidos, sem prejuízo da consideração de outros fatores relevantes.
+
+§ 7º. Sendo o valor venal, determinado pela Planta de Valores Imobiliários e Tabela de Preços de Construção ou pela Avaliação da Administração Tributária, inferior ao valor declarado pelos sujeitos da transação, ou inferior ao valor da última transcrição em Cartório, a base de cálculo do imposto será o valor declarado em contrato ou o valor da última transcrição.
+
+**Art. 133. **O valor do ITBI será calculado aplicando-se sobre a base de cálculo a alíquota:
+
+I - nas transmissões compreendidas no sistema financeiro de habitação:
+
+1% (hum por cento) sobre o valor efetivamente financiado;
+
+2% (dois por cento) sobre a parcela não financiada;
+
+II - 3% (três por cento) nas demais transmissões a titulo oneroso, inclusive nas hipóteses de permuta e sobrepartilha.
+
+**SEÇÃO V**
+
+**DO PAGAMENTO**
+
+**Art. 134. **O imposto será pago antes da realização do ato ou da lavratura do instrumento público ou particular que configurar a obrigação de pagá-lo, exceto:
+
+I - nas tornas ou reposições em que sejam interessados incapazes, dentro de 30 (trinta) dias, contados da data em que se der a concordância do Ministério Público;
+
+II - na arrematação ou adjudicação, dentro de 30 (trinta) dias contados da data em que tiver sido assinado o ato ou deferida a adjudicação, ainda que haja recurso pendente;
+
+III - na transmissão objeto de instrumento lavrado em outro Município, dentro de 30 (trinta) dias contados da data da sua lavratura.
+
+Parágrafo único.Considerar-se-á ocorrido o fato gerador na lavratura de contrato ou promessa de compra e venda, exceto se deles constar expressamente que a emissão na posse do imóvel somente ocorrerá após a quitação final.
+
+**SEÇÃO VI**
+
+**DA FISCALIZAÇÃO E OBRIGAÇÕES ACESSÓRIAS**
+
+**Art. 135. **A fiscalização de regularidade do recolhimento do imposto compete a todas as autoridades e funcionários do fisco municipal, às autoridades judiciárias, serventuários da justiça, membros do Ministério Público, na forma da legislação vigente.
+
+**Art. 136. **Nas transmissões e cessões por instrumento público, serão consideradas todas as informações constantes do documento de arrecadação municipal comprobatório do recolhimento do imposto devido.
+
+§ 1º. Para os fins deste artigo, entende-se por instrumento público o lavrado por Tabelião, Oficial de Registro de Imóveis ou Escrivão, qualquer que seja a natureza do ato.
+
+§ 2º. Uma via da Guia de Informações para Apuração de ITBI - GIAI, devidamente autenticada pelo agente arrecadador, deverá ser arquivada pelo tabelião, oficial
+
+de registro de imóveis, ou escrivão, de forma que possa ser facilmente apresentada à fiscalização municipal, quando solicitada.
+
+§ 3º. O regulamento estabelecerá o modelo, o prazo e a forma de apresentação da GIAI.
+
+**Art. 137. **Os serventuários da justiça facilitarão aos servidores do Fisco Municipal o exame, em cartório, dos livros, autos e papéis que interessarem à verificação de regularidade da arrecadação do imposto.
+
+**Art. 138. **Nos processos judiciais em que houver transmissão inter vivos de bens imóveis ou de direitos a eles relativos funcionará, como representante da Fazenda Pública Municipal, um procurador do Município designado pelo Procurador-Geral do Município.
+
+**SEÇÃO VII**
+
+**DAS INFRAÇÕES E DAS PENALIDADES**
+
+**Art. 139. **O descumprimento das obrigações previstas nesta Lei, quanto ao ITBI, sujeita o infrator às seguintes penalidades:
+
+I - 50% (cinquenta por cento) do valor do imposto devido, na prática de qualquer ato de transmissão de bens e/ou direitos sem o pagamento do imposto nos prazos legais;
+
+II - 100% (cem por cento) do valor do imposto, caso ocorra omissão ou inexatidão fraudulenta de declaração relativa a elementos que possam influir no cálculo do imposto ou que resultem na não incidência, isenção ou suspensão de pagamento;
+
+III - 50% (cinquenta por cento) do imposto devido no caso do inciso anterior, quando não fique caracterizada a intenção fraudulenta.
+
+**CAPÍTULO IV**
+
+**IMPOSTO SOBRE SERVIÇOS DE QUALQUER NATUREZA - ISSQN**
+
+**SEÇÃO I**
+
+**FATO GERADOR E INCIDÊNCIA**
+
+**Art. 140. **O Imposto Sobre Serviços de Qualquer Natureza (**ISSQN**) tem como fato gerador a prestação de serviços constantes na lista do ANEXO III desta Lei, ainda que esses não se constituam como atividade preponderante do prestador**.**
+
+§ 1º. O imposto incide também sobre o serviço proveniente do exterior do País ou cuja prestação tenha se iniciado no exterior do País.
+
+§ 2º.Ressalvadas as exceções expressas na lista do ANEXO III, os serviços nela mencionados ficam sujeitos ao Imposto Sobre Serviços de Qualquer Natureza, ainda que sua prestação envolva fornecimento de mercadorias.
+
+§ 3º.O **ISSQN** incide ainda sobre os serviços prestados mediante a utilização de bens e serviços públicos explorados economicamente mediante autorização, permissão, concessão ou delegação, com o pagamento de tarifa, preço ou pedágio pelo usuário final do serviço.
+
+**Art. 141. **A incidência do **ISSQN** e sua cobrança não dependem:
+
+I-da existência de estabelecimento fixo;
+
+II** -** do cumprimento de quaisquer exigências legais, regulamentares ou administrativas, relativas à atividade, sem prejuízo das cominações cabíveis;
+
+III** -** do recebimento do preço ou do resultado econômico da prestação dos serviços;
+
+IV** -** da denominação dada ao serviço prestado.
+
+**Art. 142. **O serviço considera-se prestado e o imposto devido no local do estabelecimento prestador ou, na falta do estabelecimento, no local do domicílio do prestador, exceto nas hipóteses previstas nos incisos deste artigo, quando o imposto será devido no local:
+
+I** -** do estabelecimento do tomador ou intermediário do serviço ou, na falta de estabelecimento, onde ele estiver domiciliado, na hipótese do §1º da Lei Complementar 116/2003;
+
+II** -** da instalação dos andaimes, palcos, coberturas e outras estruturas, no caso dos serviços descritos no subitem 3.05 da lista do ANEXO III**;**
+
+III - da execução da obra, no caso dos serviços descritos no subitem 7.02 e 7.19 da lista do ANEXO III;
+
+IV** -** da demolição, no caso dos serviços descritos no subitem 7.04 da lista do ANEXO III;
+
+V** -** das edificações em geral, estradas, pontes e congêneres, no caso dos serviços descritos no subitem 7.05 da lista do ANEXO III;
+
+VI** -** da execução da varrição, coleta, remoção, incineração, tratamento, reciclagem, separação e destinação final de lixo, rejeitos e outros resíduos quaisquer, no caso dos serviços descritos no subitem 7.09 da lista do ANEXO III;
+
+VII** -** da execução da limpeza, manutenção e conservação de vias e logradouros públicos, imóveis, chaminés, piscinas, parques, jardins e congêneres, no caso dos serviços descritos no subitem 7.10 da lista do ANEXO III;
+
+VIII** -** da execução da decoração e jardinagem, do corte e poda de árvores, no caso dos serviços descritos no subitem 7.11 da lista do ANEXO III;
+
+IX** -** do controle e tratamento de efluentes de qualquer natureza e de agentes físicos, químicos e biológicos, no caso dos serviços descritos no subitem 7.12 da lista do ANEXO III;
+
+X** - **do florestamento, reflorestamento, semeadura, adubação, reparação de solo, plantio, silagem, colheita, corte, descascamento de árvores, silvicultura, exploração florestal e serviços congêneres indissociáveis da formação, manutenção e colheita de florestas para quaisquer fins e por quaisquer meios;
+
+XI** - **da execução dos serviços de escoramento, contenção de encostas e congêneres, no caso dos serviços descritos no subitem 7.17 da lista do ANEXO III;
+
+XII** - **da limpeza e dragagem, no caso dos serviços descritos no subitem 7.18 da lista do ANEXO III;
+
+XIII** - **onde o bem estiver guardado ou estacionado, no caso dos serviços descritos no subitem 11.01 da lista doANEXO III;
+
+XIV** -** dos bens ou do domicílio das pessoas, vigiados, segurados ou monitorados, no caso dos serviços descritos no subitem 11.02 da lista do ANEXO III;
+
+XV** - **do armazenamento, depósito, carga, descarga, arrumação e guarda do bem, no caso dos serviços descritos no subitem 11.04 da lista do ANEXO III;
+
+XVI** - **da execução dos serviços de diversão, lazer, entretenimento e congêneres, no caso dos serviços descritos nos subitens do item 12, exceto o 12.13, da lista do ANEXO III;
+
+XVII** - **do Município onde está sendo executado o transporte, no caso dos serviços descritos pelo subitem 16.01 da lista do ANEXO III;
+
+XVIII** - **do estabelecimento do tomador da mão-de-obra ou, na falta de estabelecimento, onde ele estiver domiciliado, no caso dos serviços descritos pelo subitem 17.05 da lista do ANEXO III;
+
+XIX** - **da feira, exposição, congresso ou congênere a que se referir o planejamento, organização e administração, no caso dos serviços descritos pelo subitem 17.10 da lista do ANEXO III;
+
+XX** -** do aeroporto, ferroporto, terminal rodoviário ou ferroviário, no caso dos serviços descritos pelo item 20 da lista do ANEXO III.
+
+XXI - dos bens, dos semoventes ou do domicilio das pessoas vigiados, segurados ou monitorados, no caso dos serviços descritos no subitem 11.02 da lista anexa;
+
+XXII - do domicílio do tomador dos serviços dos subitens 4.22, 4.23 e 5.09;
+
+XXIII - do domicílio do tomador do serviço no caso dos serviços prestados pelas administradoras de cartão de crédito ou débito e demais descritos no subitem 15.01;
+
+XXIV - do domicílio do tomador de serviços dos subitens 10.04 e 15.09.
+
+§ 1º. No caso dos serviços a que se refere o subitem 3.04 da lista do ANEXO III, considera-se ocorrido o fato gerador e devido o imposto no último dia de cada mês em que haja, no Município de Carauari, extensão de ferrovia, rodovia, cabos, dutos, condutos de qualquer natureza e posteamento, objetos de locação, sublocação, arrendamento, direito de passagem ou permissão de uso, compartilhado ou não.
+
+§ 2º. No caso dos serviços a que se refere o subitem 22.01 da lista do ANEXO III, considera-se ocorrido o fato gerador e devido o imposto no último dia de cada mês em que haja, no Município de Carauari, extensão de rodovia.
+
+§ 3º. Considera-se estabelecimento prestador o local onde o contribuinte desenvolva a atividade de prestar serviços, de modo permanente ou temporário, e que configure unidade econômica ou profissional, sendo irrelevantes para caracterizá-lo as denominações de sede, filial, agência, posto de atendimento, sucursal, escritório de representação ou contato ou quaisquer outras que venham a ser utilizadas.
+
+**SEÇÃO II**
+
+**DA BASE DE CALCULO E DA ALIQUOTA**
+
+**Art. 143. **A base de cálculo do **ISSQN **é o preço do serviço, sendo que o imposto será calculado mediante a aplicação da alíquota constante do ANEXO II - Tabela de atividade econômica desta Lei.
+
+§ 1º. A alíquota mínima do Imposto Sobre Serviços de Qualquer Natureza é de 2% (dois por cento).
+
+§ 2º. Sendo a empresas prestadoras de serviço, enquadradas no Simples Nacional prevalecera a alíquota variável de 2 a 5% (cinco por cento) de acordo com tabela do Simples Nacional.
+
+§ 3º. O imposto não será objeto de concessão de isenções, incentivos ou benefícios tributários ou financeiros, inclusive e redução de base de cálculo ou de crédito presumido ou outorgado, ou sob qualquer outra forma que resulte, direta ou indiretamente, em carga tributária menor que a decorrente da aplicação da alíquota mínima estabelecida no **caput**, exceto para os serviços a que se referem os subitens 7.02, 7.05 e 16.01 no ANEXO III desta Lei.
+
+§ 4º.Quando se tratar de prestação de serviços sob a forma de trabalho pessoal do próprio contribuinte, o imposto será calculado por meio de alíquotas fixas ou variáveis, em função da natureza do serviço ou de outros fatores pertinentes, não compreendida nestes a importância paga a título de remuneração do próprio trabalho, ressalvadas as hipóteses previstas no ANEXO III desta Lei.
+
+§ 5º. Quando os serviços descritos pelo subitem 3.04 da lista de serviços do ANEXO III desta Lei forem prestados em mais de um Município, a base de cálculo será proporcional, conforme o caso, à extensão da ferrovia, rodovia, dutos e condutos de qualquer natureza, cabos de qualquer natureza, ou ao número de postes, existentes no território do Município de Carauari.
+
+§ 6º. Ficam excluídos da base de cálculo do ISSQN devido pelos hospitais sediados em Carauari os recursos a eles repassados pelo Sistema Único de Saúde (SUS).
+
+**Art. 144. **O preço dos serviços é a receita bruta a eles correspondente, sem qualquer dedução, ainda que a título de subempreitada de serviço, frete, despesa ou imposto.
+
+§ 1º.Constituem parte integrante do preço**:**
+
+I** -** os valores acrescidos e os encargos de qualquer natureza, ainda que de responsabilidade de terceiros;
+
+II** -** os ônus relativos à concessão de crédito, ainda que cobrados em separado, na hipótese de prestação e serviços, sob qualquer modalidade ou título;
+
+III** -** o montante do imposto transferido ao tomador do serviço, cuja indicação dos documentos fiscais será considerada simples elemento de controle;
+
+IV- os valores despendidos direta ou indiretamente, em favor de outros prestadores de serviços, a título de participação, co-participação ou demais formas da espécie.
+
+§ 2º**.** Não integram o preço do serviço os valores relativos a desconto ou abatimento total ou parcial sujeitos a condição, desde que prévia e expressamente contratados.
+
+**Art. 145. **O preço de determinados serviços poderá ser fixado pela autoridade competente, da seguinte forma:
+
+I** -** em pauta que reflita o preço corrente na praça;
+
+II** -** mediante estimativa, quando a base de cálculo não oferecer condições de apuração pelos critérios normais, ou quando se tratar:
+
+a) de atividade exercida em caráter temporário;
+
+b) de contribuinte com organização rudimentar;
+
+c) de contribuinte que não emite documentos fiscais ou deixa de cumprir com regularidade as obrigações acessórias previstas na legislação;
+
+d) de contribuinte ou grupo de contribuintes cuja espécie, modalidade ou volume de negócios ou atividades aconselhem, a critério exclusivo da autoridade competente, tratamento fiscal específico.
+
+III** -** por arbitramento, nos casos especificamente previstos.
+
+**Art. 146. **No cálculo do imposto por estimativa, serão observadas as seguintes normas:
+
+I** -** o valor provável da receita tributável e o imposto a recolher serão estimados tomando-se por base pelo menos um dos aspectos seguintes;
+
+a) as informações do contribuinte;
+
+b) o volume de receita em períodos anteriores e sua projeção para os períodos seguintes, inclusive mediante comparativo com outros contribuintes de idêntica atividade;
+
+c) a localização do estabelecimento;
+
+d) as despesas fixas de manutenção da atividade;
+
+e) outros elementos informativos, inclusive estudos de órgãos públicos e entidades de classe diretamente vinculadas à atividade.
+
+II** -** o montante do imposto assim estimado será lançado e recolhido na forma e de acordo com os prazos previstos em regulamento, independentemente do regime de tributação em que o contribuinte estiver enquadrado.
+
+§ 1º.O enquadramento do contribuinte no regime de estimativa poderá, a critério da autoridade competente, ser feito individualmente, por categorias de contribuintes e grupos ou setores de atividade.
+
+§ 2º.A aplicação do regime de estimativa independerá do fato de se encontrar o contribuinte sujeito a possuir escrita fiscal.
+
+§ 3º. Poderá, a qualquer tempo, ser suspensa a aplicação do regime de estimativa de modo geral ou individual, bem como poderão ser revistos os valores estimados para determinado período e, se for o caso, reajustadas as prestações subsequentes à revisão.
+
+**Art. 147. **A receita bruta será arbitrada sempre que:
+
+I** -** o contribuinte não possuir documentos ou livros fiscais de utilização obrigatória ou estes não se encontrarem com a escrituração em dia;
+
+II** -** o contribuinte, depois de intimado, deixar de exibir os documentos ou livros fiscais de utilização obrigatória;
+
+III** -** ocorrer fraude ou sonegação de dados julgados indispensáveis ao lançamento, inclusive quando os elementos constantes dos documentos fiscais ou contábeis não refletirem o preço real do serviço;
+
+IV** -** sejam omissos ou não mereçam fé as declarações, os esclarecimentos prestados ou os documentos expedidos pelo sujeito, ou quando não possibilitem a apuração das receitas;
+
+V** -** o contribuinte não houver recolhido o imposto nos prazos determinados por lei ou por regulamento, no caso de recolhimento por auto lançamento;
+
+VI** -** ocorrer o exercício de qualquer atividade que implique em realização de operação tributável, sem que o contribuinte esteja devidamente inscrito na repartição fiscal competente;
+
+VII** -** for constatada a prática de subfaturamento ou contratação de serviços por valores abaixo dos preços de mercado;
+
+VIII** -** forem prestados serviços sem a determinação do preço ou a título de cortesia.
+
+**Art. 148. **Quando não puder ser conhecido o valor efetivo da receita bruta, resultante da prestação de serviços, ou quando os registros a eles relativos não mereçam fé pelo fisco, tomar-se-á por base de cálculo a receita bruta arbitrada, a qual não poderá, em hipótese alguma, ser inferior ao total das seguintes parcelas:
+
+I** -** valor das matérias-primas, combustíveis e outros materiais consumidos e aplicados durante o ano;
+
+II** -** folha de salários pagos durante o ano, adicionados os honorários de diretores e as retiradas dos proprietários, sócios ou gerente;
+
+III** -** dez por cento do valor venal do imóvel, ou parte dele, e dos equipamentos utilizados pela empresa ou pelo profissional autônomo;
+
+IV** -** despesas com consumo de água, luz, telefone e demais encargos obrigatórios do contribuinte.
+
+Parágrafo único**. **A receita bruta arbitrada poderá ter, ainda, como base de cálculo:
+
+I** -** a receita lançada para o contribuinte em anos anteriores, devidamente atualizada;
+
+II** -** areceita auferida por contribuinte de uma mesma atividade.
+
+SEÇÃO III
+
+DO ISSQN FIXO E DOS CONTRIBUINTES
+
+**Art. 149.** A prestação de serviço sob forma de trabalhopessoal do próprio contribuinte é o simples fornecimento de trabalho, por profissional autônomo, que não tenha a seu serviço, empregado da mesma qualidade profissional.
+
+Parágrafo Único. Não se considera serviço pessoal do próprio contribuinte o serviço prestado:
+
+I** -** por firmas individuais;
+
+II** -** em caráter permanente sujeito a normas do tomador, ainda que por trabalhador autônomo.
+
+**Art. 150. **Para os contribuintes na forma de sociedade de profissionalliberal o imposto de serviços de qualquer natureza será determinado, anualmente, pela soma dos valores atribuídos aos sócios.
+
+§ 1º. Sociedade de profissional liberal é a reunião de pessoas físicas do mesmo grupo ocupacional, habilitadas para o exercício das atividades profissionais especificadas nos incisos a seguir:
+
+I** -** quando os serviços prestados pelos profissionais sem nível superior;
+
+II** - **quando os serviços prestados pelos profissionais com nível superior.
+
+§ 2º. Deixa de ser de profissional liberal a sociedade em que se verifique qualquer uma das seguintes hipóteses
+
+a) sócio não habilitado para o exercício da atividade correspondente aos serviços prestados;
+
+b) sócio pessoa jurídica;
+
+c) sócio participante do quadro societário, mas não exercendo a atividade na sede da empresa, mas desde que comprovado o vinculo em outro local;
+
+d) mais de 5 (cinco) empregados profissionalmentenão habilitados para o exercício da atividade correspondente aos serviços prestados;
+
+e) quando a sociedade exercer, também, atividade não prevista nas acima especificadas.
+
+**Art. 151. **O imposto sobre os serviços de qualquer natureza prestados sob a forma de trabalho pessoal do próprio contribuinte e de sociedade de profissional liberal será calculado, mensalmente, trimestralmente ou anualmente, do acordo com o ANEXO II**.**
+
+**Art. 152.** Fica facultado ao Chefe do Poder Executivo mediante Decreto regulamentar questões oriundas e pertinentes da matéria da presente Seção.
+
+SEÇÃO IV
+
+DA INSCRIÇÃO NO CADASTRO MERCANTIL
+
+**Art. 153. **As pessoas físicas ou jurídicas, com ou sem estabelecimento fixo, que exerçam, habitual ou temporariamente, individualmente ou em sociedade, qualquer das atividades descritas no ANEXO II, desta Lei, ficam sujeitas à inscrição no Cadastro Mercantil do Município**.**
+
+§ 1º. A inscrição no cadastro a que se refere o caput deste artigo, será promovida pelo contribuinte ou responsável, na forma e nos prazos estipulados em regulamento.
+
+§ 2º. Para os efeitos desta Lei, considera-se:
+
+I** - **empresário: quem exerce profissionalmente atividade econômica organizada para a produção ou a circulação de bens ou de serviços;
+
+II** - **profissional autônomo:
+
+a)a pessoa física que exerce profissão intelectual, de natureza científica, literária ou artística ainda com o concurso de auxiliares ou colaboradores, salvo se o exercício da profissão constituir elemento de empresa;
+
+b)a pessoa física que fornecer o próprio trabalho, em caráter pessoal, sem relação de emprego, com o auxílio de, no máximo, duas pessoas, salvo se o exercício da profissão constituir elemento de empresa.
+
+§ 3º.Salvo as exceções expressas em lei, consideram-se:
+
+I** - **sociedade empresária: a que tem por objeto o exercício de atividade própria de empresário sujeito a registro;
+
+II** - **sociedades simples: as demais.
+
+**Art. 154. **As declarações prestadas pelo contribuinte ou responsável no ato da inscrição ou atualização dos dados cadastrais não implicam em aceitação pelo fisco, que poderá revê-los a qualquer época, independentemente de prévia ressalva ou comunicação.
+
+Parágrafo único. A inscrição, alteração ou retificação de ofício não eximem o infrator das multas e penalidades cabíveis.
+
+**Art. 155.** A obrigatoriedade da inscrição estende-se às pessoas físicas ou jurídicas imunes ou isentas do pagamento do imposto.
+
+Parágrafo único.A inscrição deverá ser efetuada antes do início das atividades do prestador de serviço.
+
+**Art. 156. **O contribuinte deverá comunicar à Administração Tributária a cessação das atividades até o último dia do mês subsequente ao da paralisação da mesma.
+
+§ 1º. Caso o contribuinte não seja encontrado no domicílio tributário fornecido para a tributação, a inscrição e o cadastro poderão ser desativados ou baixados de ofício.
+
+§ 2º. A anotação de cessação ou paralisação das atividades não extingue os débitos existentes, ainda que venham a ser apurados posteriormente à declaração do contribuinte ou à baixa de ofício.
+
+SEÇÃO V
+
+DO LANÇAMENTO DA ARRECADAÇÃO E DO VENCIMENTO
+
+**Art. 157. **O lançamento do imposto será efetuado na forma e nos prazos estabelecidos em regulamento, tomando-se por base os dados constantes do Cadastro Mercantil do Município.
+
+**Art. 158. **O imposto será recolhido:
+
+I - por meio de DAM - Documento de Arrecadação Municipal preenchida pelo fisco, quando for valor fixo;
+
+II - por meio de DAM - Documento de Arrecadação Municipal quando emitida a Nota Fiscal de Serviço;
+
+III - por meio de DAM - Documento de Arrecadação Municipal preenchida pelo próprio contribuinte, sujeito ao auto-lançamento, de acordo com modelo, forma e prazo estabelecidos em regulamento;
+
+IV - por meio de retificação de lançamento, emitida pela repartição competente.
+
+**Art. 159.** Forma e prazo para recolhimento do ISSQN:
+
+I - ultimo dia útil do mês, para contribuinte identificado no Cadastro Mercantil como:
+
+regime de estimativa;
+
+profissionais sem nível superior;
+
+profissionais com nível superior.
+
+II** - **até 7 (sete) dias após a data de emissão da Nota Fiscal de Serviço - Avulso, para contribuinte identificado no Cadastro Mercantil para emissão de Nota Fiscal Avulso, recolhimento antecipado;
+
+III** - **até o dia 10 (dez) do mês subsequente à prestação do serviço ou data da emissão da Nota Fiscal de Serviço, para contribuinte identificado no Cadastro Mercantil para emissão de Nota Fiscal no regime de apuração.
+
+**Art. 160. **Havendo necessidade, o Chefe do Poder Executivo baixará Decreto sobre a presente matéria, traçando diretrizes para sua adequada execução, inclusive podendo estabelecer valor mínimo de recolhimento.
+
+SEÇÃO VI
+
+DA ESCRITURAÇÃO FISCAL
+
+**Art. 161. **O contribuinte do imposto fica obrigado a manter em cada um dos seus estabelecimentos, sujeitos à inscrição, escrita fiscal e demais documentos destinados ao registro dos serviços neles prestados, ainda que isentos ou não tributados, na forma disposta em regulamento.
+
+Parágrafo único.Os modelos de livros, notas fiscais e demais documentos, a serem obrigatoriamente utilizados pelos contribuintes, serão definidos em regulamento.
+
+**Art. 162. **Os contribuintes sujeitos ao imposto são obrigados a emitir notas fiscais dos serviços prestados, ou outro documento exigido pelo Fisco, por ocasião da prestação de serviços.
+
+Parágrafo único.Sendo insatisfatórios para a fiscalização os meios normais de
+
+controle para apuração do imposto, poderá ser exigida dos contribuintes a apresentação de livros contábeis, bem como de instrumentos ou documentos especiais necessários à perfeita apuração dos serviços prestados e da receita apurada.
+
+SEÇÃO VII
+
+DO SUGEITO PASSIVO
+
+**Art. 163. **Contribuinte do imposto é o prestador do serviço.
+
+Parágrafo único.Considera-se prestador do serviço o profissional autônomo ou a empresa que exerça, em caráter permanente ou eventual, quaisquer atividades referidas na lista de serviços ANEXO III desta Lei.
+
+**SEÇÃO VIII**
+
+**DO RESPONSÁVEL**
+
+**Art. 164. **São solidariamente obrigados, perante a Fazenda Pública Municipal, quanto ao imposto relativo aos serviços em que forem parte, aqueles que tenham interesse comum na situação que constitua fato gerador da obrigação principal.
+
+§ 1°. A obrigação solidária é inerente a todas as pessoas físicas ou jurídicas, ainda que alcançadas por imunidade ou isenção tributária.
+
+§ 2°. A solidariedade não comporta benefício de ordem, podendo, entretanto, o sujeito passivo, atingido por seus efeitos, efetuar o pagamento do imposto incidente sobre o serviço antes de iniciado o procedimento fiscal.
+
+**Art. 165. **São também solidariamente responsáveis com o prestador do serviço:
+
+I - o proprietário do estabelecimento ou veículo de aluguel para frete ou de transporte coletivo no território do Município;
+
+II - o proprietário da obra;
+
+III - o proprietário ou seu representante que ceder dependência ou local para a prática de jogos e diversões;
+
+IV - os construtores, empreiteiros principais e administradores de obras hidráulicas, de construção civil de reparação de edifícios, estradas, logradouros, pontes e congêneres, pelo imposto relativo aos serviços prestados por subempreiteiros estabelecidos ou não no Município;
+
+V - os administradores de obras, pelo imposto relativo à mão-de-obra, inclusive de subcontratadas, ainda que o pagamento dos serviços seja feito diretamente pelo dono da obra contratante;
+
+VI - os titulares de direitos sobre prédios ou os contratantes de obras e serviços, se não identificarem os construtores ou os empreiteiros de construção, reconstrução, reforma, reparação ou acréscimo desses bens pelo o imposto devido pelos construtores ou empreiteiros;
+
+VII - os locadores de máquinas, aparelhos e equipamentos instalados, pelo imposto devido pelos locatários estabelecidos no Município e relativo à exploração desses bens;
+
+VIII - os titulares dos estabelecimentos onde se instalarem máquinas, aparelhos e equipamentos, pelo imposto devido, pelos respectivos proprietários não estabelecidos no Município e relativo à exploração desses bens;
+
+IX - os que permitirem em seus estabelecimentos ou domicílios exploração de atividade tributável sem estar o prestador do serviço inscrito no órgão fiscal competente, pelo imposto devido sobre essa atividade;
+
+X - os que efetuarem pagamentos de serviços a terceiros não identificados, pelo imposto cabível nas operações;
+
+XI - os que utilizarem serviços de empresas, pelo imposto incidente sobre as operações, se não exigirem dos prestadores documentos fiscal idôneo;
+
+XII - os que utilizarem serviços de profissionais autônomos, pelo imposto incidente sobre as operações, se não exigirem dos prestadores prova de quitação fiscal ou de inscrição no Cadastro de Atividades econômico-sociais;
+
+XIII - as empresas administradoras de cartão de crédito, pelo imposto incidente sobre o preço dos serviços prestados pelos estabelecimentos filiados localizados no Município, quando pagos através de cartão de crédito por elas emitido;
+
+XIV - as companhias de aviação, pelo imposto incidente sobre as comissões pagas às agências de viagens e operadoras turísticas, relativas às vendas de passagens áreas.
+
+XV - os notários e registradores, os oficiais de escrivania ou de cartório de vara da justiça **_latu census_**, distribuidor e demais oficiais e serventuários da justiça, inclusive da Justiça Federal, pelo pagamento do **ISSQN** correspondente aos honorários pagos ou repassados para advogados, contadores, peritos e demais valores que forem pagos, distribuídos ou passados referente à prestação de qualquer dos serviços previstos no ANEXO III desta Lei.
+
+**SEÇÃO IX**
+
+**DA SUBSTITUIÇÃO TRIBUTÁRIA**
+
+**Art. 166. **O ISSQN será retido na fonte pelo tomador dos serviços, denominado substituto tributário, sendo responsáveis pela retenção e pelo recolhimento do imposto:
+
+I - Os órgãos da administração direta da União, dos Estados e do Município, bem como as respectivas autarquias, empresas públicas, concessionárias de serviços públicos, sociedades de economia mista sob seu controle, e as fundações instituídas pelo Poder Público, estabelecidos ou sediados no Município de Carauari, que se utilizarem de serviços prestados por profissional autônomo ou empresa, inscritos ou não no Cadastro Mercantil do Município, sujeitos à incidência do **ISSQN**, reterão no ato do pagamento do serviço, o valor do imposto devido, independentemente do regime de tributação em que o contribuinte estiver enquadrado.
+
+II – O Poder Público municipal poderá firmar convenio com pessoas jurídicas de direito privado, que se utilizarem de serviços prestados por profissionais autônomos ou empresas, inscritas ou não no Cadastro Mercantil do Município, sujeitos a incidência do **ISSQN**, para reterem no ato do pagamento do serviço o valor do imposto devido;
+
+III - as entidades representativas de classes ou profissões regulamentadas, como as confederações, federações, sindicatos e conselhos fiscalizadores;
+
+IV** -** as pessoas jurídicas de direito privado imunes ou isentas do **ISSQN**, as entidades sem fins lucrativos, as cooperativas, e as sociedades anônimas que se utilizarem ou efetuarem pagamento de quaisquer dos serviços previstos no ANEXO III desta Lei;
+
+V** –** a pessoa física ou jurídica ,ainda que isenta ou imune , tomadora ou intermediaria de serviço proveniente do exterior do País ou cuja prestação se tenha iniciado no exterior do País;
+
+VI** -** a pessoa jurídica tomadora ou intermediária dos serviços descritos nos itens 3.02, 3.03, 3.04, 3.05, 7.02, 7.03, 7.04, 7.05, 7.06, 7.08, 7.09, 7.10, 7.11, 7.12, 7.13, 7.16, 7.17, 7.18, 7.19, 10.01, 11.02, 11.04, 16.01, 17.04, 17.05, 7.08, 17.10, 17.11, 17.13, 28.01, 30.01, 31.01, e nos subitens do item 12, exceto o 12.13, da lista do ANEXO III desta Lei, quando o prestador dos serviços estiver estabelecido ou domiciliado fora do Município de Carauari;
+
+VII** -** a pessoa jurídica, ainda que imune ou isenta, tomadora ou intermediária dos serviços descritos nos subitens 3.05, 7.02, 7.04, 7.05, 7.09, 7.10, 7.11, 7.12, 7.16, 7.17, 7.18, 7.19, 11.01, 11.02, 11.04, 16.01, 17.05 e 17.10 e nos itens 12 e 20 da lista de serviços do ANEXO III, desde que o local das execuções destes serviços se encontre dentro do município de Carauari, ainda que os prestadores sejam estabelecidos em outro município;
+
+VIII - as incorporadoras, construtoras, empreiteiras e administradoras de obras de construção civil, quanto a todos e quaisquer serviços relacionados com a obra;
+
+IX - os estabelecimentos, empresas e/ou instituições de ensino, saúde, rádio, televisão, jornal, condomínios comerciais e residenciais;
+
+X - os estabelecimentos bancários e demais entidades financeiras autorizadas a funcionar pelo Banco Central;
+
+XI** -** o proprietário ou seu representante, que ceder dependências ou locais para a prática de jogos ou diversões, sem que o contribuinte esteja quite com o imposto;
+
+XII - todos os tomadores que contratarem serviços prestados por autônomo ou empresas sem a correspondente nota fiscal dos serviços prestados;
+
+§ 1º. Os responsáveis pela retenção deverão reter o **ISSQN**, com base no preço do serviço e alíquota estabelecida pelo artigo 143, independentemente do regime de tributação em que o contribuinte estiver enquadrado ou da emissão do documento fiscal.
+
+§ 2º. Os substitutos tributários relacionados nos incisos I do caput deste artigo, a retenção devera ser efetuada no ato do pagamento e o valor do **ISSQN** retido devera ser recolhido aos cofres da Fazenda Publica Municipal até o dia 10 (dez) do mês subsequente a retenção.
+
+§ 3º. Os substitutos tributários relacionados nos incisos de II a XII do caput deste artigo, o valor do **ISSQN** retido devera ser recolhido aos cofres da Fazenda Publica Municipal até o dia 10 (dez) do mês subsequente à prestação do serviço ou data da emissão do documento fiscal.
+
+§ 4º. Os responsáveis pela retenção a que se referem o § 3º deste artigo estão obrigados ao recolhimento integral do imposto devido, multa e acréscimos legais, independentemente de ter sido efetuada sua retenção na fonte.
+
+§ 5º. Os responsáveis pela retenção do **ISSQN **fornecerão ao prestador do serviço copia do DAM - Documento de Arrecadação Municipal do valor recolhido, referente a Nota Fiscal, e ficam obrigados a enviar à Administração Tributária as informações objeto da retenção, de acordo com o regulamento.
+
+§ 6º. Os contribuintes do **ISSQN** registrarão, no livro destinado ao registro dos serviços prestados ou equivalente e no documento fiscal, os valores que lhes foram retidos na fonte pagadora, tendo por documento hábil o DAM - Documento de Arrecadação Municipal a que se refere o parágrafo anterior.
+
+§ 7º. Caso o responsável não efetue a retenção e declare espontaneamente a infração, ficará obrigado a recolher o valor correspondente ao imposto não retido, acrescido de multas, juros e correção monetária.
+
+§ 8°. Ficam excluídos da retenção, a que se refere este artigo, os serviços prestados por profissional autônomo e empresas que comprovar na Inscrição no Cadastro Mercantil do Município, que o regime de recolhimento do **ISSQN** seja fixo.
+
+§ 9°. Se os responsáveis pela retenção comprovar que o prestador já recolheu o imposto devido pela prestação dos serviços, cessará a sua responsabilidade pelo pagamento do imposto.
+
+§ 10°. A utilização de Nota Fiscal de Serviço Avulsa - NFSA-e, emitida pela Fazenda Publica Municipal dispensa a retenção do **ISSQN** pela empresa tomadora de serviços.
+
+§ 11°. O descumprimento da obrigação de recolher o imposto retido na fonte constitui apropriação indébita de valores do erário municipal, além de penalidades previstas em Lei.
+
+§ 12º. No caso dos serviços prestados pelas administradoras de cartão de crédito e débito, descritos no subitem 15.01, os terminais eletrônicos ou as máquinas das operações efetivadas deverão ser registrados no local do domicílio do tomador do serviço.
+
+SEÇÃO VIII
+
+DAS ISENÇOES E DA NÃO-INCIDÊNCIA
+
+**Art. 167. **Ficam isentos do pagamento do **ISSQN**:
+
+I** - **as associações comunitárias, comerciais, industriais e os clubes de serviço, cuja finalidade essencial, nos termos dos respectivos estatutos e em vista dos atos efetivamente praticados, esteja voltada para o desenvolvimento da comunidade e atendidas as exigências desta Lei.
+
+**Art. 168. **O Imposto Sobre Serviços de Qualquer Natureza não incide sobre:
+
+I** -** as exportações de serviços para o exterior do País;
+
+II** -** a prestação de serviços em relação de emprego, dos trabalhadores avulsos, dos diretores e membros de conselho consultivo ou de conselho fiscal de sociedades e fundações, bem como dos sócios-gerentes e dos gerentes-delegados;
+
+III **-** o valor intermediado no mercado de títulos e valores mobiliários, o valor dos depósitos bancários, o principal, juros e acréscimos moratórios relativos a operações de crédito realizadas por instituições financeiras.
+
+Parágrafo único. Não se enquadram no disposto no inciso I do caput deste artigo os serviços desenvolvidos no Brasil, cujo resultado aqui se verifique, ainda que o pagamento seja feito por residente no exterior.
+
+SEÇÃO IX
+
+DAS INFRAÇÕES E PENALIDADES
+
+**Art. 169. **Constitui infração toda ação ou omissão voluntária ou involuntária que importe em inobservância, por parte da pessoa física ou jurídica, de normas estabelecidas por esta Lei ou em regulamento ou pelos atos administrativos de caráter normativo destinados a complementá-los.
+
+Parágrafo único.A responsabilidade por infrações independe da intenção do agente ou do responsável e da efetividade, natureza e extensão dos efeitos do ato.
+
+**Art. 170. **Sem prejuízo da atualização monetária e dos juros moratórios previstos nesta Lei, a falta de pagamento ou retenção do imposto, nos prazos estabelecidos pelo regulamento, implicará a cobrança dos seguintes acréscimos:
+
+I - recolhimento fora do prazo regulamentar, efetuado após o início da ação fiscal, ou através dela:
+
+a) multa equivalente a 50% (cinquenta por cento) do valor do imposto devido e não pago, ou pago a menor, pelo prestador do serviço;
+
+b) multa equivalente a 50% (cinquenta por cento) do valor do imposto devido sobre o total da operação aos que, obrigados à retenção do tributo, deixarem de efetuá-la;
+
+c) multa equivalente a 80% (oitenta por cento) do valor do imposto devido sobre o total da operação, aos que deixarem de recolher, no prazo regulamentar, o imposto retido do prestador do serviço.
+
+d) 80% (oitenta por cento) do valor do imposto devido, quando, em decorrência de ação fiscal, se configurar adulteração, falsificação ou omissão de documentos fiscais, com declaração falsa quanto à espécie ou preço do serviço ou pela prática de qualquer outro meio fraudulento.
+
+II - infrações relativas à inscrição e alterações cadastrais:
+
+a) multa de 10 (dez) UFM's, aos que deixarem de efetuar, na forma e prazo regulamentares, a inscrição inicial, as alterações de dados cadastrais ou o encerramento de atividade, quando a infração for apurada através de ação fiscal ou denunciada após o seu início;
+
+b) multa de 10 (dez) UFM's, aos contribuintes que promoverem alterações de dados cadastrais, venda ou transferência de estabelecimento, e transferência ou encerramento de atividade, após o prazo de 15 (quinze) dias contados da data da ocorrência do evento;
+
+III - infrações relativas aos livros destinados à escrituração dos serviços prestados ou tomados de terceiros e a qualquer outro livro fiscal que deva conter o valor do imposto, ou dos serviços, quando apuradas através de ação fiscal ou denunciadas após o seu início:
+
+a) o valor equivalente a 10 (dez) UFM's aos que utilizarem livros fiscais sem a devida autenticação;
+
+b) o valor equivalente a 10 (dez) UFM's, aos que utilizarem livros em desacordo com as normas regulamentares;
+
+c) o valor equivalente a 10 (dez) UFM's aos que escriturarem os livros fiscais fora dos prazos regulamentares;
+
+d) o valor equivalente a 20 (vinte) UFM's aos que, sujeitos à escrita fiscal, deixarem de lançar no livro próprio o imposto devido;
+
+e) o valor equivalente a 10 (dez) UFM's pela não apresentação ou apresentação fora do prazo regulamentar dos livros fiscais, nos casos de encerramento da escrituração por extinção da empresa;
+
+f) o valor equivalente a 20 (vinte) UFM's, aos que escriturarem livros ou emitirem documentos por sistema mecanizado ou de processamento de dados, em regime especial, sem prévia autorização;
+
+g) o valor equivalente a 10 (dez) UFM's, aos que deixarem de fazer a necessária comunicação ao órgão fiscal competente, dentro do prazo previsto, quando ocorrer inutilização ou extravio de livros e documentos fiscais.
+
+IV - infrações relativas aos documentos fiscais:
+
+a) multa equivalente a 200% (duzentos por cento) do valor dos serviços, aos que, obrigados ao pagamento do imposto, deixarem de emitir, ou o fizerem com importância diversa do valor do serviço, adulterarem ou inutilizarem documento fiscal previsto em regulamento;
+
+b) multa equivalente a 200% (duzentos por cento) do valor dos serviços aos quais se referir o documento, aos que, não tendo efetuado o pagamento do imposto correspondente, emitirem, para operações tributáveis, documento fiscal referente a serviços não tributáveis ou isentos e aos que, em proveito próprio ou alheio, se utilizarem desses documentos para a produção de qualquer efeito fiscal;
+
+c) o valor equivalente a 10 (dez) UFM's, por nota fiscal emitida, aos que utilizarem estas em desacordo com as normas regulamentares ou depois de decorrido o prazo regulamentar de utilização;
+
+d) o valor equivalente a 20 (vinte) UFM's, aplicável em cada operação aos que, isentos ou não tributados, deixarem de emitir Nota Fiscal de Serviço;
+
+e) o valor equivalente a 20 (vinte) UFM's, aos que imprimirem para si ou para terceiros, documentos fiscais sem prévia autorização da repartição competente;
+
+f) o valor equivalente a 20 (vinte) UFM's, aos que imprimirem para si ou para terceiros, documentos fiscais em desacordo com a autorização concedida;
+
+g) o valor equivalente a 20 (vinte) UFM's, aos que, em proveito próprio ou alheio, utilizarem documentos falsos para produção de qualquer efeito fiscal;
+
+h) o valor equivalente a 20 (vinte) UFM's, aos que emitirem nota fiscal de serviços de série diversa da prevista para a operação em cada mês.
+
+i) valor equivalente a 20 (vinte) UFM's aos que imprimirem ou utilizarem documentos fiscais com numeração duplicada;
+
+j) o valor equivalente a 20 (vinte) UFM's, aplicável a cada documento fiscal em que não constar o número de inscrição cadastral;
+
+k) o valor equivalente a 10 (dez) UFM's, aos que ocultarem ou extraviarem notas fiscais, por nota fiscal oculta ou extraviada, sem prejuízo do arbitramento do imposto;
+
+l) o valor equivalente a 20 (vinte) UFM's, aos que ocultarem ou extraviarem documentos fiscais, por documento;
+
+m) o valor equivalente a 10 (dez) UFM's, por mês, aos contribuintes que, sujeitos à apresentação de comprovação de movimentação negativa, não o fizerem no prazo regulamentar;
+
+n) o valor equivalente a 20 (vinte) UFM's, aplicável a cada falta de emissão de documento fiscal, aos tomadores de serviços que não exigirem notas fiscais de serviços das pessoas jurídicas contratadas;
+
+o) 200% (duzentos por cento) do valor do imposto devido, quando, em virtude de emissão de guia negativa de movimento tributário, se configurar declaração falsa quanto à espécie ou preço do serviço ou pela prática de qualquer outro meio fraudulento.
+
+V - infrações relativas a declarações ou mapas: multa de 10 (dez) UFM's, aos que deixarem de apresentar, na forma e prazos regulamentares, qualquer declaração ou mapa periódico a que obrigados, ou o fizerem com dados inexatos, ou com omissão de elementos indispensáveis à apuração do imposto devido, por documento.
+
+Parágrafo único. O valor da multa será reduzido em 50% (cinquenta por cento), quando o contribuinte, conformando-se com o procedimento fiscal, efetuar o pagamento das importâncias exigidas, no prazo previsto.
+
+**Art. 171. **O contribuinte com debito de **ISSQN** superior a 30 (trinta dias) passara a utilizar Nota Fiscal Avulso, ate que os débitos sejam recolhido a Fazenda Publica Municipal.
+
+**CAPÍTULO V**
+
+**DAS TAXAS DECORRENTES DA UTILIZAÇÃO EFETIVA OU POTENCIAL DE SERVIÇOS PUBLICOS ESPECIFICOS, PESTADO AO CONTRIBUINTE OU POSTO A SUA DISPOSIÇÃO**
+
+**SEÇÃO I**
+
+**TAXAS DE EXPEDIENTE E SERVIÇOS DIVERSOS**
+
+**Art. 172. **Sujeito passivo das taxas é o solicitante do serviço ou o interessado neste.
+
+**Art. 173. **As taxas serão calculadas de acordo com a tabela do ANEXO II deste Código.
+
+**Art. 174. **As taxas serão arrecadadas na ocasião em que o ato ou fato praticado, assinado ou visado, ou em que o instrumento formal for protocolado, expedido, anexado, desembaraçado ou devolvido.
+
+**Art. 175. **Os serviços especiais, como limpeza de entulhos e roçagem de terrenos particulares, serão prestados por solicitação do interessado, sem prejuízo da aplicação das penalidades previstas no Código de Posturas do Município.
+
+**Art. 176. **Ocorrendo a violação do Código de Posturas, os serviços serão prestados compulsoriamente, ficando o responsável obrigado a efetuar o pagamento da taxa devida, nos termos do regulamento.
+
+SEÇÃO II
+
+**TAXA DE COLETA, REMOÇÃO E DESTINAÇÃO DE RESÍDUOS SÓLIDOS URBANOS**
+
+**SUBSEÇÃO I**
+
+**DA INCIDENCIA, DO FATO GERADORE E DO CALCULO**
+
+**Art. 177. **A Taxa de coleta, remoção e destinação de resíduos sólidos urbano incide sobre todos os imóveis edificados, que se situam em logradouros localizados no perímetro urbano ou de expansão urbana da sede do Município, de distritos e localidades, onde a Municipalidade preste ou coloque à disposição tal serviço.
+
+**Art. 178. **A Taxa de Coleta de coleta, remoção e destinação de resíduos sólidos urbano tem como fato gerador a utilização, efetiva ou potencial, dos serviços de coleta, transporte, transbordo, tratamento e destinação final dos resíduos sólidos do lixo, prestados ao contribuinte ou postos à sua disposição.
+
+**Art. 179. **O tributo de que trata o artigo anterior incidirá, anualmente, sobre cada um dos imóveis beneficiados com o serviço, na área urbana ou rural, facultando ao Município optar pela forma de cobrança.
+
+Parágrafo único. O cálculo do montante da obrigação principal referente à taxa devida pelo serviço dar-se-á segundo a tabela do ANEXO II que será devida anualmente.
+
+**Art. 180.** Contribuinte da taxa é o proprietário, o titular ou o possuidor, a qualquer título, de imóveis situados em logradouros públicos ou particulares, onde a Municipalidade mantenha, com regularidade, os serviços a que se refere o artigo anterior.
+
+SEÇÃO III
+
+DAS TAXAS DE CEMITÉRIO
+
+**Art. 181. **A Taxa de Serviços de Cemitério é devida pela execução, por parte dos Órgãos Próprios da municipalidade, pelo ato da prestação de serviços.
+
+**CAPÍTULO VI**
+
+**DAS TAXAS DECORRENTES DO PODER DE POLICIA ADMINISTRATIVO**
+
+**SEÇÃO I**
+
+**DISPOSIÇÕES PRELIMINARES E DAS ISENÇÕES**
+
+**Art. 182. **Considera-se poder de polícia a atividade da administração municipal que, limitando ou disciplinando direito, interesse ou liberdade, regula a prática de ato ou a abstenção de fato, em razão do interesse público concernente à segurança, à higiene, à ordem, aos costumes, à disciplina de produção e de mercado, ao exercício da atividade econômica, dependente de concessão ou autorização do Poder Público, à tranquilidade pública ou respeito à propriedade e ao direito individual ou coletivo, no território do Município.
+
+**Art. 183. **Taxa é o tributo que tem como fato gerador o exercício regular, pelo Município, de seu poder de polícia ou a utilização efetiva ou potencial, de serviço público municipal específico e divisível, prestado ao contribuinte ou posto a sua disposição.
+
+Parágrafo único.Nenhuma taxa terá base de cálculo idêntica a que corresponda a qualquer imposto integrante do sistema tributário nacional.
+
+**Art. 184.** Os serviços municipais a que se refere o artigo anterior, consideram-se:
+
+I** -** Utilizados pelo contribuinte:
+
+a) efetivamente, quando usufruídos por ele a qualquer título;
+
+b) potencialmente, quando sendo de utilização compulsória, sejam postos a sua disposição mediante atividade administrativa em efetivo funcionamento;
+
+II** -** Específicos, quando possam ser destacados em unidades autônomas de prestação de utilidades fruíveis pelos administrados;
+
+III** -** Divisíveis, quando suscetíveis, por parte de cada um de seus usuários.
+
+**Art. 185. **As taxas decorrentes das atividades do poder de polícia do Município classificam-se em:
+
+I** -** Taxa de licença para localização e fiscalização de funcionamento regular;
+
+II** -** Taxa de abate de animais;
+
+III** -** Taxa pelo exercício de atividade eventual ou ambulante;
+
+IV** -** Taxa de licença para execução de obras, arruamentos e loteamentos;
+
+V** -** Taxa de licença de "Habite-se";
+
+VI- Taxa de ocupação de áreas em vias e logradouros públicos;
+
+VII** -** Taxa de licença para publicidade;
+
+VIII** -** Taxa de Vigilância Sanitária**;**
+
+Parágrafo único.Ficam isentos das taxas:
+
+I** - **a que se referem os incisos I e VIII do caput deste artigo:
+
+a)** - **as atividades das instituições de educação, de assistência e de organização social, sem fins lucrativos e sem distribuição de qualquer parcela do resultado ou do patrimônio;
+
+b)** - **os templos de qualquer natureza;
+
+c)** - **os portadores de deficiência física ou sensorial, desde que a atividade sobre a qual incida o tributo seja destinada à sua subsistência;
+
+d)** - **a sede de órgãos públicos, partidos políticos e sindicatos.
+
+II** - **a que se referem os incisos III do caput deste artigo:
+
+a)** -** os portadores de deficiência física ou sensorial que exerçam comércio em escala ínfima;
+
+b)** -** os engraxates ambulantes;
+
+c)** -** as pessoas físicas com mais de 60 (sessenta) anos de idade.
+
+III** - **a que se referem os incisos IV do caput deste artigo:
+
+a)** -** a limpeza ou pintura externa ou interna de prédios, muros ou grades;
+
+b)** -** a construção de passeios;
+
+c)** -** a construção de abrigos destinados à guarda de materiais para obras já previamente licenciadas.
+
+IV** - **a que se referem os incisos VI do caput deste artigo:
+
+a)** -** as pessoas físicas ou jurídicas que promovam feiras de livros, exposições, concertos, retretas, palestras, conferencias e demais atividades de caráter cultural, cientifico ou religioso, relativamente a estas;
+
+b)** -** candidatos e representantes de partidos políticos, durante o período de campanha, observada a legislação eleitoral vigente.
+
+V** - **a que se referem os incisos VII do caput deste artigo:
+
+a)** -** os cartazes ou letreiros destinados a fins políticos ou eleitorais, desde que observada a legislação pertinente;
+
+b)** -** as tabuletas indicativas de sítios, granjas ou fazendas, bem como as de rumo ou direção de estradas;
+
+c)** -** as tabuletas indicativas de hospitais, casas de saúde, ambulatórios e prontos-socorros;
+
+d)** -** os dísticos ou denominação de estabelecimentos comerciais, industriais ou prestadores de serviços, apostos em paredes e vitrinas internas de estabelecimentos e não tenham dimensões superiores a 150 cm x 60 cm;
+
+e)** -** os cartazes ou letreiros destinados a fins culturais ou religiosos;
+
+f)** -** placas indicativas, nos locais de construção, dos nomes de firmas, engenheiros e arquitetos responsáveis pelo projeto ou execução de obras públicas ou particulares;
+
+g)** -** os dísticos ou denominações de estabelecimentos comerciais ou industriais apostos nas paredes e vitrines internasestabelecimentos e não tenham dimensões superiores a 150 cm x 60 cm;
+
+h)** -** os letreiros, as placas, as faixas e as pinturas apostas nas fachadas e no interior dos estabelecimentos e não tenham dimensões superiores a 150 cm x 60 cm.
+
+**Art. 186. **O contribuinte das taxas de licença é a pessoa física ou jurídica que der causa ao exercício de atividade ou à prática de atos sujeitos ao poder de polícia administrativa do Município e o contribuinte da taxa de prestação de serviços é aquele que, efetiva ou potencialmente, for usufruir de uma unidade autônoma dos serviços prestados pelo Município.
+
+**Art. 187. **As taxas serão arrecadadas antes do início das atividades ou da prática dos atos sujeitos ao poder de polícia administrativa do Município ou do serviço que as originou, mediante DAM - Documento de Arrecadação Municipal, observando-se os prazos estabelecidos neste Código.
+
+**Art. 188. **Para o lançamento e cobrança das Taxas o executivo poderá baixará Decreto, com diretrizes para sua adequada execução, no que se refere a entrega, data de lançamento, data de vencimento, cobrança e outros procedimentos necessários.
+
+**Art.189.** O Sujeito passivo fica sujeito as infrações e penalidades quando:
+
+I** - **No caso de estar o estabelecimento, atividade ou objeto funcionando sem a devida licença, ficará o infrator sujeito à interdição, sem prejuízo das demais penalidades cabíveis.
+
+II** - **Poderá ser suspensa ou cancelada a licença do contribuinte quando deixar de existir qualquer das condições exigidas para a sua concessão ou não tenham sido cumpridas no prazo legal as ressalvas nele contidas, sem prejuízo das penalidades cabíveis, inclusive penais.
+
+Parágrafo único. Em se tratando da suspensão da licença, caso o contribuinte no prazo de 30 (trinta) dias, a contar da ciência da intimação, deixar de cumprir as exigências legais e administrativas, caberá ao Secretário Municipal de Economia e Finanças promover o cancelamento da licença, ficando o contribuinte responsável pelo pagamento de quaisquer débitos remanescentes inscritos ou não em Dívida Ativa e dos respectivos débitos acréscimos legais.
+
+**SEÇÃO II**
+
+**DA BASE DE CALCULO**
+
+**Art. 190. **A base de cálculo das taxas pelo exercício do poder de polícia é o custo estimado das atividades despendidas pelos órgãos de fiscalização e das taxas de prestação de serviço, é o custo estimado da prestação do serviço, se considerada a unidade autônoma utilizada, efetiva ou potencialmente, pelo contribuinte.
+
+**Art. 191. **A taxa será calculada de acordo com os ANEXOS desta Lei**.**
+
+I** -** Taxa de licença para localização e fiscalização de funcionamento regular - ANEXO II;
+
+II** -** Taxa de abate de animal - ANEXO II;
+
+III** -** Taxa pelo exercício de atividade eventual ou ambulante - ANEXO II;
+
+IV** -** Taxa de licença para execução de obras, arruamentos e loteamentos -
+
+ANEXO II;
+
+V** -** Taxa de licença de "Habite-se" - ANEXO II;
+
+VI- Taxa de ocupação de áreas em vias e logradouros públicos- ANEXO II;
+
+VII** -** Taxa de licença para publicidade - ANEXO II;
+
+SEÇÃO III
+
+DA TAXA DE LICENÇA PARA LOCALIZAÇÃO E DA TAXA DE FISCALIZAÇÃO DE FUNCIONAMENTO REGULAR
+
+**Art. 192. **Nenhuma pessoa física ou jurídica que opere no ramo de produção, industrialização, comercialização ou prestação de serviços, poderá iniciar suas atividades no Município, sejam elas permanentes ou não, em estabelecimentos fixos, nem mantê-las, sem prévioe periódico exame e fiscalização das condições de localização concernentes à segurança, à higiene, à saúde, à ordem, aos costumes, aos exercícios de atividadesdependentes de concessão ou autorização do Poder Público, à tranquilidade pública, ao respeito à propriedade e aos direitos individuais ou coletivos, bem como para garantir o cumprimento da legislação urbanística, de meio ambiente e demais normas de posturas.
+
+§ 1º. A licença para localização será concedida após a vistoria prévia e terá validade por um ano.
+
+§ 2º. A Taxa de fiscalização de funcionamento regular será lançada anualmente.
+
+§ 3º.Oalvará decorrente do pagamento das taxas a que se referem os parágrafos anteriores deverá ser fixado em local visível e de fácil acesso à fiscalização.
+
+**Art. 193. **A licença será válida pelo prazo que dispuser o competente documento que a conceder.
+
+Parágrafo único. Será exigida renovação de licença para localização sempre que ocorrerem:
+
+I** -** mudança de ramos de atividade:
+
+II** -** modificações nas características do estabelecimento;
+
+III** -** mudança de endereço.
+
+**Art. 194. **Consideram-se distintos, para efeitos da concessão da licença e cobrança das taxas, os contribuintes que:
+
+I** -** embora sob as mesmas responsabilidades e ramos de negócios, estejam situados em prédios distintos ou locais diversos;
+
+II** -** embora no mesmo local, ainda que com idêntico ramo de negócios, pertençam a diferentes pessoas físicas ou jurídicas.
+
+**Art. 195. **Constitui fato gerador da:
+
+I** -** Taxa de licença para localização: a vistoria inicial das instalações, decorrente das atividades sujeitas à fiscalização municipal nas zonas urbana, de expansão urbana e rural, a fim de verificar o cumprimento das exigências necessárias à sua concessão;
+
+II** -** Taxa de fiscalização de funcionamento regular: a fiscalização, o controle permanente, efetivo ou potencial, das atividades originariamente licenciadas, visando a atender o previsto no caput do artigo 192 desta Lei, em decorrência do exercício regular do poder de polícia do Município.
+
+**Art. 196.** Para o calculo do valor da taxa de fiscalização de funcionamento regular será considerado fatores como porte, atividade econômica e quantidade de empregados para obtenção do valor do alvará. ANEXO II.
+
+SEÇÃO IV
+
+DA TAXA DE ABATE DE ANIMAIS
+
+Art. 197. São fatos geradores da taxa o abate de animais, em abatedouros deste Município, bem como a industrialização de produtos de origem animal.
+
+Art. 198. O sujeito passivo da taxa é toda pessoa, física ou jurídica, proprietária de indústria ou de animais que se classificam no artigo anterior.
+
+Art. 199. A taxa será calculada de acordo com a tabela pertinente constante no AXEXO II desta Lei, mediante inspeção sanitária executada pelo setor competente.
+
+Art. 200. O lançamento da taxa far-se-á em nome do sujeito passivo da obrigação tributária.
+
+Art. 201. A taxa será arrecadada por antecipação.
+
+SEÇÃO V
+
+DA TAXA PELO EXERCICIO DE ATIVIDADE EVENTUAL OU AMBULANTE
+
+**Art. 202. **Comércio ambulante é o exercido, individualmente, sem estabelecimento, instalação ou localização fixaé devida em decorrência da atividade da administração pública que, no exercício regular do poder de polícia do município, regula a prática do ato ou abstenção de fato em razão do interesse público, concernente ao exercício da atividade de comércio ambulante ou eventual nos limites municipais.
+
+§ 1º.Considera-se comércio eventual o que é exercido em determinadas épocas do ano, especialmente por ocasião de festejos ou comemorações, em locais autorizados pela Municipalidade.
+
+§ 2º.É considerado, também, comércio ambulante o exercido em instalações removíveis colocadas em vias e logradouros públicos, exceto bancas de feiras livres.
+
+§ 3º. A quantidade de vendedores ambulantes será fixada pelo Executivo, através de regulamento próprio.
+
+**Art. 203. **Serão definidas em regulamento as atividades que podem ser exercidas em instalações removíveis nas vias e logradouros públicos.
+
+**Art. 204. **A Taxa pelo Exercício de Atividade Eventual ou Ambulante será cobrada no ato da concessão da respectiva licença, não dispensada a cobrança da Taxa de Ocupação de Áreas em Vias e Logradouros Públicos, quando esta for devida.
+
+**Art. 205. **É obrigatória a inscrição, na repartição competente, dos comerciantes eventuais ou ambulantes, mediante preenchimento de ficha própria, conforme modelo fornecido pela Municipalidade.
+
+§ 1º.** -** Não se incluem na exigência do caput deste artigo os comerciantes com estabelecimento fixo que, por ocasião de festejos ou comemorações, explorem o comércio eventual ou ambulante.
+
+§ 2º. A inscrição será permanentemente atualizada por iniciativa do comerciante eventual ou ambulante, sempre que houver modificações nas características iniciais da atividade por ele exercida.
+
+**Art. 206. **O Poder Público municipal quando necessário delimitará, por decreto, os locais em que será permitido o exercício de atividades eventuais ou ambulantes com caminhões ou com outros veículos.
+
+**Art. 207. **Ao comerciante eventual ou ambulante que satisfizer as exigências regulamentares será concedido um cartão de habilitação, contendo as características de sua inscrição e as condições da incidência da taxa, destinado a fundamentar a cobrança desta.
+
+Parágrafo único. O comerciante eventual ou ambulante deverá comprovar a origem dos produtos por ele comercializados.
+
+**Art. 208. **Respondem pela Taxa pelo Exercício de Atividade Eventual ou Ambulante as pessoas físicas ou jurídicas que exercerem tal modalidade de comércio.
+
+**Art. 209. **O pagamento desta taxa não dispensa o pagamento da Taxa de Licença para Ocupação de Áreas e Vias em Logradouros Públicos.
+
+SEÇÃO VI
+
+DA TAXA DE LICENÇA PARA EXECUÇÃO DE OBRAS, ARRUAMENTOS E LOTEAMENTOS
+
+**Art. 210. **A Taxa de Licença para Execução de Obras, Arruamentos e Loteamentos tem como fato gerador o exame dos projetos de construção, reconstrução, reforma ou demolição de prédios, ou de qualquer outra obra realizada no Município, bem como de arruamento e de parcelamento do solo urbano, para a aprovação e o licenciamento obrigatório por parte da Municipalidade**.**
+
+**Art. 211.** Nenhuma das obras indicadas no artigo anterior poderá ser iniciada sem prévio pedido de licença à Municipalidade e pagamento da taxa devida.
+
+**Art.212.** Nenhum plano ou projeto de arruamento, loteamento e parcelamento de terreno poderá ser executado sem a aprovação, segundo o zoneamento em vigor no Município, e o pagamento prévio da respectiva taxa.
+
+SEÇÃO VII
+
+DA TAXA DE LICENÇA DE “HABITE-SE”
+
+**Art. 213.** A Taxa de Licença de "Habite-se" incide sobre as obras regularmente licenciadas, no Município de Carauari, para poderem ser ocupadas.
+
+**Art. 214. **O fato gerador da Taxa de Licença de "Habite-se" é a efetiva vistoria pelo setor competente do Município a toda obra regularmente licenciada e concluída.
+
+Parágrafo único. A taxa será cobrada no ato em que o proprietário da obra requerer o respectivo "Habite-se".
+
+**Art. 215. **O requerimento para concessão de "Habite-se" da obra deverá ser instruído com os seguintes elementos:
+
+I** -** identificação da empresa construtora ou do construtor;
+
+II** -** valor total da obra, especificando o valor total dos materiais e dos serviços empregados na obra, devidamente comprovados com documentos fiscais;
+
+III** -** comprovante de pagamento do ISSQN incidente sobre a execução ou reforma da obra.
+
+SEÇÃO VIII
+
+DA TAXA DE OCUPAÇÃO DE AREÁS EM VIAS E LOGRADOUROS PUBLICOS
+
+**Art. 216. **A Taxa de Ocupação de Áreas em Vias e Logradouros Públicos tem como fato gerador a atividade municipal de fiscalização a que se submete qualquer pessoa física ou jurídica que pretenda ocupar áreas nas vias e logradouros públicos, para fins comerciais ou de prestação de serviços, nos locais permitidos.
+
+**Art. 217. **O Município exercerá fiscalização a fim de evitar que se comercialize em local não permitido, em vias e logradouros públicos ou sem pagamento da taxa de que trata o artigo anterior.
+
+**Art. 218.** A Taxa de Ocupação de Áreas em Vias e Logradouros Públicos será cobrada, no ato da respectiva licença, de acordo com o ANEXO II desta Lei.
+
+**Art. 219. **A sem prejuízo de outras penalidades cabíveis, a Administração Tributaria Municipal apreenderá e removerá para depósito municipal, qualquer objeto ou mercadoria deixados em local não permitido ou colocado em guias e logradouros públicos, sem a concessão da licença e pagamento da taxa de que trata esta Subseção.
+
+SEÇÃO IX
+
+DA TAXA DE LICENÇA PARA PUBLICIDADE
+
+**Art. 220. **A Taxa de Licença para Publicidade incidirá sobre:
+
+I** -** os cartazes, letreiros, programas, quadros, painéis, placas, anúncios e mostruários, fixos ou volantes, luminosos ou não, afixados, distribuídos ou pintados em paredes, muros, postes, veículos ou calçadas, quando permitido;
+
+II** -** a propaganda falada por meio de amplificadores, alto-falantes ou propagandilhos.
+
+Parágrafo único. Quanto à propaganda falada, o local e o prazo serão determinados de acordo com o Código de Posturas.
+
+**Art. 221. **A taxa é devida pelo contribuinte que tenha interesse em publicidade própria ou de terceiros.
+
+**Art. 222. **A Taxa de Licença para Publicidade tem como fato gerador a atividade municipal de fiscalização a que se submete qualquer pessoa física ou jurídica que pretenda utilizar ou explorar, por qualquer meio, publicidade em geral, seja em ruas ou logradouros públicos ou em locais visíveis ou de acesso ao público.
+
+**Art. 223. **Respondem, solidariamente, pelo pagamento da taxa de que trata esta Seção o anunciante da publicidade e o proprietário do imóvel em que ela for veiculada.
+
+**Art. 224. **Respondem pela observância das disposições desta Seção as pessoas físicas ou jurídicas beneficiadas, direta ou indiretamente, pela publicidade, desde que a tenham autorizado.
+
+**Art. 225. **O requerimento para a licença deverá conter as descrições das características do meio de publicidade, de acordo com os regulamentos e instruções específicos.
+
+**Art. 226. **Quando o local em que se colocar o anúncio não for de propriedade do requerente, deverá este juntar ao requerimento a respectiva autorização do proprietário.
+
+**Art. 227. **Deverá constar dos painéis e anúncios, sujeitos à taxa, o número da autorização, fornecido pela repartição competente.
+
+**Art. 228. **Os anúncios devem ser escritos em linguagem correta e obedecer o disposto nas normas municipais quanto a costumes.
+
+Parágrafo único. O anunciante fica obrigado a retirar o anúncio que estiver em desacordo com as disposições deste artigo e do anterior, sob pena de multa.
+
+SEÇÃO XI
+
+DA TAXA DE VIGILANCIA SANITARIA
+
+**Art. 229. **A Taxa de Inspeção Sanitária tem como fato gerador o exercício regular, pelo órgão de Vigilância Sanitária Municipal, com o poder de polícia de autorização, vigilância e fiscalização das instalações e atividades de pessoa física ou jurídica, estabelecida ou não, que:
+
+I** - **Fabrique, produza, beneficie, manipule, acondicione, transporte, distribua, venda, extraia, sintetize, prepare, purifique, importe, exporte, armazene, compre ou ceda:
+
+a)alimentos;
+
+b)animais vivos;
+
+c)sangue e hemoderivados;
+
+II** - **Explore estabelecimentos e/ou preste serviços de interesse à saúde:
+
+a)consultórios médicos e clínicas médicas sem internação, ambas sem procedimentos invasivos, consultórios e clínicas destinadas à prestação de serviços de interesse à saúde, executados por demais profissionais de saúde regulamentados em lei específica, bem como a atividade de acupuntura;
+
+b)salões de cabeleireiros, manicure, pedicure, depilação, podologia, atividade de massagem, saunas, hidroterapia e congêneres;
+
+c)laboratório de prótese dentária, comércio de ótica, comércio de materiais médicohospitalares, órteses, próteses, odontológicos e congêneres;
+
+d)clínicas e consultórios veterinários e atividades afins;
+
+e)creches e estabelecimentos congêneres;
+
+f)academias de ginástica e congêneres;
+
+g)consultórios médicos e clínicas médicas sem internação, ambas com procedimentos invasivos;
+
+h)consultórios e clínicas odontológicas, ambas com ou sem radiologia intra-oral;
+
+i)institutos de estética, beleza e congêneres;
+
+j)serviço de transporte de pacientes, bem como a sua sede técnico-administrativa e unidades móveis odontológicas;
+
+k)distribuidoras de medicamentos, cosméticos, correlatos, saneantes e domissanitários, sem circulação de mercadorias no local;
+
+l)drogarias, dispensários de medicamentos e farmácias sem manipulação de medicamentos e substâncias no local;
+
+m)indústrias de medicamentos, saneantes, domissanitários, cosméticos, correlatos, material ótico, órteses, próteses e produtos veterinários;
+
+n)clínicas de assistência médica com internação, casas de saúde e repouso, hospitais;
+
+o)terapia renal substitutiva, hemoterapia, bancos de sangue, unidades transfusionais;
+
+p)radiologia, radioterapia e radioisótopos;
+
+q)farmácias com manipulação de medicamentos e substâncias;
+
+r)laboratório de análises clínicas, postos de coleta de exames laboratoriais e congêneres;
+
+s)hotéis, motéis, casas de massagem e estabelecimentos congêneres;
+
+t)demais estabelecimentos a critério da autoridade sanitária.
+
+§ 1º.A taxa não incide sobre as atividades acima elencadas quando estiverem sujeitas à fiscalização exclusiva de órgãos federais e/ou estaduais.
+
+§2º.Para efeito deste artigo, considerar-se-ão estabelecimentos distintos:
+
+a)os que, embora no mesmo local, ainda que com atividade idêntica, pertençam a diferentes pessoas físicas ou jurídicas;
+
+b)os que, embora com atividade idêntica e pertencentes à mesma pessoa física ou jurídica, estejam situadas em prédios distintos ou em locais diversos.
+
+**Art. 230. **A fiscalização sanitária será exercida nos termos da legislação pertinente.
+
+**SUBSEÇÃO I**
+
+**DO CONTRIBUINTE E DO CALCULO DA TAXA**
+
+**Art. 231. **A Taxa de Vigilância Sanitária será cobrada mediante a aplicação dos valores constantes do ANEXO II desta Lei e de acordo com oS estabelecimentos, atividades e produtos:
+
+**Art. 232. **Contribuinte da taxa é a pessoa física ou jurídica sujeita à vigilância sanitária.
+
+**CAPÍTULO VII**
+
+**CONTRIBUIÇÃO DE MELHORIA**
+
+**Art. 233. A** Contribuição de Melhoria tem como hipótese de incidência, o benefício recebido por imóveis, em razão de obras públicas.
+
+**Art.234.** Contribuinte é o proprietário, o titular do domínio útil ou o possuidor a qualquer título, do imóvel beneficiado.
+
+**Art. 235. A** Contribuição de Melhoria terá como limite total a despesa realizada.
+
+Parágrafo Único. Para efeito de determinação do limite total serão computadas as despesas de estudo, projeto, fiscalização, desapropriação, administração, execução e financiamento, inclusive prêmios de reembolso e outros de praxe em financiamento ou empréstimos, cujo valor será atualizado à época do lançamento.
+
+**Art.236.** O Poder Executivo, em regulamento, definirá os vários tipos de obras públicas sobre as quais incide a Contribuição de Melhoria.
+
+**Art. 237.** Concluída a obra ou etapa, o Executivo publicará edital contendo:
+
+I - relação dos imóveis beneficiados pela obra;
+
+II - parcela da despesa total a ser custeada pelo tributo, levando-se em conta os imóveis do Município e suas autarquias;
+
+III - forma e prazo de pagamento.
+
+**Art.238.** A Contribuição será lançada de ofício e o contribuinte será notificado para pagá-la na forma que dispuser o regulamento.
+
+**CAPÍTULO VIII**
+
+**CONTRIBUIÇÃO DE ILIMINAÇÃO PUBLICA**
+
+**SEÇÃO I**
+
+**DA HIPÓTESE DE INCIDÊNCIA**
+
+**Art. 239.** Fica instituída no Município de Carauari a Contribuição para Custeio dos Serviços de Iluminação Pública (COSIP) tendo como fato gerador a prestação de serviços de iluminação pública.
+
+Parágrafo único. Para efeitos da Contribuição de que trata o caput deste artigo, entende-se por serviços de iluminação pública a iluminação de vias, logradouros e demais bens públicos e a administração, operação, instalação, manutenção, eficientização, melhoramento e expansão da rede de iluminação pública.
+
+**Art. 240.** A Contribuição para Custeio dos Serviços de Iluminação Pública será devida pelos proprietários, titulares do domínio útil ou ocupantes, a qualquer título, de imóveis edificados ou não, situados no Município de Carauari, atendidos pelos serviços referidos no parágrafo único do artigo anterior.
+
+§ 1º.Respondem solidariamente pelo pagamento da COSIP o locatário, o comodatário ou o possuidor, a qualquer título, de imóvel edificado, situado no Município de Carauari.
+
+§ 2º.O lançamento da contribuição poderá ser efetuado indicando como obrigado qualquer dos sujeitos passivos.
+
+SEÇÂO II
+
+DO CALCULO
+
+**Art. 241. **A contribuição de que trata este Capítulo será variável de acordo:
+
+I** -** com o consumo de energia elétrica e a classe de consumidor, no caso de contribuintes proprietários, titulares do domínio útil ou possuidores, a título precário ou não, de imóveis edificados;
+
+II** -** com a localização dos imóveis não-edificados.
+
+Parágrafo único. A determinação da classe de consumidor observará as normas da Agência Nacional de Energia Elétrica - ANEEL ou órgão regulador que vier a substituí-la.
+
+SEÇÂO III
+
+DA BASE DE CALCULO
+
+**Art. 242.** A base de cálculo mensal da COSIP, será o valor mensal do consumo total de energia elétrica constante na fatura emitida pela empresa concessionária distribuidora.
+
+Parágrafo único. As alíquotas de contribuição são diferenciadas conforme a classe de consumidores e a quantidade de consumo medida em Kw/h, conforme a tabela do ANEXO II.
+
+**Art. 243.** O lançamento da COSIP devida pelos proprietários, titulares do domínio útil e possuidores, a qualquer título, de imóveis que tenham ligação regular e privada de energia elétrica será mensal, devendo ser paga juntamente com a fatura mensal de energia elétrica, na forma de convênio a ser firmado entre o Município e a concessionária distribuidora de energia elétrica no Município de Carauari.
+
+§ 1º. O convênio de que trata o caput deste artigo deverá prever, obrigatoriamente, o repasse imediato ao Município de Carauari, do valor arrecadado pela concessionária, admitida, exclusivamente, a retenção dos montantes necessários ao pagamento da energia fornecida para a iluminação pública.
+
+§ 2º.O convênio referido no parágrafo anterior será firmado desde que os serviços de arrecadação da COSIP sejam executados pela concessionária sem ônus para o Município.
+
+**Art. 244.** O lançamento e a cobrança da COSIP devida pelos proprietários, titulares do domínio útil e possuidores, a qualquer título, de imóveis não ligados à rede de distribuição de energia elétrica, serão efetuados anualmente pelo Município, juntamente com o Imposto Predial e Territorial Urbano (IPTU).
+
+**Art. 245.** O montante devido e não pago da COSIP será inscrito em dívida ativa por parte da autoridade competente no mês seguinte àquele em que se verificar a inadimplência.
+
+§ 1º. Servirá como título hábil para a inscrição em imóveis que tenham ligação regular e privada de energia elétrica:
+
+I** -** a comunicação do não pagamento efetuada pela concessionária que contenha os elementos previstos no artigo 202 e incisos do Código Tributário Nacional;
+
+II** - **outro documento que contenha os elementos previstos no artigo 202 e incisos do Código Tributário Nacional.
+
+§ 2º. no imóvel em que não exista ligação regular e particular de energia elétrica o montante não pago será inscrito em divida ativa juntamente com o IPTU inadimplido.
+
+§ 3º. Os valores da COSIP não pagos no vencimento serão acrescidos de juros de mora, multa e correção monetária, nos termos da legislação tributária municipal.
+
+**LIVRO III**
+
+**DA ADMINISTRAÇÃO TRIBUTÁRIA**
+
+**CAPÍTULO I**
+
+**DA FISCALIZAÇÃO**
+
+**Art. 246. **As funções referentes a cadastramento, lançamento, cobrança e fiscalização de tributos municipais, aplicação de sanções por infração à legislação tributária do Município, bem como as medidas de prevenção e repressão às fraudes, serão exercidas pelos órgãos fazendários e repartições a eles hierárquica ou funcionalmente subordinadas, segundo as atribuições constantes da lei de organização administrativa e dos respectivos regulamentos.
+
+Parágrafo único.Aos órgãos referidos no **caput **deste artigo reserva-se a denominação de "Fisco" ou "Administração Tributária".
+
+**Art. 247. **Com a finalidade de obter elementos que lhe permitam verificar a exatidão das declarações apresentadas pelos contribuintes e responsáveis e determinar, com precisão, a natureza e o montante dos créditos tributários ou outras obrigações previstas, a Administração Tributária poderá:
+
+I** -** exigir, a qualquer tempo, a exibição dos livros e comprovantes dos atos e operações que constituam ou possam vir a constituir fato gerador de obrigação tributária;
+
+II** -** fazer inspeções, vistorias, levantamentos e avaliações nos locais e estabelecimentos onde se exerçam atividades passíveis de tributação ou nos bens que constituam matéria tributável;
+
+III** -** exigir informações escritas;
+
+IV** -** notificar o contribuinte ou responsável para comparecer à repartição da Administração Tributária;
+
+V** -** requisitar o auxílio da força pública ou requerer ordem judicial, quando indispensável à realização de diligências, inclusive inspeções necessárias ao registro dos locais e estabelecimentos, assim como bens e documentos dos contribuintes e responsáveis;
+
+VI** -** notificar o contribuinte ou responsável para dar cumprimento a quaisquer das obrigações previstas na legislação tributária.
+
+§ 1º. O disposto nos incisos do **caput **deste artigo aplica-se, inclusive, às pessoas naturais ou jurídicas que gozem de imunidades ou sejam beneficiadas por isenções ou quaisquer outras formas de suspensão ou exclusão do crédito tributário.
+
+§ 2º. Para os efeitos da legislação tributária, não têm aplicação quaisquer disposições legais excludentes ou limitativas do direito de examinar mercadorias, livros, arquivos, documentos, papéis e efeitos comerciais ou fiscais dos contribuintes, comerciantes, industriais, produtores ou prestadores de serviços, ou da obrigação destes de exibi-los.
+
+**Art. 248. **Mediante intimação escrita, deverão prestar à Administração Tributária as informações de que disponham, com relação aos bens, negócios ou atividades de terceiros:
+
+I** - **os tabeliães, escrivães e demais serventuários de ofício;
+
+II** - **os bancos, casas bancárias, caixas econômicas e demais instituições financeiras;
+
+III** - **as empresas de administração de bens;
+
+IV** - **os corretores, leiloeiros e despachantes oficiais;
+
+V **- **os inventariantes;
+
+VI** -** os síndicos, comissários e liquidatários;
+
+VII** - **os inquilinos e os titulares do direito de usufruto, uso ou habitação;
+
+VIII** - **os síndicos ou qualquer um dos condôminos, nos casos de propriedades em condomínio;
+
+IX** - **os responsáveis por repartições do Governo federal, estadual ou municipal, da administração direta ou indireta;
+
+X** - **os responsáveis por cooperativas, associações desportivas e entidades de classe;
+
+XI** -** quaisquer outras entidades ou pessoas que, em razão de seu cargo, ofício, função, ministério, atividade ou profissão, detenham em seu poder, a qualquer título, informações sobre bens, negócios ou atividades de terceiros.
+
+Parágrafo único. A obrigação prevista no **caput **deste artigo não abrange a prestação de informações quanto a fatos sobre os quais o informante esteja legalmente sujeito a observar segredo em razão do cargo, ofício, função, ministério, atividades ou profissão.
+
+**Art. 249. **Sem prejuízo do disposto na legislação criminal, é vedada a divulgação, por parte da Administração Tributária ou de seus servidores, de informação obtida em razão do ofício sobre a situação econômica ou financeira do sujeito passivo ou de terceiros e sobre a natureza e o estado de seus negócios ou atividades.
+
+§ 1º.Excetuam-se do disposto neste artigo, além dos casos previstos no § 4º deste artigo, os seguintes:
+
+I** - **requisição de autoridade judiciária, no interesse da justiça;
+
+II** - **solicitações de autoridade administrativa, no interesse da administração pública, desde que seja comprovada a instauração regular de processo administrativo no órgão ou na entidade respectiva, com o objetivo de investigar o sujeito passivo a que se refere a informação, por prática de infração administrativa.
+
+§ 2º.O intercâmbio de informação sigilosa, no âmbito da administração pública, será realizado mediante processo regularmente instaurado, e a entrega será feita pessoalmente à autoridade solicitante, mediante recibo, que formalize a transferência e assegure a preservação do sigilo.
+
+§ 3º. Não é vedada a divulgação de informações relativas a:
+
+I** -** representações fiscais para fins penais;
+
+II** -** inscrição na divida ativa da Fazenda Pública municipal;
+
+III** -** parcelamento ou moratória.
+
+§ 4º. A Administração Tributária do Município prestará mútua assistência com órgãos federais, estaduais e municipais para fiscalização dos tributos respectivos e permuta de informações, podendo seus agentes remeter ou solicitar informações e documentos que constituam ou possam constituir indício ou prova de redução ou supressão de tributo ou contribuição, ou na forma estabelecida, em caráter geral ou específico, por lei ou convênio.
+
+**Art. 250. **O Município poderá instituir livros e registros obrigatórios de bens, serviços e operações tributáveis, a fim de apurar os elementos necessários ao seu lançamento e fiscalização.
+
+Parágrafo único. O regulamento disporá sobre a natureza e as características dos livros e registros de que trata o **caput **deste artigo.
+
+**Art. 251. **A autoridade administrativa tributária que proceder ou presidir a quaisquer diligências de fiscalização lavrará os termos necessários para que se documente o início do procedimento fiscal, na forma da legislação aplicável.
+
+Parágrafo único. Os termos a que se refere o **caput **deste artigo serão lavrados, sempre que possível, em um dos livros fiscais exibidos e, quando lavrados em separado, entregar-se-á uma cópia à pessoa sujeita à fiscalização, devidamente autenticada pela autoridade que proceder à diligência.
+
+CAPÍTULO II
+
+DA DÍVIDA ATIVA
+
+**Art. 252. **Constitui Dívida Ativa tributária do Município a proveniente de impostos, taxas, contribuições e multas de qualquer natureza, decorrente de quaisquer infrações à legislação tributária, regularmente inscrita na repartição administrativa tributária, depois de esgotado o prazo fixado para pagamento, pela legislação tributária ou por decisão proferida em processo regular.
+
+**Art. 253 **A Dívida Ativa tributária regularmente inscrita goza de presunção de certeza e liquidez e tem efeito de prova pré-constituída.
+
+§ 1º. A presunção a que se refere o **caput **deste artigo é relativa e pode ser ilidida por prova inequívoca, a cargo do sujeito passivo ou de terceiro que a aproveite.
+
+§ 2º. A fluência de juros de mora e a aplicação dos índices de atualização monetária não excluem a liquidez do crédito.
+
+**Art. 254. **O registro de inscrição da Dívida Ativa, autenticado pela autoridade fazendária, indicará obrigatoriamente:
+
+I** -** o nome do devedor e, sendo o caso, o dos co-responsáveis, bem como, sempre que possível, o domicílio ou a residência de um e de outros;
+
+II** -** a quantia devida e a maneira de calcular os juros de mora acrescidos e a atualização monetária;
+
+III** -** a origem e a natureza do crédito, mencionando especificamente o dispositivo legal em que seja fundado;
+
+IV** -** a data da inscrição;
+
+V** -** o número do processo administrativo de que se originar o crédito, se for o caso.
+
+§ 1º. A Certidão de Dívida Ativa (**CDA**) conterá, além dos requisitos previstos nos incisos do **caput **deste artigo, a indicação do livro e da folha de inscrição.
+
+§ 2º. As dívidas relativas ao mesmo devedor, desde que conexas ou consequentes, poderão ser englobadas na mesma certidão.
+
+§ 3º. Na hipótese do parágrafo anterior, a ocorrência de qualquer forma de suspensão, extinção ou exclusão do crédito tributário não invalida a certidão nem prejudica os demais débitos da cobrança.
+
+§ 4º. O registro da Dívida Ativa e a expedição das certidões poderão ser feitos, a critério da Administração Tributária, através de sistemas de processamento de dados, com a utilização de fichas e róis em folhas soltas, desde que atendam os requisitos estabelecidos neste Código.
+
+**Art. 255. **A cobrança da Dívida Ativa tributária do Município será procedida:
+
+I** -** por via administrativa, quando processada pelos órgãos competentes da Administração Tributária;
+
+II** -** por via judicial, quando processada pelos órgãos judiciários.
+
+§ 1º. Na cobrança da Dívida Ativa a autoridade poderá, mediante solicitação da parte, autorizar o recebimento em parcelas mensais e consecutivas, nos casos de manifesta dificuldade do contribuinte, continuando a fluir os acréscimos legais.
+
+§ 2º. Durante a vigência do parcelamento, somente será expedida certidão negativa, pelo prazo de trinta dias, se não houver prestação vencida.
+
+§ 3º.O não recolhimento de qualquer das parcelas referidas no § 1º deste artigo, tornará sem efeito o parcelamento concedido.
+
+§ 4º. As duas modalidades de cobrança a que se referem os incisos do **caput **deste artigo são independentes uma da outra.
+
+§ 5º. O encaminhamento da certidão para cobrança executiva deverá ser feito, sob pena de responsabilidade, pelo menos um ano antes que ocorra a prescrição do crédito tributário respectivo.
+
+§ 6º. Dentro de noventa dias do encaminhamento a que se refere o parágrafo anterior, deverá, obrigatoriamente, ser promovida a cobrança judicial.
+
+§ 7º. Os créditos inscritos em dívida ativa que, somados por contribuinte, forem inferiores a 100 UFRM, serão cobrados exaustivamente na via administrativa, até o efetivo pagamento.
+
+**Art. 256. **Os débitos tributários de exercícios anteriores, poderão ser parcelados, à pedido formulado pelo contribuinte inadimplente, em até 24 (vinte e quatro) parcelas mensais sucessivas expressas em indexador.
+
+§ 1º. O número de parcelas poderá ser variável, de forma que nenhum pagamento tenha valor inferior à 20,00 UFRM, sendo permitido ao contribuinte inadimplente solicitar o englobamento de diversos débitos.
+
+§ 2º. Ao ser concedido o parcelamento acrescer-se-á ao débito juros de mora simples computados à razão de 1,00 % ao mês.
+
+§ 3º. Na hipótese de atraso no pagamento por mais de 60 (sessenta) dias de qualquer parcela de dívida ativa, considerar-se-á vencida todo o débito ao valor original inscrito, com os acréscimos previstos na legislação então vigente.
+
+**Art. 257. **Encaminhada a Certidão de Dívida Ativa para a cobrança executiva, cessará a competência do órgão fazendário para agir ou decidir quanto a ela, cumprindo-lhe prestar as informações solicitadas pelo órgão encarregado da execução e pelas autoridades judiciárias.
+
+CAPÍTULO III
+
+DAS CERTIDÕES NEGATIVAS
+
+**Art. 258. **A lei poderá exigir que a prova da quitação de determinado tributo, quando exigível, seja feita por certidão negativa, expedida à vista de requerimento do interessado, que contenha todas as informações necessárias à identificação de sua pessoa, domicílio fiscal e ramo de negócio ou atividade e indique o período a que se refere o pedido.
+
+§ 1º. A certidão será fornecida no prazo de dez dias, a contar da data da entrada do requerimento na repartição.
+
+§ 2º. O Município poderá disponibilizar a certidão através da Rede Mundial de Computadores (Internet).
+
+**Art. 259. **Havendo débito em aberto relativamente ao tributo do qual se deseja a expedição de certidão negativa, o pedido será indeferido e arquivado, no prazo estabelecido no § 1º do artigo anterior.
+
+**Art. 260. **A certidão negativa expedida com dolo ou fraude, que contenha erro contra a Fazenda Municipal, responsabiliza pessoalmente o servidor que a expedir, pelo pagamento do crédito tributário e acréscimos legais.
+
+Parágrafo único. O disposto no **caput **deste artigo não exclui a responsabilidade civil, criminal e administrativa que couber.
+
+**Art. 261. **Para fins de aprovação de projetos de arruamento, loteamento, construção, concessão de serviços e apresentação de proposta de licitação, será exigida do interessado a certidão negativa.
+
+**Art. 262. **Sem prova, por Certidão Negativa ou por declaração de isenção ou de reconhecimento de imunidade com relação aos tributos ou a qualquer outros ônus relativos ao imóvel, até o ano da operação, inclusive os escrivães, tabeliães, oficiais de registro, não podem lavrar, inscrever, transcrever, ou averbar quaisquer atos ou contratos relativos a imóveis.
+
+**Art. 263. **A Certidão Negativa poderá ser emitida, a critério do Secretário de Administração e Finanças, para contribuinte que estiver sob os benefícios do artigo 256 desta Lei, desde que assegurado ao Município garantia real para a cobrança do débito.
+
+**Art. 264. **A expedição de certidão negativa não exclui o direito de a Administração Tributária exigir, a qualquer tempo, os créditos a vencer e os que venham a ser apurados posteriormente à sua emissão.
+
+Parágrafo único. A certidão negativa será expedida com prazo de validade máximo de 60 (sessenta) dias, exceto os do previsto no disposto do artigo 256 desta Lei que será de 30 (trinta) dias.
+
+CAPÍTULO IV
+
+DO PROCEDIMENTO TRIBUTÁRIO
+
+SEÇÃO I
+
+DAS DISPOSIÇOES PRELIMINARES
+
+**Art. 265. **O procedimento tributário terá início com:
+
+I** -** a notificação de lançamento, nas formas previstas neste Código:
+
+II** -** a lavratura do auto de infração;
+
+III** -** a lavratura do termo de apreensão de livros ou documentos fiscais;
+
+IV** -** notificação para a apresentação de documentos e livros;
+
+V** -** notificação para regularização de situação cadastral junto ao fisco.
+
+Parágrafo único. A impugnação instaura a fase contraditória do procedimento.
+
+SEÇÃO II
+
+DO AUTO DE INFRAÇÃO
+
+**Art. 266. **Verificando-se a infração de dispositivo da legislação tributária, que importe ou não em evasão fiscal, lavrar-se-á o auto de infração correspondente, que deverá conter os seguintes elementos:
+
+I** -** o local, a data e a hora da lavratura;
+
+II** -** o nome e o endereço do infrator, com o número da respectiva inscrição, quando houver;
+
+III** -** a descrição clara e precisa do fato que constitui a infração e, se necessário, as circunstâncias pertinentes;
+
+IV** -** a capitulação do fato, com a citação expressa do dispositivo legal infringido e do que lhe comine a penalidade;
+
+V** -** a intimação para a apresentação de defesa ou pagamento do tributo, com os acréscimos legais ou penalidades, dentro do prazo de trinta dias;
+
+VI** -** a assinatura do agente autuante e a indicação do seu cargo ou função;
+
+VII** -** a assinatura do próprio autuado ou infrator ou do seu representante, mandatário ou preposto, ou a menção da circunstância de que o mesmo não pôde ou se recusou a assinar.
+
+§ 1º. A assinatura do autuado não importa em confissão nem a sua falta ou recusa em nulidade do auto ou agravamento da infração.
+
+§ 2º. As omissões ou incorreções do auto de infração não o invalidam quando do processo constem elementos suficientes para determinação da infração e a identificação do infrator.
+
+**Art. 267. **O autuado será intimado da lavratura do auto de infração:
+
+I** -** pessoalmente, no ato da lavratura, mediante entrega de cópia do auto de infração ao próprio autuado, seu representante, mandatário ou preposto, contra assinatura de recebimento no original ou menção da circunstância de que o mesmo não pôde ou se recusou a assinar;
+
+II** -** por via postal registrada, acompanhada de cópia do auto de infração, com aviso de recebimento a ser datado, firmado e devolvido pelo destinatário ou pessoa de seu domicílio;
+
+III** -** por edital, no termo do prazo contado da data da publicação;
+
+IV** -** por publicação, no órgão oficial do Município, na sua íntegra ou de forma resumida, quando improfícuos os meios previstos nos incisos anteriores.
+
+Parágrafo único. Conformando-se o autuado com o auto de infração e desde que efetue o pagamento das importâncias da respectiva intimação, o valor das multas, exceto a moratória, poderá ser reduzido em até cinquenta por cento e o procedimento tributário arquivado, salvo se comprovada a ocorrência de dolo, fraude, simulação ou qualquer das infrações previstas nesta Lei.
+
+**Art. 268. **Nenhum auto de infração será arquivado nem cancelada a multa fiscal, sem despacho da autoridade administrativa tributária.
+
+SEÇÃO III
+
+DO TERMO DE APREENSÃO DE BENS MÓVEIS, LIVROS E DOCUMENTOS
+
+**Art. 269. **Poderão ser apreendidos os bens móveis, inclusive mercadorias, existentes em estabelecimento comercial, industrial, agrícola ou profissional do contribuinte, responsável ou de terceiros, ou em outros lugares ou em trânsito, que constituam prova material de infração à legislação tributária do Município.
+
+Parágrafo único. A apreensão a que se refere o **caput **deste artigo pode compreender livros ou documentos, quando constituam prova de fraude, simulação, adulteração ou falsificação.
+
+**Art. 270. **A apreensão será objeto de lavratura do termo respectivo, devidamente fundamentado, contendo a descrição dos livros ou documentos apreendidos, a indicação do local onde ficarão depositados e do nome do depositário, se for o caso, a descrição clara e precisa do fato e a menção das disposições legais, além dos demais elementos indispensáveis à identificação do contribuinte.
+
+Parágrafo único. O autuado será intimado da lavratura do termo de apreensão, na forma do artigo 266 deste Código.
+
+**Art. 271. **A restituição de documentos e livros apreendidos será feita mediante recibo, na forma do regulamento.
+
+SEÇÃO IV
+
+DA IMPUGNAÇÃO
+
+**Art. 272. **Na hipótese da impugnação e dos recursos serem julgados improcedentes, os tributos e penalidades impugnados ou recorridos ficam sujeitos a multa, juros de mora e atualização monetária, a partir das datas dos respectivos vencimentos.
+
+§ 1º. O sujeito passivo ou o autuado poderá cessar, no todo ou em parte, a aplicação dos acréscimos, na forma do disposto no **caput **deste artigo, desde que efetue o depósito do valor correspondente ao débito.
+
+§ 2º. Julgados procedentes a impugnação ou o recurso, serão restituídas ao sujeito passivo ou autuado, dentro do prazo de trinta dias, contados do despacho da decisão, as importâncias referidas no parágrafo anterior.
+
+§ 3º.No caso de impugnação ou recurso apresentado sem o respectivo depósito, julgado improcedente, será concedido novo prazo para o pagamento, de trinta dias contados do despacho da decisão.
+
+**Art. 273. **São definitivas as decisões de qualquer instância, uma vez esgotado o prazo legal para interposição de recursos, salvo se sujeitas a recurso de ofício.
+
+Parágrafo único. É vedado pedido de reconsideração de qualquer despacho ou decisão.
+
+SEÇÃO V
+
+DA PRIMEIRA INSTÂNCIA ADMINISTRATIVA TRIBUTÁRIA
+
+**Art. 274. **O sujeito passivo poderá impugnar a exigência fiscal, independente de prévio depósito, dentro do prazo de trinta dias, contados da notificação do lançamento, da intimação do auto de infração ou do termo de apreensão, mediante defesa escrita, alegando, de uma só vez, matéria que entender útil e juntando os documentos comprobatórios das razões apresentadas.
+
+§ 1º. A impugnação da exigência fiscal mencionará:
+
+I **-** a autoridade julgadora a quem é dirigida;
+
+II** -** a qualificação do interessado, número do contribuinte no respectivo Cadastro e o endereço para intimação;
+
+III** -** os dados do imóvel ou a descrição das atividades exercidas e o período a que se refere o tributo impugnado;
+
+IV** -** os motivos de fato e de direito em que se fundamente;
+
+V** -** as diligências que o sujeito passivo pretenda que sejam efetuadas, desde que justificadas as suas razões;
+
+VI** -** o objetivo visado.
+
+§ 2º. A impugnação terá efeito suspensivo da cobrança e instaurará a fase contraditória do procedimento.
+
+§ 3º. Na hipótese do auto de infração, se o autuado conformar-se com o despacho da autoridade administrativa, denegatório da impugnação, e efetuar o pagamento das importâncias exigidas dentro do prazo para nova interposição de recursos, o valor das multas, exceto a moratória, poderá ser reduzido em até cinquenta por cento e o procedimento tributário arquivado, salvo se comprovada a ocorrência de dolo, fraude, simulação ou qualquer das infrações previstas nesta Lei.
+
+**Art. 275. **A autoridade administrativa tributária determinará, de ofício ou a requerimento do sujeito passivo, a realização de diligências necessárias, fixando-lhe prazo e indeferirá as consideradas prescindíveis, impraticáveis e protelatórias.
+
+Parágrafo único. Se a diligência resultar em oneração para o sujeito passivo, relativa ao valor impugnado, será reaberto o prazo para oferecimento de novas provas em aditamento à primeira.
+
+**Art. 276. **Preparado o processo para a decisão, a autoridade administrativa tributária de primeira instância proferirá despacho no prazo máximo de trinta dias, resolvendo as questões debatidas, pronunciando a procedência ou improcedência da impugnação.
+
+Parágrafo único. O impugnador será notificado do despacho decisório no prazo de trinta dias, mediante assinatura no processo ou na ordem, pelas formas previstas neste Código.
+
+**Art. 277. **É autoridade administrativa tributária para decisão de recurso em primeira instância o Diretor do Departamento de Receita ou equivalente.
+
+Parágrafo único. A decisão favorável ao contribuinte ou infrator, desde que a importância questionada ou reduzida seja superior a dez vezes o salário mínimo, obriga se a recurso de ofício para Segunda Instância Administrativa Tributária.
+
+SEÇÃO VI
+
+DA SEGUNDA INSTÂNCIA ADMINISTRATIVA TRIBUTARIA
+
+**Art. 278. **Do despacho da autoridade administrativa tributária de primeira instância caberá recurso voluntário, no prazo de dez dias, a Junta de Recursos Fiscais, que funcionará como Órgão de Segunda Instância Administrativa Tributária.
+
+§ 1º. A decisão favorável ao contribuinte ou infrator, desde que a importância questionada seja superior a dez vezes o salário mínimo regional, obriga-se a recurso de ofício no, prazo de trinta dias, para o Prefeito Municipal.
+
+§ 2º. O recurso de que trata o parágrafo anterior será interposto pelo presidente da Junta de Recursos Fiscais, independentemente de novas alegações e provas.
+
+§ 3º.O recurso de ofício devolve à instância superior o exame de toda a matéria em discussão.
+
+§ 4º. Não haverá recursos nos casos em que a decisão apenas procure corrigir erro manifesto.
+
+§ 5º. Na hipótese de recurso administrativo, se o autuado conformar-se com a decisão da Junta de Recursos Fiscais, que julgar improcedente o recurso, desde que esta considerar que não houve dolo, fraude, simulação ou qualquer das infrações previstas nesta Lei, por parte do sujeito passivo, e este efetuar o pagamento das importâncias exigidas dentro do prazo de 30 (trinta) dias a partir do trânsito em julgado da decisão na esfera administrativa, o valor das multas, exceto a moratória, poderá ser reduzido em até vinte e cinco por cento e o procedimento tributário arquivado.
+
+**Art. 279.** A Junta de Recursos Fiscais será composta de seis membros, com seus respectivos suplentes, para mandato de dois anos, sendo:
+
+I** -** três representantes do Município de Carauari -AM:
+
+a) o Secretário da Fazenda;
+
+b) um advogado da Assessoria Jurídica do Município;
+
+c) um Chefe de Divisão Tributária.
+
+II** -** três representantes dos contribuintes, indicados pelas seguintes entidades:
+
+a) Associação Comercial de Carauari;
+
+b) Ordem dos Advogados do Brasil - OAB, Subseção do Estado do Amazonas;
+
+c) Sindicato dos Contabilistas do Amazonas.
+
+§ 1º.Os suplentes dos membros a que se referem as alíneas “b” e “c” do inciso I do **caput **deste artigo deverão ser da mesma carreira do titular.
+
+§ 2º. Os representantes dos contribuintes serão escolhidos pelo Prefeito Municipal, dentre nomes integrantes de listas tríplices fornecidas pelas entidades previstas no inciso II deste artigo, nos termos do regulamento.
+
+§ 3º. Os representantes do Município de Carauari -AM, serão escolhidos pelo Prefeito Municipal, dentre nomes integrantes do quadro funcional previsto no inciso I deste artigo.
+
+§ 4º. Os membros da Junta de Recursos Fiscais, constantes do inciso II deste artigo, poderão ser remunerados mediante pagamento de _jetons_, limitados a, no máximo, seis por ano, cujos critérios de concessão serão estabelecidos em regulamento, não podendo cada _jeton _ser de valor superior a sete por cento do subsídio pago a secretário municipal.
+
+**Art. 280.** A posse dos membros da Junta de Recursos Fiscais realizar-se-á mediante termo lavrado em livro de atas da Junta, ao instalar esta, ou, posteriormente, quando ocorrer a substituição de algum deles, perante o seu Presidente.
+
+**Art. 281.** Perde o mandato o membro que deixar de comparecer às sessões por três vezes consecutivas, sem motivo justificado.
+
+Parágrafo único. Em se tratando de representante do Município, a perda do mandato por esta razão constituirá falta no cumprimento de dever e será anotada na ficha funcional.
+
+**Art. 282. **O local e o horário das reuniões da Junta de Recursos Fiscais, bem como o funcionamento e a ordem dos trabalhos, serão estabelecidos em regulamento próprio, a ser baixado pelo Prefeito Municipal.
+
+Parágrafo único. O Chefe do Executivo Municipal designará um servidor da Administração Tributária para secretariar os trabalhos da Junta de Recursos Fiscais, bem como destinará um local adequado para o seu perfeito funcionamento.
+
+**Art. 283.** À Junta de Recursos Fiscais cabe tomar conhecimento e decidir apenas dos recursos que versem sobre atos e decisões da Primeira Instância Administrativa Tributária, observados os prazos e demais normas previstas.
+
+**Art. 284.** A Junta de Recursos Fiscais poderá deliberar quando reunida com a maioria absoluta de seus membros.
+
+Parágrafo único. As decisões serão tomadas por maioria de votos e, em caso de empate, a decisão caberá ao Presidente.
+
+**Art. 285.** Os processos serão distribuídos aos membros da Junta mediante sorteio, garantida a igualdade numérica na distribuição.
+
+§ 1º.O relator deverá devolver, no prazo de trinta dias, os processos que lhe forem distribuídos, com o relatório ou parecer.
+
+§ 2º. Quando for realizada qualquer diligência, a requerimento do relator, terá este novo prazo de cinco dias para completar o estudo, contados da data em que receber o processo, com a diligência cumprida.
+
+§ 3º.Ficará destituído da função de membro da Junta de Recursos Fiscais o relator que retiver processo além dos prazos previstos nos parágrafos anteriores, salvo por motivo justificado ou deferimento de dilatação de prazo por tempo não superior a trinta dias, em se tratando de processo complexo, quando o relator o alegue em requerimento dirigido tempestivamente ao Presidente da Junta.
+
+§ 4º.O Presidente da Junta de Recursos Fiscais comunicará a destituição à autoridade competente, a fim de ser providenciada a nomeação de novo membro ou suplente.
+
+§ 5º.Para cumprimento do disposto no parágrafo anterior, em cada sessão, o Secretário fornecerá ao Presidente a lista dos processos em atraso, a qual constará em ata.
+
+**Art. 286. **A Junta de Recursos Fiscais poderá converter em diligência qualquer julgamento e, neste caso, o relator lançará a decisão no processo, com o visto do Presidente.
+
+**Art. 287. **Enquanto o processo estiver em diligência ou em estudo com o relator, poderá o recorrente requerer ao Presidente da Junta de Recursos Fiscais juntada de documentos, a bem de seus interesses, desde que isso não protele o andamento do processo.
+
+**Art. 288. **Facultar-se-á a sustentação oral do recurso, durante o período de quinze minutos, se requerida na petição de recurso.
+
+**Art. 289. **A decisão, sob forma de acórdão, será redigida pelo relator até oito dias após o julgamento e, se ele for vencido, o Presidente designará, para redigi-la, dentro do mesmo prazo, um dos membros da Junta de Recursos Fiscais, cujo voto tenha sido vencedor.
+
+§ 1º.Os votos vencidos, quando fundamentados, serão lançados em seguida à decisão.
+
+§ 2º.Das conclusões constantes do acórdão, será intimado o recorrente para os efeitos legais.
+
+**Art. 290. **Da decisão da Junta de Recursos Fiscais que ao interessado se afigure omissa, contraditória ou obscura, cabe pedido de esclarecimento, interposto no prazo de até cinco dias após o conhecimento do acórdão.
+
+Parágrafo único. Não será conhecido o pedido se, a juízo da Junta de Recursos Fiscais for manifestamente protelatório ou visar, indiretamente, à reforma de decisão.
+
+**Art. 291. **O pedido de esclarecimento será distribuído ao relator e julgado preferencialmente na primeira sessão seguinte à data do recebimento pela Junta.
+
+**Art. 292. **O Presidente da Junta de Recursos Fiscais mandará organizar, pela Secretaria, até a véspera do dia da reunião, a pauta dos processos, de acordo com os seguintes critérios preferenciais:
+
+I** -** data de entrada no protocolo da Junta;
+
+II** -** data do julgamento em Primeira Instância;
+
+III** -** maior valor, se coincidirem os elementos a que se referem os incisos anteriores.
+
+Parágrafo único. Terão preferência absoluta, para inclusão em pauta e para julgamento, os processos de que constar a apreensão de mercadorias.
+
+**Art. 293. **Transitadas em julgado as decisões, a Secretaria da Junta encaminhará o processo à repartição competente, para as providências de execução.
+
+Parágrafo único. Ficarão arquivadas na Junta a petição de recursos e as peças que lhe disserem respeito.
+
+**Art. 294. **Os membros da Junta de Recursos Fiscais deverão declarar-se impedidos nos processos de seu interesse pessoal ou das sociedades de que façam parte, como sócios, acionistas, interessados ou como membro da Diretoria ou Conselho Fiscal.
+
+Parágrafo único. Subsiste o impedimento quando, nos mesmos termos, estiver interessado parente consanguíneo ou afim até o terceiro grau.
+
+**Art. 295. **A Junta de Recursos Fiscais poderá representar ao Chefe do órgão fazendário para:
+
+I** -** comunicar irregularidades ou falta funcional, verificadas no processo, na instância anterior;
+
+II** -** propor as medidas que julgar necessárias à melhor organização dos processos;
+
+III** -** sugerir providências de interesse público, em assuntos submetidos à sua deliberação.
+
+CAPÍTULO V
+
+DA RESPONSABILIDADE DOS AGENTES FISCAIS
+
+**Art. 296. **O agente fiscal que, em função do cargo exercido, tendo conhecimento de infração da legislação tributária, deixar de lavrar e encaminhar o auto competente ou o servidor que, da mesma forma, deixar de lavrar a representação, será responsável pecuniariamente pelo prejuízo causado à Fazenda Municipal, desde que a omissão e a responsabilidade sejam apuradas enquanto não extinto o direito do fisco.
+
+§ 1º. Será responsável, igualmente, a autoridade ou servidor que deixar de dar andamento aos processos administrativos tributários, que sejam contenciosos ou que versem sobre consultas ou reclamações contra lançamento, inclusive quando o fizer fora dos prazos estabelecidos ou mandar arquivá-los antes de findos, sem causa justificada, e não fundamentado o despacho na legislação vigente à época da determinação do arquivamento.
+
+§ 2º. A responsabilidade, no caso deste artigo, é pessoal e independente do cargo ou função exercidos, sem prejuízo de outras sanções administrativas e penais cabíveis à espécie.
+
+§ 3º. Os agentes fiscais e as demais autoridades administrativas comunicarão o Ministério Público caso tiverem conhecimento de crime descrito na Lei nº 4.729, de 14 de julho de 1965, ou na Lei nº 8.137, de 27 de dezembro de 1990, fornecendo-lhe por escrito informações sobre o fato e autoria, bem como indicando o tempo, o lugar e os elementos de convicção e remetendo-lhe os elementos comprobatórios da infração.
+
+**Art. 297. **Nos casos do artigo anterior, aos responsáveis será aplicada multa de valor igual à metade da aplicável ao contribuinte, responsável ou infrator, sem prejuízo da obrigatoriedade de recolhimento do tributo, se este já não tiver sido recolhido.
+
+§ 1º. A pena prevista no **caput **deste artigo será imposta pelo responsável pela Administração Tributária por despacho no processo administrativo que apurar as responsabilidades do servidor, a quem serão assegurados amplos direitos de defesa.
+
+§ 2º. Na hipótese de o valor da multa e dos tributos, deixados de arrecadar por culpa do servidor, ser superior a dez por cento de sua remuneração mensal, o responsável pela Administração Tributária determinará o recolhimento parcelado, de modo que não seja recolhida, de uma só vez, importância excedente àquele limite.
+
+**Art. 298. **Não será de responsabilidade do servidor a omissão que resultar em não pagamento do tributo em razão de ordem superior, devidamente provada, ou quando não apurar a infração em face das limitações das tarefas que lhe tenham sido atribuídas pelo seu chefe imediato.
+
+Parágrafo único. Não será, também, da responsabilidade do servidor, não tendo cabimento aplicação de pena pecuniária ou de outra, quando se verificar que a infração consta de livro ou documentos fiscais a ele não exibidos e, por isto, já tenha lavrado auto de infração por embaraço à fiscalização.
+
+**Art. 299. **Consideradas as circunstâncias especiais em que foi praticada a omissão do agente fiscal, ou os motivos por que deixou de promover a arrecadação de tributos, nos termos do regulamento, o responsável pela Administração Tributária, após a aplicação da multa, poderá dispensá-lo do pagamento desta.
+
+CAPÍTULO VI
+
+DA CONSULTA
+
+**Art. 300. **Ao contribuinte ou responsável é assegurado o direito de consulta sobre interpretação e aplicação da legislação tributária desde que protocolada antes a ação fiscal e em obediência às normas estabelecidas.
+
+**Art. 301. **A consulta será dirigida ao responsável pela Administração Tributária Municipal, o qual designará um relator, e este, em conjunto com o corpo técnico do setor, elaborará a resposta.
+
+§ 1º.A consulta deverá ser apresentada com a redação clara e precisa do caso concreto e dos elementos indispensáveis ao atendimento da situação de fato, indicando os dispositivos legais aplicáveis, e instruída, se necessário, com documentos.
+
+§ 2º. Não será recebida consulta:
+
+I** -** sobre norma tributária em tese;
+
+II **-** referente a fato definido pela lei como crime ou contravenção penal;
+
+III** -** sobre matéria que tiver sido objeto de decisão proferida em processo judicial ou administrativo fiscal em que haja vinculação do consulente;
+
+IV** -** que importe em repetição de consulta idêntica, anteriormente formulada, ressalvados os fatos de renovação solicitada em consequência de alteração na legislação tributária.
+
+§ 3º. Não terá eficácia a resposta obtida em desacordo com o disposto neste artigo.
+
+§ 4º.Antes do responsável pela Administração Tributária homologar a resposta da consulta, a Assessoria Jurídica deverá manifestar-se a seu respeito.
+
+**Art. 302. **Nenhum procedimento ou ação fiscal serão iniciados contra o sujeito passivo, em relação à matéria consultada, durante a tramitação da consulta.
+
+**Art. 303. **O disposto no artigo anterior não se aplica a consultas:
+
+I** -** meramente protelatórias, assim entendidas as que versem sobre dispositivos claros da legislação tributária ou sobre tese de direito já resolvida por decisão administrativa ou judicial, definitiva ou passada em julgado;
+
+II** -** que não descrevam completa e exatamente a situação do fato;
+
+III** -** formuladas por contribuintes que, à data de sua apresentação, estejam sob ação fiscal, notificados de lançamentos, intimados de auto de infração ou termo de apreensão ou citados por ação judicial de natureza tributária, relativa à matéria consultada.
+
+**Art. 304. **Na hipótese de mudança de orientação fiscal, a nova regra atingirá todos os casos, ressalvado o direito daqueles que procederem de acordo com a regra vigente, até a data da alteração ocorrida.
+
+**Art. 305. **A autoridade administrativa tributária dará solução à consulta no prazo de trinta dias, contados da data de sua apresentação.
+
+**Art. 306. **O responsável pela Administração Tributária, ao homologar a solução da consulta, fixará ao sujeito passivo prazo não inferior a trinta dias nem superior a sessenta dias, para o cumprimento da eventual obrigação tributária, principal ou acessória, sem prejuízo da aplicação das penalidades cabíveis.
+
+Parágrafo único. O consulente poderá fazer cessar, no todo ou em parte, a oneração do eventual débito, efetuando o respectivo depósito, cuja importância, se indevida, será restituída dentro do prazo de trinta dias, contados da notificação do consulente.
+
+**Art. 307. **A resposta à consulta é de responsabilidade da Administração Tributária, salvo se obtida mediante elementos inexatos fornecidos pelo consulente.
+
+**CAPÍTULO VII**
+
+**DO TRATAMENTO DIFERENCIADO E FAVORECIDO AS PEQUENAS EMPRESAS**
+
+**Art. 308. **O Município de Carauari estabelece tratamento diferenciado e favorecido as pequenas empresas de conformidade com a orientação definida pela Constituição Federal, arts. 170 e 179, adequando a legislação tributária municipal a legislação nacional.
+
+**Art. 309. **As pequenas empresas que aderirem as disposições da Lei Complementar n° 123/2006, gozarão de um tratamento diferenciado e favorecido em relação ao Imposto Sobre Serviços de Qualquer Natureza - ISSQN, observados as orientações da Legislação Tributária Aplicável.
+
+**CAPITULO VIII**
+
+**DISPOSIÇÕES GERAIS E TRANSITÓRIAS**
+
+**Art. 310.** Ficam cancelados os débitos para com a Fazenda Municipal de valor igual ou inferior a 0,50 UFM.
+
+§ l.°. se o débito, a que se refere este artigo estiver ajuizado, somente será cancelado após o pagamento das respectivas custas judiciais.
+
+§ 2.°. Não se incluem nos débitos referidos neste artigo os decorrentes do imposto imobiliário.
+
+**Art. 311.** Os contribuintes que estiverem em débitos para com o Município, relativamente a tributos e multas, não poderão participar de concorrência, coleta ou tomada de preços, celebrar contratos ou termos de qualquer natureza ou transacionar, a qualquer título, com a Administração Municipal, nem receber quaisquer quantias ou créditos das mesmas.
+
+Parágrafo Único - A proibição a que se refere o artigo não se aplicará quando, sobre o débito ou a multa, houver recurso administrativo ainda não decidido definitivamente.
+
+**Art. 312.** O Chefe do Poder Executivo fica autorizado a:
+
+I - compensar créditos tributários com créditos líquidos e certos, vencidos ou
+
+vencendo, do sujeito passivo contra a Fazenda do Município, nas condições e sob as garantias que estipular em cada caso;
+
+II - transacionar, na forma da lei civil, no sentido de pôr termo ao litígio coma
+
+consequente extinção do crédito tributário.
+
+III - conceder, por despacho fundamentado, remissão total ou parcial do
+
+crédito tributário, atendida as condições estipuladas no art. 172, da lei N.° 5172, de 25 de outubro de 1966 (Código Tributário Nacional).
+
+IV - parcelar o recolhimento do crédito tributário nas condições que
+
+estabelecer,
+
+V - sustar cobrança judicial de débito inscrito na Dívida Ativa, enquanto o
+
+ajuizamento do mesmo for considerado antieconômico;
+
+VI - facultar, mediante regulamentação própria, o recolhimento de tributos
+
+através da rede bancária (se for o caso) e mediante contrato, convênio ou credenciamento, em que se estabeleça as respectivas condições.
+
+**Art. 313.** Os serviços prestados pela Prefeitura que não figuram do elenco de taxas, serão remunerados por via de preços públicos pelo Executivo.
+
+§1.° - Afixação dos preços será feita com base:
+
+I - no custeio unitário, para serviços prestados pela Prefeitura;
+
+II - nos preços de mercado, para os demais serviços.
+
+§ 2.° - Aplicam-se aos preços as normas da presente Lei, no tocante a pagamento, deveres, penalidades e Dívida Ativa.
+
+**Art. 314.** A Unidade Fiscal do Município UFM, que em 2020 terá o valor de R$ 53,00 (cinquenta e três reais) servirá para determinar a base de cálculo para cobrança de tributos, taxas e penalidades nos casos de sua aplicação específica e será atualizada anualmente pelo índice oficial do governo federal / IPC-A.
+
+**Art. 315.** O Executivo municipal expedirá decretos regulamentando a aplicação deste Código e disciplinando as incidências tributárias que se tornarem necessárias.
+
+**§ 1º -** O regulamento ditará as medidas necessárias ao fiel e pleno cumprimento da legislação tributária, estabelecendo normas de organização e funcionamento da Administração Tributária.
+
+**§ 2º -** O regulamento não poderá dispor sobre matéria não tratada em lei, criar tributo, estabelecer ou alterar base de cálculo ou alíquota, nem fixar formas de extinção de obrigações.
+
+**§ 3º -** Toda e qualquer disposição regulamentar em matéria tributária será veiculada por decreto, para fiel cumprimento da lei.
+
+**Art. 316.** Revogada integralmente a Lei Complementar nº 001/2017, esta Lei entrará em vigor na data de sua publicação, tendo eficácia a partir de 1º de Janeiro de 2020.
+
+**GABINETE DO PREFEITO EM EXERCÍCIO DO MUNICÍPIO DE CARAUARI-AM,** 17 de dezembro de 2019.
+
+**_JOSÉ CARDOSO VIANA_**
+
+Prefeito em Exercício
+
+**ANEXO I**
+
+**CÁLCULO DO IPTU**
+
+**IPTU** = Valor Venal x Alíquota
+
+**Valor Venal** = Valor do Terreno + Valor da Edificação
+
+**1 - AVALIAÇÃO DO TERRENO**
+
+**Valor do Terreno** = At x Vm2(Nível de Tributação) x FC1 x FC2 x ...
+
+Obs.: Quando o terreno estiver edificado com mais de uma unidade, temos que calcular a fração ideal para saber que parte do terreno que cabe a cada unidade.
+
+**FIT** = Fração Ideal do terreno
+
+AUC = Área da Unidade Construída
+
+ATE = Área Total Edificada
+
+AT = Área do Terreno
+
+FIT = AUC x AT
+
+ATE
+
+**Valor do Terreno** = FIT x Vm2(Nível de Tributação) x FC1 x FC2 X FC3 x FC4 x FC5
+
+**2 - AVALIAÇÃO DA EDIFICAÇÃO**
+
+**Valor da Edificação** = AUC x Vm2(Tipo de construção) x FC6 x FC7 x ...
+
+AUC = Área da Unidade Construída
+
+FC = Fator de Calculo
+
+NT = Nível de Tributação
+
+**PLANTA GENÉRICA DE VALORES - (Valor do m2 do terreno)**
+
+**Bairro/Logradouro**
+
+**Nível de Tributação**
+
+**Código **
+
+**UFM por m2**
+
+Centro
+
+26
+
+0,41
+
+Estrada do Gavião
+
+24
+
+0,35
+
+Estrada são Jacó
+
+22
+
+0,28
+
+Nova Republica
+
+20
+
+0,23
+
+Fatima
+
+18
+
+0,19
+
+Samuel Amaral
+
+16
+
+0,15
+
+Outros
+
+14
+
+0,13
+
+|  |  |  |
+| --- | --- | --- |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+
+**TABELA DE NIVEL DE TRIBUTAÇÃO - Continuação**
+
+Nível
+
+UFM
+
+Nível
+
+UFM
+
+Nivel 01
+
+0,00
+
+Nivel 31
+
+0,68
+
+Nível 02
+
+0,001
+
+Nivel 32
+
+0,75
+
+Nível 03
+
+0,02
+
+Nível 33
+
+0,83
+
+Nível 04
+
+0,03
+
+Nível 34
+
+0,91
+
+Nível 05
+
+0,04
+
+Nível 35
+
+1,00
+
+Nível 06
+
+0,05
+
+Nível 36
+
+1,10
+
+Nível 07
+
+0,06
+
+Nível 37
+
+1,21
+
+Nível 08
+
+0,07
+
+Nível 38
+
+1,33
+
+Nível 09
+
+0,08
+
+Nível 39
+
+1,46
+
+Nível 10
+
+0,09
+
+Nível 40
+
+1,61
+
+Nível 11
+
+0,10
+
+Nível 41
+
+1,77
+
+Nível 12
+
+0,11
+
+Nível 42
+
+1,95
+
+Nível 13
+
+0,12
+
+Nível 43
+
+2,15
+
+Nível 14
+
+0,13
+
+Nível 44
+
+2,37
+
+Nível 15
+
+0,14
+
+Nível 45
+
+2,61
+
+Nível 16
+
+0,15
+
+Nível 46
+
+2,87
+
+Nível 17
+
+0,17
+
+Nível 47
+
+3,15
+
+Nível 18
+
+0,19
+
+Nível 48
+
+3,48
+
+Nível 19
+
+0,21
+
+Nível 49
+
+3,83
+
+Nível 20
+
+0,23
+
+Nível 50
+
+4,21
+
+Nível 21
+
+0,25
+
+Nível 51
+
+4,63
+
+Nível 22
+
+0,28
+
+Nível 52
+
+5,01
+
+Nível 23
+
+0,31
+
+Nível 53
+
+5,51
+
+Nível 24
+
+0,35
+
+Nível 54
+
+6,06
+
+Nível 25
+
+0,37
+
+Nível 55
+
+6,67
+
+Nível 26
+
+0,41
+
+Nível 56
+
+7,34
+
+Nível 27
+
+0,46
+
+Nível 57
+
+8,07
+
+Nível 28
+
+0,51
+
+Nível 58
+
+8,88
+
+Nível 29
+
+0,56
+
+Nível 59
+
+9,77
+
+Nível 30
+
+0,62
+
+Nível 60
+
+10,77
+
+|  |  |  |  |
+| --- | --- | --- | --- |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+
+**AVALIAÇÃO DO TERRENO - (Fator de calculo - Fc)**
+
+**Situação na quadra**
+
+**Item**
+
+**Descrição**
+
+**Coeficiente**
+
+1
+
+Meio da quadra
+
+1,00
+
+2
+
+Esquina
+
+1,10
+
+3
+
+Vila
+
+0,90
+
+4
+
+Encravado
+
+0,80
+
+5
+
+Quadra
+
+1,20
+
+6
+
+Gleba
+
+0,50
+
+|  |  |  |
+| --- | --- | --- |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+
+**Topografia**
+
+**Item**
+
+**Descrição**
+
+**Coeficiente**
+
+1
+
+Plano
+
+1,00
+
+2
+
+Aclive
+
+0,90
+
+3
+
+Declive
+
+0,80
+
+4
+
+Irregular
+
+0,80
+
+|  |  |  |
+| --- | --- | --- |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+
+**Pedologia**
+
+**Item**
+
+**Descrição**
+
+**Coeficiente**
+
+1
+
+Normal
+
+1,00
+
+2
+
+Inudável + 50%
+
+0,50
+
+3
+
+Inudável - 50%
+
+0,80
+
+|  |  |  |
+| --- | --- | --- |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+
+**Limitação**
+
+**Item**
+
+**Descrição**
+
+**Coeficiente**
+
+1
+
+Murado
+
+1,10
+
+2
+
+Não murado
+
+1,00
+
+3
+
+Cerca/Similar
+
+1,05
+
+|  |  |  |
+| --- | --- | --- |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+
+**Calada**
+
+**Item**
+
+**Descrição**
+
+**Coeficiente**
+
+1
+
+Não
+
+1,00
+
+2
+
+Sim
+
+1,05
+
+|  |  |  |
+| --- | --- | --- |
+|  |  |  |
+|  |  |  |
+
+**AVALIAÇÃO DA EDIFICAÇÃO - (Fator de calculo - Fc)**
+
+**Tipo de construção / Estrutura - Valor m²**
+
+**Item**
+
+**Descrição**
+
+**UFM por m2**
+
+1
+
+Construção em alvenaria com laje
+
+2,00
+
+2
+
+Construção em alvenaria sem laje
+
+1,50
+
+3
+
+Construção mista (alvenaria sem laje e madeira)
+
+1,20
+
+4
+
+Construção em madeira
+
+1,00
+
+5
+
+Apartamento
+
+2,00
+
+6
+
+Galpão fechado
+
+1,50
+
+7
+
+Galpão aberto
+
+1,00
+
+8
+
+Outros
+
+1,50
+
+|  |  |  |
+| --- | --- | --- |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+
+**Alinhamento**
+
+**Item**
+
+**Descrição**
+
+**Coeficiente**
+
+1
+
+Alinhada
+
+1,00
+
+2
+
+Recuada
+
+1,10
+
+|  |  |  |
+| --- | --- | --- |
+|  |  |  |
+|  |  |  |
+
+**Situação no Lote**
+
+**Item**
+
+**Descrição**
+
+**Coeficiente**
+
+1
+
+Isolada
+
+1,00
+
+2
+
+Conjugada
+
+0,95
+
+3
+
+Geminada
+
+0,90
+
+|  |  |  |
+| --- | --- | --- |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+
+**Situação da unidade construída**
+
+**Item**
+
+**Descrição**
+
+**Coeficiente**
+
+1
+
+Frente
+
+1,00
+
+2
+
+Fundo
+
+0,90
+
+3
+
+Superposta frente
+
+1,00
+
+4
+
+Superposta fundo
+
+0,90
+
+|  |  |  |
+| --- | --- | --- |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+
+**Padrão construtivo**
+
+**Item**
+
+**Descrição**
+
+**Coeficiente**
+
+1
+
+Luxo
+
+1,20
+
+2
+
+Alto
+
+1,10
+
+3
+
+Médio
+
+1,00
+
+4
+
+Baixo
+
+0,90
+
+|  |  |  |
+| --- | --- | --- |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+
+**Conservação**
+
+**Item**
+
+**Descrição**
+
+**Coeficiente**
+
+1
+
+Bom
+
+1,10
+
+2
+
+Regular
+
+1,00
+
+3
+
+Mau
+
+0,90
+
+|  |  |  |
+| --- | --- | --- |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+
+**ANEXO II - Outras receitas e Taxas**
+
+**TAXA DE ISSQN FIXO**
+
+Serviço prestado pelos profissionais sem nível superior 0,50 UFM mensal
+
+Serviço prestado pelos profissionais com nível superior 1,00 UFM mensal
+
+|  |
+| --- |
+|  |
+
+**TAXA DE EXPEDIENTE E SERVIÇOS DIVERSOS**
+
+**Descrição**
+
+**UFM**
+
+Taxa de expediente
+
+0,10
+
+Certidões e Atestados
+
+0,55
+
+Numeração de Imóveis
+
+0,60
+
+Autorização para realização de festas e eventos de porte pequeno
+
+0,38
+
+Autorização para realização de festas e eventos de porte médio
+
+0,58
+
+Autorização para realização de festas e eventos de porte grande
+
+0,85
+
+Emissão de 2ª via de documento fiscal
+
+0,12
+
+Outros
+
+0,40
+
+Título definitivo de terreno localizado em área urbana 0,03 UFM por m2
+
+Título definitivo de terreno localizado em área suburbana 0,02 UFM por m2
+
+Título definitivo de terreno localizado em área rural 1,25 UFM por hectare
+
+Desmembramento, Remembramento e 2ª Via de Título Definitivo 0,57 UFM
+
+Aforamento 0,40 UFM
+
+|  |  |
+| --- | --- |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+
+**TAXA DE COLETA, REMOÇÃO, E DESTINAÇÃO DE RESÍDUOS SÓLIDOS URBANOS**
+
+**Descrição**
+
+**UFM por m3**
+
+Residencial
+
+0,020
+
+Comercio/Serviço
+
+0,025
+
+Industrial
+
+0,030
+
+|  |  |
+| --- | --- |
+|  |  |
+|  |  |
+|  |  |
+
+**TAXA DE CEMITERIO**
+
+**DESCRIÇÃO**
+
+**UFM**
+
+Sepultamento
+
+0,50
+
+Autorização para construção de jazigo
+
+1,00
+
+Concessão de perpetuidade por lote
+
+10,00
+
+|  |  |
+| --- | --- |
+|  |  |
+|  |  |
+|  |  |
+
+**TAXA DE LICENÇA PARA LOCALIZAÇÃO**
+
+COMÉRCIO, INDÚSTRIA E OUTROS
+
+**Área do estabelecimento**
+
+**UFM**
+
+Até 20 m²
+
+2,00
+
+de 21 a 50 m²
+
+2,70
+
+de 51 a 100 m²
+
+3,30
+
+de 101 a 150 m²
+
+3,80
+
+de 151 a 200 m²
+
+4,30
+
+de 201 a 250 m²
+
+4,90
+
+de 251 a 300 m²
+
+5,40
+
+de 301 a 350 m²
+
+6,00
+
+de 351 a 400 m²
+
+6,50
+
+de 401 a 450 m²
+
+7,10
+
+de 451 a 500 m²
+
+7,60
+
+de 501 a 600 m²
+
+8,20
+
+de 601 a 700 m²
+
+9,10
+
+de 701 a 800 m²
+
+10,00
+
+de 801 a 900 m²
+
+19,90
+
+de 901 a 1.000 m²
+
+11,80
+
+de 1.001 a 1.500 m²
+
+12,70
+
+de 1.501 a 2.000 m²
+
+14,50
+
+de 2.001 a 2.500 m²
+
+18,20
+
+acima de 2.500 m²
+
+21,80
+
+|  |  |
+| --- | --- |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+
+PROFISSIONAIS LIBERAIS E PRESTADORES DE SERVIÇO
+
+**Área do estabelecimento**
+
+UFM
+
+Até 20 m²
+
+1,40
+
+de 21 a 50 m²
+
+1,80
+
+de 51 a 100 m²
+
+2,20
+
+de 101 a 150 m²
+
+2,50
+
+de 151 a 200 m²
+
+2,90
+
+de 201 a 250 m²
+
+3,30
+
+de 251 a 300 m²
+
+3,60
+
+de 301 a 350 m²
+
+4,20
+
+de 351 a 400 m²
+
+4,70
+
+de 401 a 450 m²
+
+5,30
+
+de 451 a 500 m²
+
+5,80
+
+de 501 a 600 m²
+
+6,50
+
+de 601 a 700 m²
+
+8,20
+
+de 701 a 800 m²
+
+9,10
+
+de 801 a 900 m²
+
+10,00
+
+de 901 a 1.000 m²
+
+10,90
+
+Acima de 1.001 m²
+
+12,70
+
+|  |  |
+| --- | --- |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+
+**TAXA DE FISCALIZAÇÃO DE FUNCIONAMENTO REGULAR**
+
+CATEGORIA DE EMPREGADOS
+
+**Quantidade de empregados**
+
+**Fator Multiplicador**
+
+De 0 a 2
+
+1.00
+
+de 3 a 5
+
+1.10
+
+De 6 a 10
+
+1.20
+
+de 11 a 20
+
+1.35
+
+de 21 a 50
+
+1.50
+
+de 51 a 100
+
+1.70
+
+de 101 a 200
+
+2.00
+
+de 201 a 300
+
+2.50
+
+De 301 a 500
+
+3.00
+
+Acima de 500
+
+3.50
+
+|  |  |
+| --- | --- |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+
+ATIVIDADE ECONOMICA
+
+**Descrição**
+
+**Alíquota ISS %**
+
+**Coef. Alvará UFM**
+
+**COMÉRCIO**
+
+**A - Varejista**
+
+A.01 Gêneros alimentícios Carnes, aves, pescados, verduras e similares
+
+3,00
+
+A.02 Produtos químicos, farmacêuticos, ortopédicos, odontológicos, hospitalares, ótica
+
+5,00
+
+A.03 Livros, jornais, revistas, papelaria, pintura, arte, desenho
+
+3,50
+
+A.04 Loja de vestuário, confecções, foto, joia, esporte, sapataria, disco, brinquedo
+
+5,00
+
+A.05 Pequenas lojas de confecções, foto, joia, esporte, sapataria, disco, brinquedo
+
+3,00
+
+A.06 Pequenas Butiques, floriculturas, artesanato
+
+1,50
+
+A.07 Mercearias e similares
+
+3,00
+
+A.08 Pequenas mercearias e similares (tipo quiosque)
+
+1,00
+
+A.09 Bares, restaurantes e similares de grande porte
+
+4,00
+
+A.10 Bares, restaurantes e similares de médio porte
+
+3,00
+
+A.11 Bares, restaurantes e similares de pequeno porte
+
+1,50
+
+A.12 Lanchonetes e similares
+
+1,50
+
+A.13 Pequenas lanchonetes e similares
+
+1,00
+
+A.14 Confeitarias, padarias e similares
+
+4,00
+
+A.15 Sorveterias e similares
+
+1,50
+
+A.16 Boxes localizados na rede de mercados
+
+1,00
+
+A.17 Pequenas vendas de peixes e verduras
+
+1,00
+
+A.18 Pequenas vendas de frutas, verduras e outros
+
+0,60
+
+A.19 Veículos, máquinas, tratores e similares
+
+15,00
+
+A.20 Lojas de peças, acessórios, máquinas, eletromecânica, pneumática, baterias
+
+15,00
+
+A.21 Pequenas lojas peças, acessórios, máquinas eletromecânica, pneumática, baterias
+
+3,00
+
+A.22 Materiais para construção, ferragens, vidros, pintura, cerâmica, esquadrias
+
+7,50
+
+A.23 Pequenas lojas de materiais para construção, ferragens, vidros, pintura, cerâmica, esquadrias
+
+5,00
+
+A.24 Loja de móveis e/ou eletrodomésticos, artigos p/ habitação
+
+8,00
+
+A.25 Pequena loja de móveis e/ou eletrodomésticos, artigos p/ habitação
+
+6,00
+
+A.26 Depósitos em geral, exceto os destinados a combustível
+
+8,00
+
+A.27 Grande comércio varejista
+
+12,00
+
+A.28 Médio comércio varejista
+
+8,00
+
+A.29 Pequeno comércio varejista
+
+3,00
+
+A.30 Loja de equipamentos e suprimentos de informática
+
+4,00
+
+A.31 Pequena loja de equipamentos e suprimentos de informática
+
+2,00
+
+**B - Atacadista**
+
+B.01 Frigoríficos e comercialização de carnes, aves, pescado
+
+7,00
+
+B.02 Comercialização de couros e produtos regionais
+
+4,00
+
+B.03 Atacadista de produtos agropecuários, alimentos, massas, condimentos, e similares
+
+3,50
+
+B.04 Pequenos atacadistas de produtos agropecuários, alimentos, massas, condimentos
+
+2,00
+
+B.05 Distribuidoras de bebidas e similares
+
+8,00
+
+B.06 Pequenas distribuidoras de bebidas e similares
+
+3,00
+
+B.07 Materiais de construção, ferragem, elétrica, hidráulica, cimento, ferro, piso, louças
+
+7,00
+
+B.08 Pequeno comercio de materiais de construção, ferragem, elétrica, hidráulica, cimento, ferro, piso, louças
+
+5,00
+
+B.09 Máquinas, aparelhos e equipamentos diversos
+
+8,00
+
+B.10 Produtos químicos, farmacêuticos e ortopédicos
+
+15,00
+
+B.11 Artigos de escritório, papelaria e recreação
+
+8,00
+
+B.12 Produtos e resíduos de origem mineral, ouro e outro minerais
+
+10,00
+
+B.13 Móveis e artigos de habitação e de utilidade doméstica
+
+15,00
+
+B.14 Madeiras
+
+15,00
+
+B.15 Grande comércio atacadista
+
+15,00
+
+B.16 Médio comércio atacadista
+
+10,00
+
+B.17 Pequeno comércio atacadista
+
+5,00
+
+**C - Supermercados e lojas de Departamentos**
+
+C.01 Supermercados e lojas de departamento de grande porte
+
+15,00
+
+C.02 Supermercados e lojas de departamento de médio porte
+
+12,00
+
+C.03 Supermercados e lojas de departamento de pequeno porte
+
+10,00
+
+**D - Diversos**
+
+D.01 Comércio de inflamáveis e explosivos
+
+12,00
+
+D.02 Postos de abastecimento e combustíveis
+
+11,00
+
+D.03 Postos fluviais de abastecimento e inflamáveis
+
+10,00
+
+D.04 Depósitos de inflamáveis e explosivos
+
+10,00
+
+D.05 Outros depósitos
+
+10,00
+
+D.06 Postos de lavagem e lubrificação sem abastecimento
+
+5,00
+
+D.07 Beneficiamento e comercial de couro e produtos regionais
+
+5,00
+
+D.08 Distribuidora de Gás Liquefeito de Petróleo (GLP)
+
+8,00
+
+D.09 Pequena distribuidora de Gás Liquefeito de Petróleo (GLP)
+
+6,00
+
+D.10 Consórcio e vendas de Motos
+
+13,00
+
+**E - Industria Estaleiros e Similares**
+
+E.01 Industria, estaleiros e similares
+
+20,00
+
+E.02 Pequena indústria, estaleiros e similares
+
+15,00
+
+E.03 Agroindustrial e similares
+
+14,00
+
+**F - Serralherias, Carpintaria, Metalúrgicas e Similares**
+
+F.01 Pequena serralheria, carpintaria, metalúrgica, movelaria e similares
+
+2,00
+
+F.02 Media serralheria, carpintaria, metalúrgica, movelaria e similares
+
+4,00
+
+F.03 Grande serralheria, carpintaria, metalúrgica, movelaria e similares
+
+8,00
+
+**G - Outras Atividades de Comércio**
+
+G.01 Grande comércio
+
+6,00
+
+G.02 Médio comércio
+
+4,00
+
+G.03 Pequeno comércio
+
+2,00
+
+G.04 pequeno comércio exercido por MEI
+
+1,50
+
+**S E R V I Ç O S**
+
+**H - Pessoais**
+
+H.01 Instituto de fisioterapia e dança, massagem, ginástica e similares
+
+3
+
+4,00
+
+H.02 Academia de musculação e similares
+
+3
+
+3,00
+
+H.03 Pequena academia de musculação e similares
+
+3
+
+2,00
+
+H.04 Lavanderias, tinturas e similares
+
+5
+
+3,00
+
+H.05 Alfaiates, confecção de roupas e similares
+
+5
+
+1,00
+
+H.06 Outros
+
+5
+
+1,00
+
+**I - Salões e Similares**
+
+I.01 Salões de beleza, barbearia e similares
+
+5
+
+3,00
+
+I.02 Salões de beleza, barbearia e similares de médio porte
+
+5
+
+1,50
+
+I.03 salões de beleza, barbearia e similares de pequeno porte
+
+5
+
+1,00
+
+**J - Hotelaria e Turismo**
+
+J.01 Pensões/pousadas
+
+5
+
+4,00
+
+J.02 Hotel simples até 20 apartamentos
+
+5
+
+6,00
+
+J.03 Hotel simples de 21 a 50 apartamentos
+
+5
+
+8,00
+
+J.04 Hotel simples acima de 51 apartamentos
+
+5
+
+10,00
+
+J.05 Hotel de luxo até 20 apartamentos
+
+5
+
+12,00
+
+J.06 Hotel de luxo de 21 a 50 apartamentos
+
+5
+
+15,00
+
+J.07 Hotel de luxo acima de 51 apartamentos
+
+5
+
+20,00
+
+J.08 Motel classe A
+
+5
+
+6,00
+
+J.09 Motel classe B
+
+5
+
+4,00
+
+J.10 Motel classe C
+
+5
+
+3,00
+
+J.11 Turismo, agência de viagens e correlatos
+
+5
+
+5,00
+
+J.12 Organização de festa, congressos e buffe
+
+5
+
+4,00
+
+J.13 Outros do mesmo gênero não especificado
+
+5
+
+3,00
+
+**K - Diversões Públicas**
+
+K.01 Teatro, cinema, circos, parque de diversões, outros
+
+5
+
+10,00
+
+K.02 Organização de eventos, clubes de dança, festivais, outros
+
+5
+
+3,00
+
+K.03 Loterias, jogos eletrônicos
+
+5
+
+20,00
+
+**L - Hospitais, Clinicas e Similares**
+
+L.01 Até 20 leitos
+
+3
+
+10,00
+
+L.02 De 21 a 50 leitos
+
+3
+
+15,00
+
+L.03 Acima de 51 leitos
+
+3
+
+20,00
+
+L.04 Clínica veterinária
+
+3
+
+10,00
+
+L.05 Laboratório de analise clínica, ultra-sonografia, radiografias e similares
+
+3
+
+10,00
+
+L.06 Serviços de saúde, assistência medica e congêneres
+
+3
+
+10,00
+
+L.07 Serviços de medicina e assistência veterinária e congêneres
+
+3
+
+4,00
+
+**M - Prestadores de Serviços**
+
+M.01 Profissionais liberais, despachantes e assemelhados
+
+5
+
+4,00
+
+M.02 Organização e planejamento, consultoria, contabilidade, processamento de dados
+
+5
+
+4,00
+
+M.03 Fotos e correlatos
+
+5
+
+2,00
+
+M.04 Conservação, limpeza e manutenção de imóveis em geral e bens móveis
+
+5
+
+4,00
+
+M.05 Compra, venda loteamento incorporações e administração de imóveis
+
+5
+
+4,00
+
+M.06 Médicos, dentistas, veterinários
+
+3
+
+4,00
+
+M.07 Vigilância, estacionamento, carga e descarga, depósito e outros
+
+5
+
+6,00
+
+M.08 Posto de lavagem de veículos, lubrificação e outros
+
+5
+
+2,00
+
+M.09 Cópia, plastificação, encadernação, gráfica e outros
+
+5
+
+2,00
+
+M.10 Distribuição de bens de terceiros em representação de qualquer natureza
+
+5
+
+3,00
+
+M.11 Representação comercial, promoção de vendas e outros
+
+5
+
+2,00
+
+M.12 Advogados, engenheiros, contadores e outros
+
+5
+
+4,00
+
+M.13 Funerária
+
+5
+
+6,00
+
+M.14 Atividades de serviços exercidas por MEI
+
+1,00
+
+M.15 Joalheiro, ourives e similares
+
+5
+
+3,00
+
+**N - Comunicação**
+
+N.01 Estações de rádio e TVs
+
+5
+
+10,00
+
+N.02 Estabelecimentos de propaganda e publicidade em geral
+
+5
+
+5,00
+
+N.03 Outros estabelecimentos do mesmo gênero
+
+5
+
+4,00
+
+**O - Conserto, Manutenção, de veículos. Máquinas, Aparelhos e Equipamentos**
+
+O.01 Oficinas de conserto, manutenção de veículos, máquinas, aparelhos e equipamentos
+
+5
+
+2,00
+
+O.02 Pequenas oficinas de conserto, manutenção de veículos, máquinas, equipamentos
+
+5
+
+1,00
+
+**P - Construção Civil e Outros Serviços Correlatos**
+
+P.01 Construtoras
+
+5
+
+13,00
+
+P.02 Serviços de execução e projetos técnicos
+
+5
+
+8,00
+
+P.03 Empreiteiras e locadoras de mão-de-obra
+
+5
+
+13,00
+
+**Q - Transporte**
+
+Q.01 Transporte autônomos
+
+5
+
+2,00
+
+Q.02 Passageiros/coletivos urbanos e intermunicipais
+
+5
+
+15,00
+
+Q.03 Cargas aéreas
+
+5
+
+33,00
+
+Q.04 Terrestre e fluvial
+
+5
+
+6,00
+
+Q.05 Aéreo e turismo
+
+5
+
+15,00
+
+Q.06 Pequena empresa aérea e turismo
+
+5
+
+5,00
+
+Q.07 Estacionamento e garagem
+
+5
+
+4,00
+
+Q.08 Locadoras
+
+5
+
+5,00
+
+Q.09 Administração portuária
+
+5
+
+8,00
+
+Q.10 Outros serviços e transportes não especificados
+
+5
+
+4,00
+
+**R - Ensino**
+
+R.01 Escolinhas de maternal, jardim e alfabetização
+
+3
+
+4,00
+
+R.02 Ensino Fundamental
+
+3
+
+6,00
+
+R.03 Ensino Médio
+
+3
+
+8,00
+
+R.04 Ensino Superior
+
+3
+
+10,00
+
+R.05 Cursos livres
+
+3
+
+6,00
+
+R.06 Outros estabelecimentos de ensino não especificado
+
+3
+
+5,00
+
+**S - Concessionária de Serviços Públicos**
+
+S.01 Estabelecimento filial de companhia do setor elétrico
+
+5
+
+70,00
+
+S.02 Estabelecimento filial de companhia do setor de Saneamento
+
+5
+
+50,00
+
+S.03 Postos de atendimento, estações, filiais e outros
+
+5
+
+60,00
+
+S.04 Instituição financeira autorizada a funcionar pelo Banco Central
+
+5
+
+60,00
+
+S.05 Comunicação telefônica de um para outro aparelho dentro do mesmo município
+
+5
+
+55,00
+
+S.06 Cartório
+
+5
+
+13,00
+
+**X – Outros Serviços e Atividades**
+
+X.01 Grande atividade
+
+5
+
+13,00
+
+X.02 Média atividade
+
+5
+
+8,00
+
+X.03 Pequena atividade
+
+5
+
+4,00
+
+**Z - ISENTO**
+
+Z.01 Isento
+
+0
+
+|  |  |  |
+| --- | --- | --- |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+
+**TAXA DE ABATE DE ANIMAIS**
+
+**Descrição**
+
+**UFM por animal**
+
+Bovino e Bubalino
+
+0,50
+
+Ovino, caprino e suíno
+
+0,20
+
+|  |  |
+| --- | --- |
+|  |  |
+|  |  |
+
+**TAXA PELO EXERCICIO DE ATIVIDADE EVENTUAL OU AMBULANTE**
+
+**DESCRIÇÃO**
+
+**UFM**
+
+**Por dia**
+
+**Por mês**
+
+**Por ano**
+
+**Domiciliado no Município**
+
+Com caminhão
+
+0,20
+
+1,00
+
+4,00
+
+Outro veículo
+
+0,15
+
+0,50
+
+2,00
+
+Sem veiculo
+
+0,05
+
+0,20
+
+1,00
+
+**Domiciliado fora do Município**
+
+Com caminhão
+
+R$ 15,00
+
+R$ 300,00
+
+R$ 1.200,00
+
+Outro veículo
+
+R$ 10,00
+
+R$ 200,00
+
+R$ 800,00
+
+Sem veículo
+
+R$ 5,00
+
+R$ 100,00
+
+R$ 500,00
+
+|  |  |  |  |
+| --- | --- | --- | --- |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+
+**TAXA DE LICENÇA PARA EXECUÇÃO DE OBRAS, ARRUAMENTOS E LOTEAMENTOS**
+
+**DESCRIÇÃO**
+
+**UFM**
+
+**Obras em geral (Construção, reconstrução, reforma, demolição ou qualquer natureza)**
+
+Obra residencial em alvenaria por m²
+
+0,01
+
+Obra residencial em madeira por m²
+
+0,006
+
+Obra residencial mista (alvenaria/madeira) por m²
+
+0,008
+
+Obra comercio/serviço por m²
+
+0,02
+
+Obra industrial por m²
+
+0,03
+
+Demolição por m²
+
+0,01
+
+Legalização de construção não licenciada por m² - Residencial
+
+0,01
+
+Legalização de construção não licenciada por m² - Não residencial
+
+0,02
+
+Legalização de construção não licenciada por m² - Outras
+
+0,03
+
+**Arruamento**
+
+Ate 2.000 m2
+
+0,50
+
+De 2.001 a 5.000m2
+
+1,00
+
+De 5.001 a 10.000m2
+
+1,50
+
+Acima de 10.000m2
+
+2,00
+
+**Loteamento **
+
+Por lote Criado, Remembrado ou Desmembrado
+
+0,57
+
+|  |  |
+| --- | --- |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+
+**TAXA DE LICENÇA DE “HABITE-SE” OU ACEITE DA OBRA EXECUTADA PARA UTILIZAÇÃO.**
+
+**DESCRIÇÃO (Tipo de imóvel)**
+
+**UFM por m2**
+
+Residencial
+
+0,01
+
+Comercial / Serviço
+
+0,02
+
+Industrial
+
+0,03
+
+|  |  |
+| --- | --- |
+|  |  |
+|  |  |
+|  |  |
+
+**TAXA DE OCUPAÇÃO DE AREAS EM VIAS E LOGRADOUROS PUBLICOS**
+
+**DESCRIÇÃO**
+
+**UFM**
+
+**Por dia**
+
+**Por mês**
+
+**Por ano**
+
+**Comercio**
+
+Feirantes, fruteiros e verdureiros
+
+0,10
+
+0,40
+
+1,00
+
+Barracas e quiosques
+
+0,20
+
+0,60
+
+1,50
+
+Carrinhos de pipoca, doces, cachorro quente e similares
+
+0,05
+
+0,30
+
+1,50
+
+Outras atividades
+
+0,05
+
+0,50
+
+2,00
+
+**Circos, parque de diversões, feiras, exposições e similares.**
+
+Em logradouro publico
+
+0,50
+
+2,00
+
+10,00
+
+|  |  |  |  |
+| --- | --- | --- | --- |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+
+**TAXA DE LICENÇA DE PUBLICIDADE**
+
+**DESCRIÇÃO**
+
+**UFM por m2**
+
+**Por mês**
+
+**Por ano**
+
+**Outdoors ou Similares**
+
+Em logradouro publico
+
+0,50
+
+4,00
+
+Em área particular
+
+0,30
+
+1,00
+
+**Pinturas, painéis, placas**
+
+Paredes, muros, veículos e outros
+
+0,20
+
+1,00
+
+**Publicidade sonora**
+
+Em estabelecimento ou veiculo
+
+0,30
+
+2,00
+
+|  |  |  |  |
+| --- | --- | --- | --- |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+
+**TAXA DE VIGILÂNCIA SANITÁRIA**
+
+**(utilizar a tabela em vigência)**
+
+**CONTRIBUIÇÃO DE ILUMINAÇÃO PUBLICA (COSIP)**
+
+**(utilizar a tabela em vigência)**
+
+**ANEXO III **
+
+**IMPOSTO SOBRE SERVIÇOS DE QUALQUER NATUREZA - ISSQN**
+
+1 – Serviços de informática e congêneres.
+
+1.01 – Análise e desenvolvimento de sistemas.
+
+1.02 – Programação.
+
+1.03 – Processamento de dados e congêneres.
+
+1.04 – Elaboração de programas de computadores, inclusive de jogos eletrônicos.
+
+1.03 - Processamento, armazenamento ou hospedagem de dados, textos, imagens, vídeos, páginas eletrônicas, aplicativos e sistemas de informação, entre outros formatos, e congêneres.(Redação dada pela Lei Complementar nº 157, de 2016)
+
+1.04 - Elaboração de programas de computadores, inclusive de jogos eletrônicos, independentemente da arquitetura construtiva da máquina em que o programa será executado, incluindo**tablets**,**smartphones**e congêneres.(Redação dada pela Lei Complementar nº 157, de 2016)
+
+1.05 – Licenciamento ou cessão de direito de uso de programas de computação.
+
+1.06 – Assessoria e consultoria em informática.
+
+1.07 – Suporte técnico em informática, inclusive instalação, configuração e manutenção de programas de computação e bancos de dados.
+
+1.08 – Planejamento, confecção, manutenção e atualização de páginas eletrônicas.
+
+1.09 - Disponibilização, sem cessão definitiva, de conteúdos de áudio, vídeo, imagem e texto por meio da internet, respeitada a imunidade de livros, jornais e periódicos (exceto a distribuição de conteúdos pelas prestadoras de Serviço de Acesso Condicionado, de que trata aLei no12.485, de 12 de setembro de 2011, sujeita ao ICMS).(Incluído pela Lei Complementar nº 157, de 2016)
+
+2 – Serviços de pesquisas e desenvolvimento de qualquer natureza.
+
+2.01 – Serviços de pesquisas e desenvolvimento de qualquer natureza.
+
+3 – Serviços prestados mediante locação, cessão de direito de uso e congêneres.
+
+3.01 –(VETADO)
+
+3.02 – Cessão de direito de uso de marcas e de sinais de propaganda.
+
+3.03 – Exploração de salões de festas, centro de convenções, escritórios virtuais,**stands**_,_quadras esportivas, estádios, ginásios, auditórios, casas de espetáculos, parques de diversões, canchas e congêneres, para realização de eventos ou negócios de qualquer natureza.
+
+3.04 – Locação, sublocação, arrendamento, direito de passagem ou permissão de uso, compartilhado ou não, de ferrovia, rodovia, postes, cabos, dutos e condutos de qualquer natureza.
+
+3.05 – Cessão de andaimes, palcos, coberturas e outras estruturas de uso temporário.
+
+4 – Serviços de saúde, assistência médica e congêneres.
+
+4.01 – Medicina e biomedicina.
+
+4.02 – Análises clínicas, patologia, eletricidade médica, radioterapia, quimioterapia, ultra-sonografia, ressonância magnética, radiologia, tomografia e congêneres.
+
+4.03 – Hospitais, clínicas, laboratórios, sanatórios, manicômios, casas de saúde, prontos-socorros, ambulatórios e congêneres.
+
+4.04 – Instrumentação cirúrgica.
+
+4.05 – Acupuntura.
+
+4.06 – Enfermagem, inclusive serviços auxiliares.
+
+4.07 – Serviços farmacêuticos.
+
+4.08 – Terapia ocupacional, fisioterapia e fonoaudiologia.
+
+4.09 – Terapias de qualquer espécie destinadas ao tratamento físico, orgânico e mental.
+
+4.10 – Nutrição.
+
+4.11 – Obstetrícia.
+
+4.12 – Odontologia.
+
+4.13 – Ortóptica.
+
+4.14 – Próteses sob encomenda.
+
+4.15 – Psicanálise.
+
+4.16 – Psicologia.
+
+4.17 – Casas de repouso e de recuperação, creches, asilos e congêneres.
+
+4.18 – Inseminação artificial, fertilização**in vitro**e congêneres.
+
+4.19 – Bancos de sangue, leite, pele, olhos, óvulos, sêmen e congêneres.
+
+4.20 – Coleta de sangue, leite, tecidos, sêmen, órgãos e materiais biológicos de qualquer espécie.
+
+4.21 – Unidade de atendimento, assistência ou tratamento móvel e congêneres.
+
+4.22 – Planos de medicina de grupo ou individual e convênios para prestação de assistência médica, hospitalar, odontológica e congêneres.
+
+4.23 – Outros planos de saúde que se cumpram através de serviços de terceiros contratados, credenciados, cooperados ou apenas pagos pelo operador do plano mediante indicação do beneficiário.
+
+5 – Serviços de medicina e assistência veterinária e congêneres.
+
+5.01 – Medicina veterinária e zootecnia.
+
+5.02 – Hospitais, clínicas, ambulatórios, prontos-socorros e congêneres, na área veterinária.
+
+5.03 – Laboratórios de análise na área veterinária.
+
+5.04 – Inseminação artificial, fertilização**in vitro**e congêneres.
+
+5.05 – Bancos de sangue e de órgãos e congêneres.
+
+5.06 – Coleta de sangue, leite, tecidos, sêmen, órgãos e materiais biológicos de qualquer espécie.
+
+5.07 – Unidade de atendimento, assistência ou tratamento móvel e congêneres.
+
+5.08 – Guarda, tratamento, amestramento, embelezamento, alojamento e congêneres.
+
+5.09 – Planos de atendimento e assistência médico-veterinária.
+
+6 – Serviços de cuidados pessoais, estética, atividades físicas e congêneres.
+
+6.01 – Barbearia, cabeleireiros, manicuros, pedicuros e congêneres.
+
+6.02 – Esteticistas, tratamento de pele, depilação e congêneres.
+
+6.03 – Banhos, duchas, sauna, massagens e congêneres.
+
+6.04 – Ginástica, dança, esportes, natação, artes marciais e demais atividades físicas.
+
+6.05 – Centros de emagrecimento,**spa**e congêneres.
+
+6.06 - Aplicação de tatuagens,**piercings**e congêneres.(Incluído pela Lei Complementar nº 157, de 2016)
+
+7 – Serviços relativos a engenharia, arquitetura, geologia, urbanismo, construção civil, manutenção, limpeza, meio ambiente, saneamento e congêneres.
+
+7.01 – Engenharia, agronomia, agrimensura, arquitetura, geologia, urbanismo, paisagismo e congêneres.
+
+7.02 – Execução, por administração, empreitada ou subempreitada, de obras de construção civil, hidráulica ou elétrica e de outras obras semelhantes, inclusive sondagem, perfuração de poços, escavação, drenagem e irrigação, terraplanagem, pavimentação, concretagem e a instalação e montagem de produtos, peças e equipamentos (exceto o fornecimento de mercadorias produzidas pelo prestador de serviços fora do local da prestação dos serviços, que fica sujeito ao ICMS).
+
+7.03 – Elaboração de planos diretores, estudos de viabilidade, estudos organizacionais e outros, relacionados com obras e serviços de engenharia; elaboração de anteprojetos, projetos básicos e projetos executivos para trabalhos de engenharia.
+
+7.04 – Demolição.
+
+7.05 – Reparação, conservação e reforma de edifícios, estradas, pontes, portos e congêneres (exceto o fornecimento de mercadorias produzidas pelo prestador dos serviços, fora do local da prestação dos serviços, que fica sujeito ao ICMS).
+
+7.06 – Colocação e instalação de tapetes, carpetes, assoalhos, cortinas, revestimentos de parede, vidros, divisórias, placas de gesso e congêneres, com material fornecido pelo tomador do serviço.
+
+7.07 – Recuperação, raspagem, polimento e lustração de pisos e congêneres.
+
+7.08 – Calafetação.
+
+7.09 – Varrição, coleta, remoção, incineração, tratamento, reciclagem, separação e destinação final de lixo, rejeitos e outros resíduos quaisquer.
+
+7.10 – Limpeza, manutenção e conservação de vias e logradouros públicos, imóveis, chaminés, piscinas, parques, jardins e congêneres.
+
+7.11 – Decoração e jardinagem, inclusive corte e poda de árvores.
+
+7.12 – Controle e tratamento de efluentes de qualquer natureza e de agentes físicos, químicos e biológicos.
+
+7.13 – Dedetização, desinfecção, desinsetização, imunização, higienização, desratização, pulverização e congêneres.
+
+7.14 –(VETADO)
+
+7.15 –(VETADO)
+
+7.16 – Florestamento, reflorestamento, semeadura, adubação e congêneres.
+
+7.16 - Florestamento, reflorestamento, semeadura, adubação, reparação de solo, plantio, silagem, colheita, corte e descascamento de árvores, silvicultura, exploração florestal e dos serviços congêneres indissociáveis da formação, manutenção e colheita de florestas, para quaisquer fins e por quaisquer meios.(Redação dada pela Lei Complementar nº 157, de 2016)
+
+7.17 – Escoramento, contenção de encostas e serviços congêneres.
+
+7.18 – Limpeza e dragagem de rios, portos, canais, baías, lagos, lagoas, represas, açudes e congêneres.
+
+7.19 – Acompanhamento e fiscalização da execução de obras de engenharia, arquitetura e urbanismo.
+
+7.20 – Aerofotogrametria (inclusive interpretação), cartografia, mapeamento, levantamentos topográficos, batimétricos, geográficos, geodésicos, geológicos, geofísicos e congêneres.
+
+7.21 – Pesquisa, perfuração, cimentação, mergulho, perfilagem, concretação, testemunhagem, pescaria, estimulação e outros serviços relacionados com a exploração e explotação de petróleo, gás natural e de outros recursos minerais.
+
+7.22 – Nucleação e bombardeamento de nuvens e congêneres.
+
+8 – Serviços de educação, ensino, orientação pedagógica e educacional, instrução, treinamento e avaliação pessoal de qualquer grau ou natureza.
+
+8.01 – Ensino regular pré-escolar, fundamental, médio e superior.
+
+8.02 – Instrução, treinamento, orientação pedagógica e educacional, avaliação de conhecimentos de qualquer natureza.
+
+9 – Serviços relativos a hospedagem, turismo, viagens e congêneres.
+
+9.01 – Hospedagem de qualquer natureza em hotéis,**apart-service**condominiais,**flat**, apart-hotéis, hotéis residência,**residence-service**,**suite service**, hotelaria marítima, motéis, pensões e congêneres; ocupação por temporada com fornecimento de serviço (o valor da alimentação e gorjeta, quando incluído no preço da diária, fica sujeito ao Imposto Sobre Serviços).
+
+9.02 – Agenciamento, organização, promoção, intermediação e execução de programas de turismo, passeios, viagens, excursões, hospedagens e congêneres.
+
+9.03 – Guias de turismo.
+
+10 – Serviços de intermediação e congêneres.
+
+10.01 – Agenciamento, corretagem ou intermediação de câmbio, de seguros, de cartões de crédito, de planos de saúde e de planos de previdência privada.
+
+10.02 – Agenciamento, corretagem ou intermediação de títulos em geral, valores mobiliários e contratos quaisquer.
+
+10.03 – Agenciamento, corretagem ou intermediação de direitos de propriedade industrial, artística ou literária.
+
+10.04 – Agenciamento, corretagem ou intermediação de contratos de arrendamento mercantil (**leasing**), de franquia (**franchising**) e de faturização (**factoring**).
+
+10.05 – Agenciamento, corretagem ou intermediação de bens móveis ou imóveis, não abrangidos em outros itens ou subitens, inclusive aqueles realizados no âmbito de Bolsas de Mercadorias e Futuros, por quaisquer meios.
+
+10.06 – Agenciamento marítimo.
+
+10.07 – Agenciamento de notícias.
+
+10.08 – Agenciamento de publicidade e propaganda, inclusive o agenciamento de veiculação por quaisquer meios.
+
+10.09 – Representação de qualquer natureza, inclusive comercial.
+
+10.10 – Distribuição de bens de terceiros.
+
+11 – Serviços de guarda, estacionamento, armazenamento, vigilância e congêneres.
+
+11.01 – Guarda e estacionamento de veículos terrestres automotores, de aeronaves e de embarcações.
+
+11.02 – Vigilância, segurança ou monitoramento de bens e pessoas.
+
+11.02 - Vigilância, segurança ou monitoramento de bens, pessoas e semoventes.(Redação dada pela Lei Complementar nº 157, de 2016)
+
+11.03 – Escolta, inclusive de veículos e cargas.
+
+11.04 – Armazenamento, depósito, carga, descarga, arrumação e guarda de bens de qualquer espécie.
+
+12 – Serviços de diversões, lazer, entretenimento e congêneres.
+
+12.01 – Espetáculos teatrais.
+
+12.02 – Exibições cinematográficas.
+
+12.03 – Espetáculos circenses.
+
+12.04 – Programas de auditório.
+
+12.05 – Parques de diversões, centros de lazer e congêneres.
+
+12.06 – Boates,**taxi-dancing**e congêneres.
+
+12.07 –**Shows**_,_**ballet**, danças, desfiles, bailes, óperas, concertos, recitais, festivais e congêneres.
+
+12.08 – Feiras, exposições, congressos e congêneres.
+
+12.09 – Bilhares, boliches e diversões eletrônicas ou não.
+
+12.10 – Corridas e competições de animais.
+
+12.11 – Competições esportivas ou de destreza física ou intelectual, com ou sem a participação do espectador.
+
+12.12 – Execução de música.
+
+12.13 – Produção, mediante ou sem encomenda prévia, de eventos, espetáculos, entrevistas,**shows**_,_**ballet**, danças, desfiles, bailes, teatros, óperas, concertos, recitais, festivais e congêneres.
+
+12.14 – Fornecimento de música para ambientes fechados ou não, mediante transmissão por qualquer processo.
+
+12.15 – Desfiles de blocos carnavalescos ou folclóricos, trios elétricos e congêneres.
+
+12.16 – Exibição de filmes, entrevistas, musicais, espetáculos,**shows**, concertos, desfiles, óperas, competições esportivas, de destreza intelectual ou congêneres.
+
+12.17 – Recreação e animação, inclusive em festas e eventos de qualquer natureza.
+
+13 – Serviços relativos a fonografia, fotografia, cinematografia e reprografia.
+
+13.01 –(VETADO)
+
+13.02 – Fonografia ou gravação de sons, inclusive trucagem, dublagem, mixagem e congêneres.
+
+13.03 – Fotografia e cinematografia, inclusive revelação, ampliação, cópia, reprodução, trucagem e congêneres.
+
+13.04 – Reprografia, microfilmagem e digitalização.
+
+13.05 – Composição gráfica, fotocomposição, clicheria, zincografia, litografia, fotolitografia.
+
+13.05 - Composição gráfica, inclusive confecção de impressos gráficos, fotocomposição, clicheria, zincografia, litografia e fotolitografia, exceto se destinados a posterior operação de comercialização ou industrialização, ainda que incorporados, de qualquer forma, a outra mercadoria que deva ser objeto de posterior circulação, tais como bulas, rótulos, etiquetas, caixas, cartuchos, embalagens e manuais técnicos e de instrução, quando ficarão sujeitos ao ICMS.(Redação dada pela Lei Complementar nº 157, de 2016)
+
+14 – Serviços relativos a bens de terceiros.
+
+14.01 – Lubrificação, limpeza, lustração, revisão, carga e recarga, conserto, restauração, blindagem, manutenção e conservação de máquinas, veículos, aparelhos, equipamentos, motores, elevadores ou de qualquer objeto (exceto peças e partes empregadas, que ficam sujeitas ao ICMS).
+
+14.02 – Assistência técnica.
+
+14.03 – Recondicionamento de motores (exceto peças e partes empregadas, que ficam sujeitas ao ICMS).
+
+14.04 – Recauchutagem ou regeneração de pneus.
+
+14.05 – Restauração, recondicionamento, acondicionamento, pintura, beneficiamento, lavagem, secagem, tingimento, galvanoplastia, anodização, corte, recorte, polimento, plastificação e congêneres, de objetos quaisquer.
+
+14.05 - Restauração, recondicionamento, acondicionamento, pintura, beneficiamento, lavagem, secagem, tingimento, galvanoplastia, anodização, corte, recorte, plastificação, costura, acabamento, polimento e congêneres de objetos quaisquer.(Redação dada pela Lei Complementar nº 157, de 2016)
+
+14.06 – Instalação e montagem de aparelhos, máquinas e equipamentos, inclusive montagem industrial, prestados ao usuário final, exclusivamente com material por ele fornecido.
+
+14.07 – Colocação de molduras e congêneres.
+
+14.08 – Encadernação, gravação e douração de livros, revistas e congêneres.
+
+14.09 – Alfaiataria e costura, quando o material for fornecido pelo usuário final, exceto aviamento.
+
+14.10 – Tinturaria e lavanderia.
+
+14.11 – Tapeçaria e reforma de estofamentos em geral.
+
+14.12 – Funilaria e lanternagem.
+
+14.13 – Carpintaria e serralheria.
+
+14.14 - Guincho intramunicipal, guindaste e içamento.(Redação dada pela Lei Complementar nº 157, de 2016)
+
+15 – Serviços relacionados ao setor bancário ou financeiro, inclusive aqueles prestados por instituições financeiras autorizadas a funcionar pela União ou por quem de direito.
+
+15.01 – Administração de fundos quaisquer, de consórcio, de cartão de crédito ou débito e congêneres, de carteira de clientes, de cheques pré-datados e congêneres.
+
+15.02 – Abertura de contas em geral, inclusive conta-corrente, conta de investimentos e aplicação e caderneta de poupança, no País e no exterior, bem como a manutenção das referidas contas ativas e inativas.
+
+15.03 – Locação e manutenção de cofres particulares, de terminais eletrônicos, de terminais de atendimento e de bens e equipamentos em geral.
+
+15.04 – Fornecimento ou emissão de atestados em geral, inclusive atestado de idoneidade, atestado de capacidade financeira e congêneres.
+
+15.05 – Cadastro, elaboração de ficha cadastral, renovação cadastral e congêneres, inclusão ou exclusão no Cadastro de Emitentes de Cheques sem Fundos – CCF ou em quaisquer outros bancos cadastrais.
+
+15.06 – Emissão, reemissão e fornecimento de avisos, comprovantes e documentos em geral; abono de firmas; coleta e entrega de documentos, bens e valores; comunicação com outra agência ou com a administração central; licenciamento eletrônico de veículos; transferência de veículos; agenciamento fiduciário ou depositário; devolução de bens em custódia.
+
+15.07 – Acesso, movimentação, atendimento e consulta a contas em geral, por qualquer meio ou processo, inclusive por telefone, fac-símile, internet e telex, acesso a terminais de atendimento, inclusive vinte e quatro horas; acesso a outro banco e a rede compartilhada; fornecimento de saldo, extrato e demais informações relativas a contas em geral, por qualquer meio ou processo.
+
+15.08 – Emissão, reemissão, alteração, cessão, substituição, cancelamento e registro de contrato de crédito; estudo, análise e avaliação de operações de crédito; emissão, concessão, alteração ou contratação de aval, fiança, anuência e congêneres; serviços relativos a abertura de crédito, para quaisquer fins.
+
+15.09 – Arrendamento mercantil (**leasing**) de quaisquer bens, inclusive cessão de direitos e obrigações, substituição de garantia, alteração, cancelamento e registro de contrato, e demais serviços relacionados ao arrendamento mercantil (**leasing**).
+
+15.10 – Serviços relacionados a cobranças, recebimentos ou pagamentos em geral, de títulos quaisquer, de contas ou carnês, de câmbio, de tributos e por conta de terceiros, inclusive os efetuados por meio eletrônico, automático ou por máquinas de atendimento; fornecimento de posição de cobrança, recebimento ou pagamento; emissão de carnês, fichas de compensação, impressos e documentos em geral.
+
+15.11 – Devolução de títulos, protesto de títulos, sustação de protesto, manutenção de títulos, reapresentação de títulos, e demais serviços a eles relacionados.
+
+15.12 – Custódia em geral, inclusive de títulos e valores mobiliários.
+
+15.13 – Serviços relacionados a operações de câmbio em geral, edição, alteração, prorrogação, cancelamento e baixa de contrato de câmbio; emissão de registro de exportação ou de crédito; cobrança ou depósito no exterior; emissão, fornecimento e cancelamento de cheques de viagem; fornecimento, transferência, cancelamento e demais serviços relativos a carta de crédito de importação, exportação e garantias recebidas; envio e recebimento de mensagens em geral relacionadas a operações de câmbio.
+
+15.14 – Fornecimento, emissão, reemissão, renovação e manutenção de cartão magnético, cartão de crédito, cartão de débito, cartão salário e congêneres.
+
+15.15 – Compensação de cheques e títulos quaisquer; serviços relacionados a depósito, inclusive depósito identificado, a saque de contas quaisquer, por qualquer meio ou processo, inclusive em terminais eletrônicos e de atendimento.
+
+15.16 – Emissão, reemissão, liquidação, alteração, cancelamento e baixa de ordens de pagamento, ordens de crédito e similares, por qualquer meio ou processo; serviços relacionados à transferência de valores, dados, fundos, pagamentos e similares, inclusive entre contas em geral.
+
+15.17 – Emissão, fornecimento, devolução, sustação, cancelamento e oposição de cheques quaisquer, avulso ou por talão.
+
+15.18 – Serviços relacionados a crédito imobiliário, avaliação e vistoria de imóvel ou obra, análise técnica e jurídica, emissão, reemissão, alteração, transferência e renegociação de contrato, emissão e reemissão do termo de quitação e demais serviços relacionados a crédito imobiliário.
+
+16 – Serviços de transporte de natureza municipal.
+
+16.01 – Serviços de transporte de natureza municipal.
+
+16.01 - Serviços de transporte coletivo municipal rodoviário, metroviário, ferroviário e aquaviário de passageiros.(Redação dada pela Lei Complementar nº 157, de 2016)
+
+16.02 - Outros serviços de transporte de natureza municipal.(Incluído pela Lei Complementar nº 157, de 2016)
+
+17 – Serviços de apoio técnico, administrativo, jurídico, contábil, comercial e congêneres.
+
+17.01 – Assessoria ou consultoria de qualquer natureza, não contida em outros itens desta lista; análise, exame, pesquisa, coleta, compilação e fornecimento de dados e informações de qualquer natureza, inclusive cadastro e similares.
+
+17.02 – Datilografia, digitação, estenografia, expediente, secretaria em geral, resposta audível, redação, edição, interpretação, revisão, tradução, apoio e infra-estrutura administrativa e congêneres.
+
+17.03 – Planejamento, coordenação, programação ou organização técnica, financeira ou administrativa.
+
+17.04 – Recrutamento, agenciamento, seleção e colocação de mão-de-obra.
+
+17.05 – Fornecimento de mão-de-obra, mesmo em caráter temporário, inclusive de empregados ou trabalhadores, avulsos ou temporários, contratados pelo prestador de serviço.
+
+17.06 – Propaganda e publicidade, inclusive promoção de vendas, planejamento de campanhas ou sistemas de publicidade, elaboração de desenhos, textos e demais materiais publicitários.
+
+17.07 –(VETADO)
+
+17.08 – Franquia (**franchising**).
+
+17.09 – Perícias, laudos, exames técnicos e análises técnicas.
+
+17.10 – Planejamento, organização e administração de feiras, exposições, congressos e congêneres.
+
+17.11 – Organização de festas e recepções; bufê (exceto o fornecimento de alimentação e bebidas, que fica sujeito ao ICMS).
+
+17.12 – Administração em geral, inclusive de bens e negócios de terceiros.
+
+17.13 – Leilão e congêneres.
+
+17.14 – Advocacia.
+
+17.15 – Arbitragem de qualquer espécie, inclusive jurídica.
+
+17.16 – Auditoria.
+
+17.17 – Análise de Organização e Métodos.
+
+17.18 – Atuária e cálculos técnicos de qualquer natureza.
+
+17.19 – Contabilidade, inclusive serviços técnicos e auxiliares.
+
+17.20 – Consultoria e assessoria econômica ou financeira.
+
+17.21 – Estatística.
+
+17.22 – Cobrança em geral.
+
+17.23 – Assessoria, análise, avaliação, atendimento, consulta, cadastro, seleção, gerenciamento de informações, administração de contas a receber ou a pagar e em geral, relacionados a operações de faturização (**factoring**).
+
+17.24 – Apresentação de palestras, conferências, seminários e congêneres.
+
+17.25 - Inserção de textos, desenhos e outros materiais de propaganda e publicidade, em qualquer meio (exceto em livros, jornais, periódicos e nas modalidades de serviços de radiodifusão sonora e de sons e imagens de recepção livre e gratuita).(Incluído pela Lei Complementar nº 157, de 2016)
+
+18 – Serviços de regulação de sinistros vinculados a contratos de seguros; inspeção e avaliação de riscos para cobertura de contratos de seguros; prevenção e gerência de riscos seguráveis e congêneres.
+
+18.01 - Serviços de regulação de sinistros vinculados a contratos de seguros; inspeção e avaliação de riscos para cobertura de contratos de seguros; prevenção e gerência de riscos seguráveis e congêneres.
+
+19 – Serviços de distribuição e venda de bilhetes e demais produtos de loteria, bingos, cartões, pules ou cupons de apostas, sorteios, prêmios, inclusive os decorrentes de títulos de capitalização e congêneres.
+
+19.01 - Serviços de distribuição e venda de bilhetes e demais produtos de loteria, bingos, cartões, pules ou cupons de apostas, sorteios, prêmios, inclusive os decorrentes de títulos de capitalização e congêneres.
+
+20 – Serviços portuários, aeroportuários, ferroportuários, de terminais rodoviários, ferroviários e metroviários.
+
+20.01 – Serviços portuários, ferroportuários, utilização de porto, movimentação de passageiros, reboque de embarcações, rebocador escoteiro, atracação, desatracação, serviços de praticagem, capatazia, armazenagem de qualquer natureza, serviços acessórios, movimentação de mercadorias, serviços de apoio marítimo, de movimentação ao largo, serviços de armadores, estiva, conferência, logística e congêneres.
+
+20.02 – Serviços aeroportuários, utilização de aeroporto, movimentação de passageiros, armazenagem de qualquer natureza, capatazia, movimentação de aeronaves, serviços de apoio aeroportuários, serviços acessórios, movimentação de mercadorias, logística e congêneres.
+
+20.03 – Serviços de terminais rodoviários, ferroviários, metroviários, movimentação de passageiros, mercadorias, inclusive suas operações, logística e congêneres.
+
+21 – Serviços de registros públicos, cartorários e notariais.
+
+21.01 - Serviços de registros públicos, cartorários e notariais.
+
+22 – Serviços de exploração de rodovia.
+
+22.01 – Serviços de exploração de rodovia mediante cobrança de preço ou pedágio dos usuários, envolvendo execução de serviços de conservação, manutenção, melhoramentos para adequação de capacidade e segurança de trânsito, operação, monitoração, assistência aos usuários e outros serviços definidos em contratos, atos de concessão ou de permissão ou em normas oficiais.
+
+23 – Serviços de programação e comunicação visual, desenho industrial e congêneres.
+
+23.01 – Serviços de programação e comunicação visual, desenho industrial e congêneres.
+
+24 – Serviços de chaveiros, confecção de carimbos, placas, sinalização visual,**banners**, adesivos e congêneres.
+
+24.01 - Serviços de chaveiros, confecção de carimbos, placas, sinalização visual,**banners**, adesivos e congêneres.
+
+25 - Serviços funerários.
+
+25.01 – Funerais, inclusive fornecimento de caixão, urna ou esquifes; aluguel de capela; transporte do corpo cadavérico; fornecimento de flores, coroas e outros paramentos; desembaraço de certidão de óbito; fornecimento de véu, essa e outros adornos; embalsamento, embelezamento, conservação ou restauração de cadáveres.
+
+25.02 – Cremação de corpos e partes de corpos cadavéricos.
+
+25.02 - Translado intramunicipal e cremação de corpos e partes de corpos cadavéricos.(Redação dada pela Lei Complementar nº 157, de 2016)
+
+25.03 – Planos ou convênio funerários.
+
+25.04 – Manutenção e conservação de jazigos e cemitérios.
+
+25.05 - Cessão de uso de espaços em cemitérios para sepultamento.(Incluído pela Lei Complementar nº 157, de 2016)
+
+26 – Serviços de coleta, remessa ou entrega de correspondências, documentos, objetos, bens ou valores, inclusive pelos correios e suas agências franqueadas;**courrier**e congêneres.
+
+26.01 – Serviços de coleta, remessa ou entrega de correspondências, documentos, objetos, bens ou valores, inclusive pelos correios e suas agências franqueadas;**courrier**e congêneres.
+
+27 – Serviços de assistência social.
+
+27.01 – Serviços de assistência social.
+
+28 – Serviços de avaliação de bens e serviços de qualquer natureza.
+
+28.01 – Serviços de avaliação de bens e serviços de qualquer natureza.
+
+29 – Serviços de biblioteconomia.
+
+29.01 – Serviços de biblioteconomia.
+
+30 – Serviços de biologia, biotecnologia e química.
+
+30.01 – Serviços de biologia, biotecnologia e química.
+
+31 – Serviços técnicos em edificações, eletrônica, eletrotécnica, mecânica, telecomunicações e congêneres.
+
+31.01 - Serviços técnicos em edificações, eletrônica, eletrotécnica, mecânica, telecomunicações e congêneres.
+
+32 – Serviços de desenhos técnicos.
+
+32.01 - Serviços de desenhos técnicos.
+
+33 – Serviços de desembaraço aduaneiro, comissários, despachantes e congêneres.
+
+33.01 - Serviços de desembaraço aduaneiro, comissários, despachantes e congêneres.
+
+34 – Serviços de investigações particulares, detetives e congêneres.
+
+34.01 - Serviços de investigações particulares, detetives e congêneres.
+
+35 – Serviços de reportagem, assessoria de imprensa, jornalismo e relações públicas.
+
+35.01 - Serviços de reportagem, assessoria de imprensa, jornalismo e relações públicas.
+
+36 – Serviços de meteorologia.
+
+36.01 – Serviços de meteorologia.
+
+37 – Serviços de artistas, atletas, modelos e manequins.
+
+37.01 - Serviços de artistas, atletas, modelos e manequins.
+
+38 – Serviços de museologia.
+
+38.01 – Serviços de museologia.
+
+39 – Serviços de ourivesaria e lapidação.
+
+39.01 - Serviços de ourivesaria e lapidação (quando o material for fornecido pelo tomador do serviço).
+
+40 – Serviços relativos a obras de arte sob encomenda.
+
+40.01 - Obras de arte sob encomenda.
+
+**Publicado por:**
+
+Jucimar Chagas
+
+**Código Identificador:**A3D1FFCF
