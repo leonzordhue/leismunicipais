@@ -1,0 +1,48 @@
+---
+titulo: "LEI MUNICIPAL N.º 356/16, DE 05 DE DEZEMBRO DE2016"
+uf: "AM"
+municipio: "Envira"
+tipo: "Lei Ordinária"
+numero: "356"
+ano: "2016"
+ementa: "DE 05 DE DEZEMBRO DE2016"
+entidade: "Município de Envira"
+orgao: "CÂMARA MUNICIPAL DE ENVIRA"
+publicacao: "DOM-AAM ed. 1747"
+data_publicacao: 2016-12-09
+fonte: "https://www.diariomunicipal.com.br/aam/materia/FEFEDD0B"
+codigo_sigpub: "FEFEDD0B"
+versao_texto: "original (publicação no DOM-AAM)"
+baixado_em: 2026-10-15
+---
+# LEI MUNICIPAL N.º 356/16, DE 05 DE DEZEMBRO DE2016
+
+CÂMARA MUNICIPAL DE ENVIRA
+
+LEI MUNICIPAL N.º 356/16, DE 05 DE DEZEMBRO DE2016
+
+CONCEDE Título de Cidadão Envirense ao Senhor RAIMUNDO NONATO CUNHA DE OLIVEIRA, e dá outras providências.
+
+**O PRESIDENTE DA CAMARA MUNICIPAL DE ENVIRA, **Vereador **RAIMUNDO LIRA DE CASTRO, **no uso de suas atribuições que lhes são conferidas pelo Inciso XVIII, artigo 24 da Lei Orgânica e inciso XII artigo 64 do Regimento Interno da Câmara Municipal, comunica a todos os habitantes que a Câmara Municipal aprovou a seguinte,
+
+**LEI:**
+
+** Art. 1º - FICA** o Poder Legislativo de Envira autorizado a Conceder Título de Cidadão Envirense ao Senhor **RAIMUNDO NONATO CUNHA DE OLIVEIRA**, pelos relevantes serviços prestados a esta comunidade envirense.
+
+**Art. 2º - **Esta Lei entra em vigor na data de sua publicação, revogando-se as disposições em contrário.
+
+** GABINETE DO PRESIDENTE DA CÂMARA MUNICIPAL DE ENVIRA**, aos 05 dias do mês de dezembro do ano de 2016.
+
+**_
+
+VER. RAIMUNDO LIRA DE CASTRO
+
+_**
+
+Presidente da Câmara Municipal de Envira
+
+**Publicado por:**
+
+Antonio Iago de Castro Lima
+
+**Código Identificador:**FEFEDD0B

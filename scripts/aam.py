@@ -249,7 +249,7 @@ def baixar():
     nomes = dict(entidades())
     os.makedirs(SAIDA, exist_ok=True)
     falhas = open(os.path.join(SAIDA, "_falhas.jsonl"), "a", encoding="utf-8")
-    t0, n = time.time(), 0
+    pendentes = []
     for d, (tipo, pasta) in alvos:
         ent = nomes.get(d["entidade_id"], d["entidade"])  # o cartão às vezes vem em MAIÚSCULAS; a lista não
         mun = re.sub(r"^(Município de|Câmara Municipal de)\s+", "", ent, flags=re.I)
@@ -259,8 +259,12 @@ def baixar():
         ano = ano or data_pub[:4] or "sem-ano"
         nome = f"{slug(tipo).split('-')[0]}-{num or 'sn'}-{ano}-{d['codigo']}.md"
         destino = os.path.join(SAIDA, slug(mun), pasta, ano, nome)
-        if os.path.exists(destino):
-            continue
+        if not os.path.exists(destino):
+            pendentes.append((d, tipo, ent, mun, num, ano, data_pub, destino))
+    feitas, total = len(alvos) - len(pendentes), len(alvos)
+    print(f"já baixadas: {feitas}; faltam: {len(pendentes)}\n", flush=True)
+    t0, n, nfalhas = time.time(), 0, 0
+    for d, tipo, ent, mun, num, ano, data_pub, destino in pendentes:
         try:
             pag = get(f"{SITE}/aam/download/materia/{d['codigo']}")
             time.sleep(PAUSA)
@@ -270,6 +274,8 @@ def baixar():
         except Exception as e:
             falhas.write(json.dumps({"codigo": d["codigo"], "titulo": d["titulo"], "erro": str(e)}, ensure_ascii=False) + "\n")
             falhas.flush()
+            nfalhas += 1
+            progresso(f"✗ {mun} — {d['titulo']} ({e})", feitas + n, total, n, len(pendentes), t0, nfalhas)
             continue
         cab = [
             "---",
@@ -296,13 +302,48 @@ def baixar():
         with open(destino, "w", encoding="utf-8", newline="\n") as f:
             f.write("\n".join(cab) + "\n" + corpo + "\n")
         n += 1
+        progresso(f"✓ {mun} — {d['titulo']}", feitas + n, total, n, len(pendentes), t0, nfalhas)
         if n % 200 == 0:
-            print(f"  {n} leis gravadas ({time.time() - t0:.0f} s)", flush=True)
-    print(f"pronto: {n} leis novas", flush=True)
+            with open(os.path.join(INDICE, "baixar.log"), "a", encoding="utf-8") as lg:
+                lg.write(f"{time.strftime('%H:%M')} {feitas + n}/{total} leis ({nfalhas} falhas)\n")
+    sys.stdout.write("\x1b[r")  # devolve a tela inteira para rolagem normal
+    print(f"\npronto: {n} leis novas, {nfalhas} falhas", flush=True)
+
+
+_TELA = {}
+
+
+def progresso(linha, feito, total, n, pend, t0, nfalhas):
+    """Barra fixa no topo (linhas 1-3) e as leis rolando embaixo: região de rolagem ANSI (\\x1b[4;Hr)."""
+    import shutil
+    w, h = shutil.get_terminal_size((120, 30))
+    if _TELA.get("h") != h:  # 1ª chamada ou janela redimensionada: (re)monta a região de rolagem
+        _TELA["h"] = h
+        sys.stdout.write(f"\x1b[2J\x1b[4;{h}r\x1b[{h};1H")
+    larg = max(20, min(60, w - 60))
+    pct = feito / total if total else 1
+    cheio = int(larg * pct)
+    seg = (time.time() - t0) / n * (pend - n) if n else 0
+    eta = f"{int(seg // 3600)}h{int(seg % 3600 // 60):02d}" if seg >= 3600 else f"{int(seg // 60)} min"
+    cor = "\x1b[32m" if linha.startswith("✓") else "\x1b[31m"
+    sys.stdout.write(
+        f"{cor}{linha[:w - 1]}\x1b[0m\n"                                   # rola dentro da região
+        "\x1b7"                                                            # guarda o cursor
+        f"\x1b[1;1H\x1b[K\x1b[1;97;44m  LEIS MUNICIPAIS DO AM — Diário Oficial da AAM  \x1b[0m"
+        f"\x1b[2;1H\x1b[K \x1b[94m{'█' * cheio}\x1b[90m{'░' * (larg - cheio)}\x1b[0m "
+        f"\x1b[1m{pct:.1%}\x1b[0m  {feito}/{total} leis · faltam ~{eta} · falhas: {nfalhas}"
+        f"\x1b[3;1H\x1b[K\x1b[90m{'─' * (w - 1)}\x1b[0m"
+        "\x1b8")                                                           # volta para a região
+    sys.stdout.flush()
 
 
 if __name__ == "__main__":
+    os.system("")  # liga as cores ANSI no console do Windows
+    if hasattr(sys.stdout, "reconfigure"):
+        sys.stdout.reconfigure(encoding="utf-8")
     etapa = sys.argv[1] if len(sys.argv) > 1 else ""
+    if etapa in ("baixar", "tudo"):
+        os.system("title Leis municipais do AM - baixando")
     if etapa in ("indice", "tudo"):
         indice(sys.argv[2] if len(sys.argv) > 2 else "")
     if etapa in ("baixar", "tudo"):
