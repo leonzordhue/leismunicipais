@@ -41,7 +41,7 @@ except ImportError:
 PAUSA = 0.5
 UA = {"User-Agent": "Mozilla/5.0 (leismunicipais; acervo publico de leis do AM; github.com/leonzordhue/leismunicipais)"}
 MAX_OCR = 30  # páginas com OCR por lei; ~5 s por página
-TESSDATA = next((p for p in (os.environ.get("TESSDATA_PREFIX"), r"C:\Program Files\Tesseract-OCR\tessdata")
+TESSDATA = next((p for p in (os.environ.get("TESSDATA_PREFIX"), os.path.expanduser(r"~\tessdata"), r"C:\Program Files\Tesseract-OCR\tessdata")
                  if p and os.path.exists(os.path.join(p, "por.traineddata"))), None)
 
 HOSTS = {  # slug -> (nome do município, SAPL)
