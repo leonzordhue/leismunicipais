@@ -1,0 +1,122 @@
+---
+titulo: "Emenda à Loman nº 6, de 21 de fevereiro de 1995"
+uf: "AM"
+municipio: "Manaus"
+tipo: "Emenda à Lei Orgânica"
+numero: "6"
+ano: "1994"
+data: 1995-02-21
+ementa: "MODIFICA o Parágrafo Único, do Art. 270 da Lei Orgânica do Município de Manaus, que tem a seguinte redação."
+entidade: "Câmara Municipal de Manaus"
+tipo_sapl: "Emenda à Loman"
+publicacao: "DOE"
+data_publicacao: 1995-03-02
+fonte: "https://sapl.cmm.am.gov.br/norma/6518"
+arquivo: "https://sapl.cmm.am.gov.br/media/sapl/public/normajuridica/1994/6518/emenda_a_loman_n_006_1994_de_21_fev_1995.pdf"
+sapl_id: 6518
+versao_texto: "texto do PDF cadastrado no SAPL, com OCR nas páginas digitalizadas (pode ter erros)"
+baixado_em: 2026-10-16
+---
+# Emenda à Loman nº 6, de 21 de fevereiro de 1995
+
+_MODIFICA o Parágrafo Único, do Art. 270 da Lei Orgânica do Município de Manaus, que tem a seguinte redação._
+
+CÂMARA MUNICIPAL DE MANAUS
+
+DIRETORIA LEGISLATIVA
+
+FAÇO SABER que a Câmara Municipal de Manaus aprovou, e eu PROMULGO, nos termos dos Artigos 133, 220, parágrafo 3.º, do Regimento Interno, Artigo 57, parágrafo 2.°, da Lei Orgânica do Município de Manaus, a seguinte:
+
+EMENDA À LOMAN N. 006/94. (DOE 02.03.1995 – N. 28.143, ANO CI)
+
+MODIFICA o Parágrafo único, do Art. 270 da Lei Orgânica do Município de Manaus, que tem a seguinte redação:
+
+Parágrafo único. O passe de que trata o “caput” deste artigo tem sua utilização regulamentada por lei e sua venda se procederá sem qualquer desconto nas agências bancárias oficiais, passará a ter a seguinte forma:
+
+Art. 270. ......................................................................................................... Parágrafo único. O passe de que trata o “caput” deste artigo terá sua utilização regulamentada por lei.
+
+Manaus, 21 de fevereiro de 1995.
+
+Ver. MAURÍCIO G. DE MOURA C. FILHO
+
+Presidente, em exercício
+
+Ver. MIGUEL CARRATE NETO
+
+2.° Vice-Presidente Ver.ª ROSALINE PINHEIRO DE LIMA
+
+1.ª Secretária Ver. FLAVIANO BIVÂQUA
+
+2.º Secretário Este texto não substitui o publicado no DOE de 02.03.1995 – Edição n. 28.143, Ano CI.
+
+REPUBLICA FEDERATIVA DO BRASIL ENA di ESTADO DO AMAZONAS
+
+Manaus, quinta-feira, Número 28.143 cesemesasensas — ) NIUNICIPALIDADES Anoe!
+
+UFM, com recolhimento em Quota Única ou em O7 DECRETO DE 24 DE FEVEREIRO DE 1995 nr (sete) Parcelas, com vencimento nas seguintes Prefeitura Municipal! datas: de Manaus 1 - Quota Única 31.03.95 | O PREFEITO MUNICIPAL DE MANAUS, no exer 11 - Primeira Parcela 31.03.95 |cicio da competencia que lhe outorga o inciso 1 Carcaça a aaa III - Segunda Parcela 28.04.95 do artigo 128 da LEI ORGÂNICA DO MUNICÍPIO, e LEI Nº 278, DEI4 DE — FEVEREIRO — DE 1995 1V — Terceira Farceila 31.05.25 CONSIDERANDO o que consta do Ofício nº ' Y = Quarta Parcela 20-06: [013/95 - GM, de 25.01.85, Resolve VI - Quinta Parcela 28.08.95 TO SA AUTORIZAo Poder Executivo a VII - Sexta Parcela 31.08.95 criar o orgao que especifica. VIII - Setima Parcela 20.09.95 Parágrafo Único - A Quota Única con À
+
+: = 1 - DISPENSAR, a contar de 1º.01.95, o O PREFEITO MUNICIPAL DE MANAUS, no tera um desconto de 20% (vinte por cento), SC |sr. JARBAS ROCHA DA COSTA, da Função de —Presi uso das atribuições que lhe são conferidas pe |oste artigo. 5 ida no inciso dente da Junta do Serviço Militar, lo artigo 80, inciso IV, da LEI ORGANICA DO MU A ” Fi , II - DESIGNAR o Sr. WILSON MARTINS DE NICÍPIO, o 2.672, ddtbs do Tanosa Tauogado o, PECreto |ARAÚJO, para exercer, a contar de 12.01.95, a FAÇO SABER que o Poder Legislativo |9;ssósicões DD LTArIO. e 1995, e demais |runção de Presidente da Junta de Serviço —Mili decretou e eu sanciono à seguinte isposiçoes em contrario. . tar, nos termos do $ 4º do artigo 29 do Decreto Art. 3º - Este Decreto entrara em |Federal nº 57.654, de 20.01.66 - Regulamento da vigor na data de sua pufilicaçao. Lei do Serviço Milktar. L E TI:
+
+anaus, 24 jde fevereiro de 1995 Màânaus, de fevereiro de 1995
+
+? Art. 1º - Fica o Chefe do Poder Exe cutivo autorizado a criar o Conselho do Orça Â mento Participativo, com funçoes deliberativas, |
+
+'
+
+destinado a tornar efetiva a participação da / UR WA / comunidade na elaboração e execução da Lei Or LOS EDUARDO DE SOUZA BRÁG. Ú CARLOS EDUARDO DE SOU BRAGA çamentaria. Prefeito Municipal de Mána Prefeito Municipal d&/Manaus
+
+, — Parágrafo Único - O Conselho será / constituido obrigatoriamente de representantes ZA - ' h das entidades mencionadas no$ 1º do artigo 125 SIT TITA y “ ter Atx CO da Constituição Estadual, alem de outras. 18) EX ABRAM DACI DELIMA OKADA Ns . Art. 2º - Esta Lei entrará em vi Sécretari6/Mâmicipal de Economia Secretário-Chefé do Gabinete MÍlitar gor na data de sua publicação, revogadas as Finanga À disposições em contrarib. j (a e. > Manaus, 14) de fevereiro de 1995 y CARLOS AL A ru RETIRA - N VOA Secretárig Municipal de Administração, Pá CARLOS SAL | PERHIRA . em exercicio Secretário Municipál de Administração, em exercicio ft
+
+— Y
+
+. “ARLOS "ÉDUARDO DE SOUZA BRAGA ! A FAT.) 06 42 ; Prefeito Municipal de Mayaus GE42
+
+ELSON RODRIGUES DE ANDRADE ———,—y DECRETO DE 24 DE FEVEREIRO DE 1995 Procurador+ al do Município DECRETO DE 24 DE FEVEREIRO DE 1995
+
+.
+
+'
+
+, O PREFEITO MUNICIPAL DE MANAUS, no exer — é à icio da competencia que lhe conferem os arti JosÉ S PÁCÍFICO , O PREFEITO MUNICIPAL DE MANAUS, no exer |Ccicio da com h À E Secre ó-Chefe do Gabinete Civil cÍcio da competência que lhe outorga o inciso |&0S 80, inciso XT, e 128, inciso 1, da Lei Orgã I do artigo 128 da LEI ORGÂNICA DO MUNICÍPIO, |nica do Município, resolve
+
+e 07 CONSIDERANDO o que consta do Ofício nº asd
+
+/ / 082/95 - GS/SEMEF, de 14.02.95, resolve SHWER
+
+A IM L — EXONERAR, a pedido, nos termos do arti Secretario Fcipal de Economia go 103, $ 1º, inciso 1, da Lei nº 1.118, de e Finahças ines ; |1º.9.71 (Estatuto dos Servidores Publicos do Mu
+
+: NOMEAR, nos termos do inciso IT do arti |n;cípio de Manaus), o Sr, MÁRIO ADOLFO ARYCE DE
+
+s go 11 da Lei nº 1.118, de 1º.9.71 (Estatuto |CastTRO, d d f de S tário M [2 Far. | 0642 dos Servidores Públicos do Município de Manaus), |CASTRO, do cargo de confiança de Secretario “u a servidora ROSANIRA BANDEIRA MAIA, para exer nicipal de Comunicação Social, a contar de cer, a contar de 1º.02.95, o cargo em comissão, 1º.03.95. simbolo CC-1, de Diretor do Departamento de Ad ministração Financeira da Secretaria de Econo Mánaus, de fevereiro de 1995 mia e Finanças, criado pela Lei nº 124/92, al DECRETO Nº2.6866 DE 24 DE FEVEREIRO DE 1995 [terado pela Lei nº 205, de 15.7.93.
+
+naus,| (24 d fevereiro de 1995 REGULAMENTA o lançamento do Wo Imposto Sobre a Propriedade 'ARLOS DUARDO DE SOUZ RAGA Predial e Territorial Urba Prefeito Municipal de, naus
+
+na e Taxas de Serviços Pu o. blicos d ici o q — icos do exerciciode 1995 CARLOS EDUARDO DE SOUZA ÉRAGA à Fat.| 3642 Prefeito Municipal de ManáAus
+
+:
+
+O PREFEITO MUNICIPAL DE MANAUS,usan do de atribuiçoes que lhe sao conferidas pelo P—— inciso IV, do artigo 80 e inciso I, do artigo PAMO 128 da Lei Organica do Municipio de Manaus, e És A IM LM DECRETO DE 24 DE FEVEREIRO DE 1995 CONSIDERANDO o disposto nos artigos [eCpétanio Múnicipal de Economia 17, 18, 45 e 48d i nº 1.697, 2. 1 DOE a Lei nº 1,697, de 20.12.83,
+
+.— O PREFEITO MUNICIPAL DE MANAUS, no exer OD cicio da competencia que lhe conferem os ar a” tigos 80, inciso IX, e 128, inciso I, da Lei DECRETA: T Organica do Municipio, resolve CARLOS ALBERTO) PEREIRA " Secretario/MuWmicipal de Administraçao, Art. 1º - O Imposto Sobre a Proprie [| exercigio dade Predial e Territorial Urbana e as Taxas 4 [ 42 EXONERAR, a pedido, nos termos do arti de Serviços Publicos do exercicio de 1995 terao A Fa 2 —inci 2 8, de o lançamento em Unidade Fiscal do — Municipio- A a 8 : ieípio ÁLIDO SOMENTE COMIAETANTIE AÇÃO *s o
+
+Equinta-feira, 02 de março de 1995 [ MUNICIPALIDADES | CIPALIDADES Diário Oficial
+
+Com número de vagas superiores a 50 Art. 29 — Esta emenda entrara PROMULGAÇÃO (cinquenta) veículos, e dá outras em vigor na data de sua publicação providências. revogadas as — disposiçõe em Faço saber que a Câmara contrário Municipal de Manaus aprovou, E eu Art. 19 - Os estabelecimentos de PROMULGO, nos termos dos Artigos SHOPPING-CENTERS, LOJAS DE Manaus, 21 de fevereiro de 133, 220, parágrafo 39, do Regimento DEPARTAMENTO, SUPERMERCADOS e de 1995. Interno, Artigo 57, parágrafo 20, da EMPRESAS que operem ou disponham de Lei Orgânica do Município de Manaus, área ou local testinado a a seguinte: estacionamentos, — no âmbito — do Município de Manaus, cujo número de
+
+. EMENDA À LOMAM NO 06/94 vagas seja superior à 50 (cinquenta) IFAQA=Ê7,., ” Á r veículos, ficam obrigados à efetuar = Modifica o Parágrafo Único, do cobertura de seguro contra furto e Ver. MAURICIO G. DE RAC. FILHO Art. 270 da Lei Orgânica do roubo dos automóveis ali Presidente, xercício Município de Manaus, que tem a estacionados. A AS - seguinte redação: Parágrafo OÔnico - Os veiculos, Ver. MEGUE NETO quando indenizados, deverão ser, 29 LTC Parágrafo Ônico - O passe de que obrigatoriamente, pelo valor de ULUXS trata o " caput deste artigo tem mercado na data do pagamento Ver. ROSALENE PINHEIRO DE LIMA 1 utilização regulamentada por lei Art. 209 — Os estabelecimentos, de 1à Secretária 1 é 1a venda se procederá — sem que trata à presente Lei deverão o So wstauer — desconto — nás — agências equipar-se, para salvadquarda tea Ver. FLAVIANO HI DE ARACJO bancárias oficiais, passará à ter à direitos — e ressarcimentos de 29 Secretârit/ seguinte forma:
+
+inist .
+
+Art. 270 = ..1212200020o eventual sinistro, com sistema de . Parágrafo Único - O passe de que
+
+veículos e plsca para à comprovação 1 utilização regulamentada — por do estacionamento do mesmo. lei Parágrafo Ônico - O comprovante Manaus, 21 de fevereiro 1995. a ser fornecido deverá estar de o——> o 7, A ESA seguradora, tornando-se prova hábil PROMULGAÇÃO Ver. MAURÍCIO G. DE MOURA C. FILHO em juizo. Presidente, e: rcício Art. 30 = A infração à presente FAÇO saber que a Câmara Lei sujeitará o infrator à multa Municipal de Manaus aprovou, & eu ver. M - correspondente a 100 (cem) UFMS. PROMULGO, nos termos dos artigos 65 20 - VieelPresidente Art. 49-0 cumprimento desta e prágrafos, da Lei Orgânica do LUA Lei será exercido pelo Executivo, o Município de Manaus, 219, e ver. ROSALT NHEIRO DE LIMA qual, no prazo de 30 (trinta) dias, parágrafos, e 220, 86 209, do 18secretárias, | à
+
+partir da vigência da mesma, Regimento Interno, observado, ainda, L Pá estabelecerá regulamentação para sua o disposto do Artigo 256 do ver. FrAvÃA o BI VAQUA execução. Regimento Interno, a seguinte: 20 Secretário art. 59 - Esta Lei entrara em vigor na data de sua publicação, LEI PROMULGADA NO 09/95, DE : revogadas — as — disposições — em 21.02.95. [À Far] 062 3 contrário
+
+Manaus, 21 de fevereiro de . DISCIPLINA o tempo de 2 A estacionamento de veículos na frente GG, 7 “ de farmácias e similares. Ver. MAURÍCIO É. DEZMOURA FILHO : Ini Presidênte, ercício Art. 19 = Fies anrantido Prefeitura Municipal quatque cidadão condutor de [H HA . CG diiculos, estacionar à mesmo em de Presidente Figueiredo ver. TE NETO frente às drogarias, farmácias « |RCC| 20 Vice-Presidente imilares, pelo espaço de 15
+
+minutos, desde que à iniciativa se UO2 destine a consulta ou aquisição de EXTRATO Vera. ROS) INHEIRO DE LIMA medicamento: 12 Secretária Art. 29 - Para beneiiciar se do ESPECIE: Contrato nº Ol, celebrado em — 16. Ss nr Ve ' beneficio previsto — no artioo 01.95 anterior, o motorista devera manter =: 1 . . Ver. FLAVIANO BTVAQUA ÍDE/ ARAUJO o verculo com o pisca-alerta 1igado PARTES: Municipio de Presidente Figueiredo e 29 Secretário durante o tempo permitido Voyager - Agencia de Viagens e Turismo Ltda. comprovando tratarose de uma OBJETO: Fornecimento de 50 bilhetes de — pas o 6 2 0 tmergência sagens aéreas para diferentes trechos. Art. 39 = O Lempo de 15 minuto VALOR: R$ 27.959,38 ao o ado A o DOTAÇÃO: Outros Serviços e Encargos do Gabi trânsito, da Polícia Militar, à quem nete do Prefeito.
+
+caberas contar o tempo, FUNDAMENTO: Carta Convite nº 03/95. PROMULGAÇÃO independentemente de queixa adotando, ae providência cabiveis, a partir da multa correspondente Presidente Figueiredo, 16 de Fevereiro de Faço saber que a Câmara Art. 40 - Em caso de multa, ou 1995 Municipal de Manaus aprovou, e eu de outras penal idades, o allen Honne A rh PROMULGO, nos termos dos Artigos procedimento será feito de acordo Lífiêm Ivorme Abozaglo Martins. 133, 220, parágrafo 39, do Regimento com a legislação am vigor, Presidente da CML. Interno, Artigo 57, parágrafo 20, da especialmente no que respeita a Lei Orgânica do Município de Manaus, assinatura da multa, por parte do 2 Faz] 0632 a seguinte: infrator, "ou da citação de duas Les teununhar no caso de TCCUSa ou retirada do focal EMENDA À LOMAM NQ 10/94 Art. 59 - Tr astabelacinento imilar entende-se o que se destina, Modifica o Art. ET) das de oo HA 1 ma '; a fabricação, verda Disposições Transitórias da Lei ou doaçãode wmadicamentos. como, o ( ) : . |: ; Orgânica do Município de Manaus, e laboratório cs centrais de Ss ez 1a dentes acrescenta Parágrafo Único. medicamentos, et . Art. 60 —- Fita lei entiraro em o D
+
+| a“ . Art. 19 - O Artigo 90 das vigor na sata de sua publicação, | D apr ( | q. | DISPOSIÇÕES TRANSITÓRIAS da Lei revogada as disposições em 00 IN leal, Orgânica do Município de Manaus contrário nemandamentos e reduza oe custos da passa à vigorar com à seguinte Siga ce mandamentos e reduza os custos da publicação. redação, acrescentada de um Parágrafo nico. Manaus, 21 fevereiro de PU 1 gotene o gabarto folna-pedrão para textos do Diário GOO, <A 7 TI Datnografeo texto em espaço 1 (um) "ATO pas DISPOSIÇÕES ver ipa baATA DE dação IT Utiize máquina de escrever com tipos limpos e claros. TRANSITÓRIAS. IV Detilografe com fa preta. Art. 99 - À viúva ou viúvo, esposa ou esposo, companheira Ou ver. Casar V Daetilografe os títulos em letrasmalúsculas, companheiro, de Vereador falecido no 20 Vice-Aresidente VI Evite erros dedatiografia e rasuras, exercício do mandato, ou considerado NÃo em estado de invalidez permanente, A MTTVIR VIT Utiize espaço duplo entre os títulos e o texto, também durante o mandato, " jevida vera. Rosario DE LIMA VIIF Aproveite toda a área demarcada para o texto. ensão — mensal equivalente ao ári Abeidio o as Ma e enta, 9 18 Secretária 1 TX Datiografe rente às margens, sem ultrapassá-las. reajustado na forma da lei. SD . X. Observerigorosamente os horários para entrega Parágrafo Onico- A invalidez Ver. FLAVIANO BIVAQUÁ DE ARAÚJO das suas mensagens ou anúncios. (de 7:00 às 13:00hs) permanente será comprovada na forma 20 Secretário do Art. Z18 do Regimento Interno Lg tu ' 1 str desta —Câmara Municipal. Com o S V/DTONSTOI = OMAN ENA ÃO, benefício sendo pago a partir do termino do mandato” Aratj0622
