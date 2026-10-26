@@ -13,8 +13,8 @@ para a publicação original. Segue o mesmo formato de [ctresb/leis](https://git
 | Fonte | Cobertura | Situação |
 | --- | --- | --- |
 | [Diário Oficial dos Municípios do AM (AAM/SIGPub)](https://www.diariomunicipal.com.br/aam/) | 61 municípios, sem Manaus; prefeituras e câmaras; matérias desde 2009 | 9.258 leis (`scripts/aam.py`) |
-| [SAPL da Câmara Municipal de Manaus](https://sapl.cmm.am.gov.br) | Manaus, leis desde os anos 1940 (7.532 leis no SAPL em 16/10/2026) | em coleta (`scripts/sapl.py`) |
-| SAPL das câmaras (`sapl.<municipio>.am.leg.br`) | 9 câmaras com normas cadastradas: Coari, Codajás, Envira, Iranduba, Manacapuru, Manicoré, Novo Airão, Parintins e Tefé (6.962 leis; outras ≈ 20 câmaras têm o sistema vazio) | em coleta (`scripts/sapl.py`) |
+| [SAPL da Câmara Municipal de Manaus](https://sapl.cmm.am.gov.br) | Manaus, leis desde os anos 1940 (7.532 leis no SAPL em 16/10/2026) | completo, 0 faltando no `sapl.py verificar` (17/10/2026) |
+| SAPL das câmaras (`sapl.<municipio>.am.leg.br`) | 9 câmaras com normas cadastradas: Coari, Codajás, Envira, Iranduba, Manacapuru, Manicoré, Novo Airão, Parintins e Tefé (6.962 leis; outras ≈ 20 câmaras têm o sistema vazio) | completo, 0 faltando no `sapl.py verificar` (17/10/2026) |
 
 Nos municípios que estão nas duas fontes, a mesma lei pode aparecer duas vezes (uma do diário, uma do SAPL), lado a
 lado na mesma pasta. O sufixo do arquivo diz a origem: `-<codigo_sigpub>.md` (AAM) ou `-sapl<id>.md` (SAPL).
