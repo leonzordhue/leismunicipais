@@ -8,6 +8,7 @@ Etapas (as duas retomam de onde pararam):
   python -I scripts/aam.py baixar   — baixa o HTML de cada lei e grava municipais/AM/<municipio>/<tipo>/<ano>/*.md
   python -I scripts/aam.py tudo
   python -I scripts/aam.py indice Parintins   — só as entidades cujo nome contém o texto (teste)
+  python -I scripts/aam.py atualizar 2026-10-15 — rebusca todas as entidades a partir da data e baixa as novas
 
 Ritmo: 1 requisição por vez, com pausa (PAUSA), para não pesar no servidor da AAM.
 """
@@ -100,10 +101,11 @@ def campo(rx, s):
     return html.unescape(re.sub(r"\s+", " ", m.group(1))).strip() if m else ""
 
 
-def indice(filtro=""):
+def indice(filtro="", desde=""):
+    """desde (aaaa-mm-dd): atualização; rebusca todas as entidades só a partir dessa data (o baixar ignora repetidas)."""
     os.makedirs(INDICE, exist_ok=True)
     feitos_f = os.path.join(INDICE, "aam_entidades_ok.txt")
-    feitos = set(open(feitos_f, encoding="utf-8").read().split("\n")) if os.path.exists(feitos_f) else set()
+    feitos = set(open(feitos_f, encoding="utf-8").read().split("\n")) if os.path.exists(feitos_f) and not desde else set()
     ents = [e for e in entidades() if filtro.lower() in e[1].lower()]
     print(f"{len(ents)} entidades (municípios e câmaras); já feitas: {len(feitos & {e[0] for e in ents})}", flush=True)
     with open(os.path.join(INDICE, "aam.jsonl"), "a", encoding="utf-8") as out:
@@ -112,7 +114,7 @@ def indice(filtro=""):
                 continue
             pagina, total, n = 1, None, 0
             while True:
-                q = {"busca_avancada[dataInicio]": "2009-01-01", "busca_avancada[dataFim]": HOJE,
+                q = {"busca_avancada[dataInicio]": desde or "2009-01-01", "busca_avancada[dataFim]": HOJE,
                      "busca_avancada[titulo]": "LEI", "busca_avancada[entidade]": eid,
                      "busca_avancada[ordenacao]": "", "busca_avancada[pagina]": str(pagina), "busca_avancada[Enviar]": ""}
                 p = get(SITE + "/aam/pesquisar?" + urllib.parse.urlencode(q))
@@ -136,8 +138,9 @@ def indice(filtro=""):
                     break
                 pagina += 1
             out.flush()
-            with open(feitos_f, "a", encoding="utf-8") as f:
-                f.write(eid + "\n")
+            if not desde:
+                with open(feitos_f, "a", encoding="utf-8") as f:
+                    f.write(eid + "\n")
             print(f"  {nome}: {n} matérias", flush=True)
 
 
@@ -256,6 +259,8 @@ def baixar():
         num, ano = numero_ano(d["titulo"])
         circ = d["circulacao"]  # dd/mm/aaaa
         data_pub = f"{circ[6:10]}-{circ[3:5]}-{circ[0:2]}" if re.match(r"\d\d/\d\d/\d{4}", circ) else ""
+        if ano and int(ano) > int(HOJE[:4]) + 1:  # erro de digitação no título ("307/21013", "02/2105")
+            ano = data_pub[:4]
         ano = ano or data_pub[:4] or "sem-ano"
         nome = f"{slug(tipo).split('-')[0]}-{num or 'sn'}-{ano}-{d['codigo']}.md"
         destino = os.path.join(SAIDA, slug(mun), pasta, ano, nome)
@@ -346,7 +351,10 @@ if __name__ == "__main__":
         os.system("title Leis municipais do AM - baixando")
     if etapa in ("indice", "tudo"):
         indice(sys.argv[2] if len(sys.argv) > 2 else "")
+    if etapa == "atualizar":  # python -I scripts/aam.py atualizar 2026-10-15
+        indice("", sys.argv[2])
+        baixar()
     if etapa in ("baixar", "tudo"):
         baixar()
-    if etapa not in ("indice", "baixar", "tudo"):
+    if etapa not in ("indice", "baixar", "tudo", "atualizar"):
         print(__doc__)
